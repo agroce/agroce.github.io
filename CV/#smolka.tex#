@@ -1,0 +1,209 @@
+\documentclass[fleqn,11pt]{article}
+
+\usepackage[dvips]{epsfig,graphics,color}
+\usepackage{times}
+\usepackage{xspace}
+\usepackage{url}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+
+\setlength{\topmargin}{-0.5in}
+%\newcommand{\sht}{\\[-.24in]}
+\newcommand{\sht}{\vspace{-.24in}}
+\renewcommand{\textfraction}{.1}
+\renewcommand{\topfraction}{.80}
+\renewcommand{\bottomfraction}{.80}
+\newtheorem{Example}{Example}
+
+\newcommand\nin{\noindent}
+\newcommand\bd[1]{\mbox{\bf #1}}
+\newcommand{\emm}[1]{{\em #1}}
+\newcommand{\figr}[1]{Figure~\ref{fig:#1}}
+\newcommand{\figl}[1]{\label{fig:#1}}
+\newcommand{\secr}[1]{Section~\ref{sec:#1}}
+\newcommand{\secl}[1]{\label{sec:#1}}
+\renewcommand{\$}[1]{$#1$}
+\newcommand{\ignore}[1]{}
+\newcommand{\dollar}{{\rm \char'44}}
+\newcommand\pll{\mathop{\Vert}}
+\newcommand\otc{{\sf Ots}\xspace}
+\newcommand\ots{{\sf Ots}\xspace}
+\newcommand{\bpel}{{\sc Bpel4ws}\xspace}
+\newcommand{\bpw}{{\sc Bps4j}\space}
+\newcommand{\xml}{{\sc xml}\xspace}
+\newcommand{\hrm}{{\sc hrm}\xspace}
+\newcommand{\hhm}{{\sc hhm}\xspace}
+\newcommand{\svc}{{\sc svc}\xspace}
+
+%\newcommand{\numsupported}{10}
+
+%\input{lmacs}
+
+\begin{document}
+
+\begin{center}
+{\Large\bf Scott A.\ Smolka}
+\end{center}
+
+\subsection*{Professional Preparation}
+
+\begin{tabular}{lllr}
+Boston University & Mathematics & A.B.& 1975\\
+Boston University & Mathematics & A.M.& 1977\\
+Brown University & Computer Science & Ph.D.& 1984\\
+\end{tabular}
+
+\subsection*{Appointments}
+
+\begin{tabular}{ll}
+1999--     & President, Reactive Systems, Inc.\\
+1995--     & Prof. of Comp. Sci., SUNY at Stony Brook\\
+1988--1995 & Assoc. Prof. of Comp. Sci., SUNY at Stony Brook\\
+1982--1988 & Asst. Prof. of Comp. Sci., SUNY at Stony Brook\\
+\end{tabular}
+
+\subsection*{Five Publications Most Closely Related to the Proposed
+Project}
+%\sht
+\begin{enumerate}
+\item
+P. Ye, E. Entcheva, S.A.~Smolka and R. Grosu.  Modeling Excitable Cells Using
+Cycle-Linear Hybrid-Automata.  {\em Journal of IET Systems Biology\/},
+Vol.~2, Issue~1, pp.~24-32 (January 2008).
+\item
+R. Grosu, E. Bartoci, F. Corradini, E. Entcheva, S.A.~Smolka and A. Wasilewska.
+Learning and Detecting Emergent Behavior in Networks of Cardiac Myocytes.
+{\em Proceedings of HSCC'08, the 11th International Conference on Hybrid
+Systems: Computation and Control\/}, St. Louis, MO, Springer, LNCS Vol.~4981
+(April 2008).
+\item
+S. Basu and S.A. Smolka.  Model Checking the Java Meta-Locking Algorithm.
+{\it ACM Transactions on Software Engineering and Methodology\/}.
+Vol.~16, Issue~3 (July 2007).
+\item
+R. Grosu, S. Mitra, P. Ye, E. Entcheva, IV Ramakrishnan and S.A.~Smolka
+Learning Cycle-Linear Hybrid Automata for Excitable Cells.  {\em Proceedings
+of HSCC'07, the 10th International Conference on Hybrid Systems: Computation
+and Control\/}, Pisa, Italy, pp. 245-258, Springer, LNCS Vol.~4416 (April
+2007).
+\item
+R. Grosu and S.A.~Smolka.  Monte Carlo Model Checking.
+{\em Proceedings of TACAS 2005: Eleventh International Conference on
+Tools and Algorithms for the Construction and Analysis of Systems},
+Lecture Notes in Computer Science, Vol.~3440, pp.~271-286, Springer-Verlag
+(April 2005).
+\end{enumerate}
+
+\subsection*{Five Other Significant Publications}\
+%\sht
+\begin{enumerate}
+\item
+E. Bartocci, F. Corradini, E. Entcheva, R. Grosu and S.A.~Smolka.
+CellExcite: An Efficient Simulation Environment for Excitable Cells.
+{\em BMC Bioinformatics\/}, {\bf 9}(Suppl~2):53 (March 2008).
+\item
+P. Yang, C.R.~Ramakrishnan, and S.A.~Smolka,
+A Logical Encoding of the $\pi$-Calculus:  Model Checking Mobile
+Processes Using Tabled~Resolution.
+{\it International Journal on Software Tools for Technology Transfer (STTT)\/},
+Vol.~6, No.~1, pp.~38-66, Springer-Verlag (July 2004).
+\item
+D. Hansel, R. Cleaveland, and S.A. Smolka.  Distributed
+Prototyping from Validated Specifications.  {\em Journal of
+Systems and Software\/}, Vol.~70, Issue~3, pp.~275--298 (March
+2004).
+\item
+Y. Dong, X. Du, G. J. Holzmann and S.A. Smolka.  Fighting
+Livelock in the GNU i-Protocol: A Case Study in Explicit-State
+Model Checking.  {\it Software Tools for Technology Transfer\/},
+Vol.~4, Issue~2, 2003.
+\item
+Co-Inventor, U.S.\/ Patent No.~6,385,765,
+``Specification and Verification for Concurrent Systems with Graphical and
+Textual Editors''  (May 2002).
+\end{enumerate}
+
+\subsection*{Synergistic Activities: Five Examples}
+\begin{enumerate}
+\item
+Developed, along with Michael Kifer, the OSP and OSP~2 courseware for
+teaching undergraduate operating systems.  OSP, which has been
+used in over 100 institutions worldwide since 1991, is available
+via anonymous ftp from \verb+ftp.cs.sunysb.edu/~ospftp/+.  The OSP
+users guide is published as {\it OSP:  An Environment for
+Operating System Projects}, Addison-Wesley, Reading, MA (1991).  A 2007
+textbook on OSP~2, entitled \emph{Introduction to Operating System Design and
+Implementation: The OSP 2 Approach}, has been published by Springer Verlag.
+\item
+Developed, along with Paris C.~Kanellakis, what has come to be known
+as \emph{KS-partitioning}, the first algorithm for deciding
+bisimulation equivalence of finite-state processes.
+\item
+One of the developers, along with C.R.\ Ramakrishnan, I.V.\
+Ramakrishnan and D.S.\ Warren, of the XMC model checker.  XMC is a
+research tool developed with the support of NSF ESS grant
+CCR-9705998 and is available on the web at
+\url{http://www.cs.sunysb.edu/~lmc/}.
+\item
+Member: Editorial boards for ACM TOCL, STTT, LMCS and FMSD; Steering
+committee for the CONCUR conference series; and IFIP Working Groups~2.2
+(member emeritus) and~1.8.
+\item
+Co-Founder and President of Reactive Systems, Inc., which sells tools and
+services for automated testing \& validation of embedded-software designs
+based on co-founders' federally funded research.
+\end{enumerate}
+
+\subsection*{Collaborators During Last 48 months and Co-Editors During Last 24 months}
+
+Basu, Samik (Iowa State);
+Cleaveland, Rance (U.\ Maryland);
+Corradini, Flavio (U.\ Camerino, Italy);
+Das, Samir (Stony Brook);
+Dong, Yifei (U.\ Oklahoma);
+Entcheva, Emilia (Stony Brook),
+Goldin, Dina (Brown);
+Grosu, Radu (Stony Brook);
+Kifer, Michael (Stony Brook);
+Mitra, Sayan (California Institute of Technology);
+Ramakrishnan, C.R. (Stony Brook);
+Ramakrishnan, I.V. (Stony Brook);
+Sims, Steven  (Reactive Systems, Inc.);
+Srba, Ji\v{r}\'{i} (Brno University of Technology);
+Stark, Eugene (Stony Brook);
+Stoller, Scott (Stony Brook);
+Tripakis, Stavros (Verimag, France);
+Wasilewska, Anita (Stony Brook);
+Wegner, Peter (Brown);
+Zadok, Erez (Stony Brook)
+
+\subsection*{Graduate and Postdoctoral Advisors}
+
+Kanellakis, Paris, Brown University.
+
+\subsection*{Thesis Advisor and Postgraduate-Scholar Sponsor.}
+
+Total number of doctoral students: 12, total number of postdocs: 4.
+Doctoral students:
+Basu, Samik (Iowa State);
+Bhaskar, Shaji (deceased);
+Dong, Yifei (U. Oklahoma);
+Du, Xioaqun (Cadence);
+Jou, Chi-Chang (affiliation unknown);
+Joung, Yuh-Jzer (National Taiwan Univ.);
+Samik, Basu (Iowa State);
+Oleg Sokolsky (Penn);
+Wu, Sue-Hwey (affiliation unknown);
+Yang, Ping (Binghamton);
+Ye, Pei (Electro-Optical Sciences);
+Zhang, Shipei (Morgan Stanley).
+Postdoctoral scholars sponsored in last five years: none
+%% Kumar, K. Narayan, Chennai Mathematical Institute;
+%% Mukund, Madhavan, Chennai Mathematical Institute;
+%% Roegel, Denis, U. Nancy;
+%% Yuen, Shoji, Nagoya University.
+
+\end{document}

@@ -1,0 +1,400 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<title>Research</title>
+</head>
+<body BGCOLOR=white>
+<h1 ALIGN=CENTER> Research</h1>
+<hr>
+<i>"If it rained knowledge I'd hold out my hand; but I would not give myself the trouble to go in quest of it."<br>- Samuel Johnson (from Boswell's </i>Life of Johnson<i>)</i>
+<hr>
+<h1 ALIGN=CENTER> News: This usually out of date page is now somewhat superseded by the (also usually out of date) page for the <a href = "http://web.engr.oregonstate.edu/~alex/testing/">Oregon State University Software Testing and Analysis Group</a>.  The publications page here is kept up to date, however.
+<hr>
+<H3>
+<b><u>VIEW FROM 30,000 FT.</u>:</b>
+
+My general research interest is in software engineering:
+<i>designing, specifying, implementing, testing, analyzing, verifying,
+understanding,</i> and <i>debugging</i> software written in widely
+used programming languages, such as ANSI C and Java.  My focus is on
+approaches and methods that naturally give rise to (semi-)automated
+tools for programmers, testers, and other software engineers.  The
+power of computer science is in automation -- from design to testing,
+we need better tools to help us write better programs.
+</H3>
+<p>
+<H4>
+My work to date has usually involved some variety of model checking,
+but the specifics have varied from full exploration of highly
+abstracted systems (with MAGIC) to methods more akin to an unusual
+approach to testing (heuristics with JPF, model-driven verification of
+C programs with SPIN).  Years of frustration when attempting to
+understand counterexamples produced by model checkers have convinced
+me that <i>error explanation</i> and <i>fault localization</i> are
+important (and <i>interesting</i>) topics, and my thesis work was an
+investigation of how a model checker can be used not only to find an
+error, but to explain and localize that error.  I made use of distance
+metrics on program executions to find causes for errors, in a manner
+inspired by the counterfactual theory of causality proposed by David
+Lewis.
+<p>
+More recently, at JPL, I have become interested in the connections
+between model checking and (randomized) testing -- including using the
+same models and tools for both, reusing simulation infrastructure, and hybrid
+approaches such as randomized testing with the complete nondeterminism
+of model checking.  More "frivolously" I have also become fascinated
+by the taxonomy and nature of actual bugs in programs, particularly
+file systems.
+<p>
+More generally, I see model checking (like well-done testing)
+primarily as a useful tool for program understanding -- <b><i>the
+investigative side of software engineering</i></b>, if you will.
+Model checking traditionally answers the question: does my (program,
+protocol, design) have a trace like <i>this</i>?  Testing, in a sense,
+answers the same question.  Even at the earliest stages of software
+design, thinking about how to make answering that question easier not
+only eventually aids verification, but helps us think about how a
+program will actually execute.
+
+One interesting possibility to consider is the use of model checking
+and other state-space exploration methods to help visualize the
+executions of a program.  Recent work at IBM has shown the value of
+visualizing memory configurations of large systems; it seems that
+program trace-spaces would also be useful in software engineering and
+performance debugging.
+</H4>
+<hr>
+<hr>
+<b>UPDATE (11/10/10):<b> I'll be chairing <a href = "http://research.microsoft.com/en-us/um/redmond/events/SPIN2011/index.htm">SPIN 2011</a>, co-located with CAV 2011 in Snowbird, UT.
+<p>
+<b>UPDATE (7/1/10):</b> Not updating this site as well as I should... faculty life is busy.  On PC for <a href = "http://www.eecs.ucf.edu/SAVCBS/2010/">SAVCBS 2010</a>, NASA Formal Methods 2011, FASE 2011...  Those research changes mostly involve interest in end-user testing/debugging for machine-learned software, with <a href = "http://web.engr.oregonstate.edu/~burnett/">Margaret Burnett</a> and fellow CMU-er <a href="http://eecs.oregonstate.edu/research/members/wong/index.html">Weng-Keen Wong</a>.
+<p>
+<b>UPDATE (5/1/09):</b> I'll be on the PC for <a href = "http://www.eecs.ucf.edu/SAVCBS/2009/index.shtml">SAVCBS 2009</a>.  I'll probably be changing research directions in some new and exciting ways (though also continuing past work) as a faculty member at Oregon State University, starting later this summer.
+<p>
+<b>UPDATE (1/5/09):</b> I'm on the PC for this year's <a href = "http://www.miroslav-velev.com/cfv09.html">Workshop on Constraints in Formal Verification</a>.  Submit away.
+<p>
+<b>UPDATE (8/5/08):</b> <a href = "cfv08.pdf">Paper</a> for my invited talk at <a href = "http://www.miroslav-velev.com/cfv08.html">CFV'08</a> and <a href = "http://www.uni-koblenz.de/~beckert/verify08/">VERIFY'08</a> gives a nice overview of the file system verification & testing that's occupied my time the last couple of years, and a lot of what LaRS has been up to in general.  Take our conclusions on the success of various methods with a grain of salt -- one lab, a handful of people -- still, I think it's safe to say that for rich properties depending on data, the automated predicate abstraction tools aren't really ready for prime time (unless you have the authors captive, maybe).
+<p>
+<b>UPDATE (6/26/08):</b> I'll be on the PC for <a href = "http://www.eecs.ucf.edu/~leavens/SAVCBS/2008/index.shtml">SAVCBS 2008</a>.  I just (a week ago) joined the MSL Flight Software Internal Test (FIT) team as lead developer/designer for the test automation framework.  I don't know how much "research"y testing will be useful here, but after this I might be more worth listening to when I opine that something does or does not work in testing Actual Important Code.
+<p>
+<b>UPDATE (6/10/08):</b> More papers, first a write-up of some work on
+automated testing of models from AI planners, at <a href =
+"http://www.csc.liv.ac.uk/~mjw/mochart/Site/MOCHART-2008.html">MoChArt
+2008</a>.  More central to what I've been working on lately, there's
+an <a href = "http://www.di.univaq.it/ase2008/">ASE</a> paper, "Random
+Test Run Length and Effectiveness," mostly based on the file system
+testing here at JPL.  Unfortunately, we don't actually propose a
+solution to the problem of selecting an optimal (or even good) test
+run length, but the data does demonstrate pretty convincingly (IMO)
+that this is a major factor in whether random testing is effective for
+a system. This paper wouldn't have been written if not for Carlos
+Pacheco asking an innocent question after my ICSE '07 talk.  Makes me
+wonder what else you have to luck into getting right in order for
+random testing to work (that we're not investigating)...
+<p>
+<b>UPDATE (5/16/08):</b> Papers at <a href =
+"http://www.cs.wisc.edu/woda-2008/">WODA 2008</a> and <a href =
+"http://compilers.cs.ucla.edu/spin08/">SPIN 2008</a>.  First is on
+using SPIN to do both random testing and model checking -- with a
+little comparison of the two.  Also sort of an "advertisement" paper,
+to see if any other dynamic analysis folks want to use SPIN to do this
+kind of thing -- I think we do show that it's pretty darn easy to do.
+The second one's a tool paper on heuristics for finding bugs with SPIN
+(and they do seem to work surprisingly well, perhaps even better than
+the paper suggests, says the slightly dubious third author).  Other
+than that, using the ideas in both these papers to test the heck out
+of the <a href = "http://mars.jpl.nasa.gov/msl/">MSL</a> file storage
+modules, with pretty good results (but we'd like to find EVERY LAST
+BUG before we head to Mars).
+<br>
+<img src = "http://mars.jpl.nasa.gov/msl/gallery/video/images/MSL17_Lab_on_Gr_Attached_th169x97.jpg">
+<p>
+<b>UPDATE (4/14/08):</b> I'll be the invited speaker at the <a href =
+"http://www.miroslav-velev.com/cfv08.html">Constraints in Formal
+Verification 08</a> workshop in Australia this August, where I'll discuss "Putting Flight Software Through the Paces with Testing, Model Checking, and Constraint-Solving."
+<p>
+<b>UPDATE (2/19/08):</b> Klaus Havelund and I will be teaching <i>CS
+119 Reliable Softare: Testing and Monitoring</i> at Caltech starting
+April 1st.  Should be enjoyable --- perhaps I'll know more about how to test sotware after we're done...
+<p>
+<b>UPDATE (2/5/08):</b> Congratulations to my advisor, <a href =
+"http://www.cs.cmu.edu/~emc">Ed Clarke</a>, who won this year's <a
+href =
+"http://www.acm.org/press-room/news-releases/turing-award-07">ACM
+Turing Award</a> (along with Emerson and Sifakis) for inventing model checking!
+<p>
+<b>UPDATE (1/12/08):</b> Presented "Extending Model Checking with
+Dynamic Analysis" at <a href = "http://www1.cs.uic.edu/vmcai08/index.php">VMCAI '08</a>.  Preparing a talk on the same rough
+topic for this year's <a href =
+"http://www.cs.pomona.edu/SoCal2008/program.html">SoCal Workshop on
+Programming Languages and Systems</a>, and giving a talk on some
+similar themes (at a high level) at Caltech on the 19th.  In general,
+this is all looking at the places where model checking and testing
+intersect -- when state spaces are too large, and properties too rich
+(full functional correctness of a file system, for example) for
+automated abstraction, what can we do?  Random testing is useful (I'm
+looking at how to wisely carve up a test budget into test runs, with
+Jamie Andrews at Western Ontario and RuGang Xu, summer intern '07 from
+UCLA), but explicit-state model checking with the expectation that you
+won't cover the whole state space seems better for programs well fit
+for a small nondeterministic harness.  Where do "design for
+testability" and "design for verification" lead?  Not, probably, to
+programmers working with temporal logic or theorem provers.
+<p>
+<hr>
+<b>UPDATE (1/5/07):</b> "Randomized Differential Testing as a Prelude
+to Formal Verification" was accepted for publication at <a href =
+"http://web4.cs.ucl.ac.uk/icse07/">ICSE 2007</a>.  I will be on the
+program committee for <a href =
+"http://andorfer.cs.uni-dortmund.de/~edelkamp/spin/">SPIN 2007</a>.  I
+was on the PC for the first international workshop on <a href =
+"http://www.easychair.org/FLoC-06/V&D.html">Verification and
+Debugging</a>, at CAV this year, which was a lot of fun.
+<p>
+<hr>
+<b>UPDATE (12/11/05):</b> "Exploiting Traces in Program Analsyis"</a> was accepted for publication at <a href = "http://depend.cs.uni-sb.de/index.php?id=329">TACAS 2006</a>.
+<p>
+<hr>
+<b>UPDATE (11/5/05):</b> Still working at JPL; still learning the
+ropes -- what is involved in this complicated beast they call flight
+software?  I've been working on various things, including (with Rajeev
+Joshi) analysis (well, bounded model checking in the implementation)
+of a program given the knowledge that it produced a given trace -- in
+a sense, slicing with a series of printfs produced as the slicing
+criteria.
+<p>
+Enjoying reading Andreas Zeller's <a href = "http://www.whyprogramsfail.com"><i>Why Programs Fail</i></a>.
+<p>
+I'll be on the program committee for the <a href =
+"http://www.ist.tugraz.at/vandd.html">1st International
+Workshop on Verification and Debugging</a> (the site's a bit
+preliminary right now), to be held with <a href =
+"http://research.microsoft.com/floc06/cav.htm">CAV '06</a> as part of
+<a href = "http://research.microsoft.com/floc06/">FLOC</a>.  
+<p>
+<hr>
+<p>
+A list of my <a href = "pubs.html">publications</a> is available.
+<hr>
+<p>
+My research is associated with or I'm directly working on the
+following tools, which are available for download:
+<p>
+<ol>
+<li>
+<a href = "http://www-2.cs.cmu.edu/~modelcheck/cbmc/">
+<h1>CBMC</h1>
+</a><p>
+<code>CBMC</code> is a bounded model checker for ANSI-C programs. It
+provides verification for array bounds, pointer safety, exceptions and
+user-specified assertions.
+<p>
+<b>Coming soon:</b> I will be releasing the <b>explain</b> tool for use in understanding counterexamples produced by CBMC.
+<hr>
+</li>
+<li>
+<a href = "http://www-2.cs.cmu.edu/~chaki/magic/index.html">
+<h1 style="text-decoration: underline;"><small><small><small><small><i><big><big><big><font
+ color="#3333ff">MAGIC</font>: <font
+ color="#ff0000">M</font>odular <font color="#ff0000">A</font>nalysis
+of pro<font color="#ff0000">G</font>rams<font color="#ff0000">I</font>n<font
+ color="#ff0000"> C</font></big></big></big></i></small></small></small></small></h1>
+<a><p>
+MAGIC is a tool for compositional verification of (concurrent) ANSI-C programs, based on a two-level CounterExample-Guided Abstraction Refinment (CEGAR) approach.
+<p>
+I worked with Sagar Chaki, Ofer Strichman, and Edmund Clarke on the
+predicate minimization algorithm used in MAGIC, and am now
+implementing distance metric-based error explanation for MAGIC.
+<hr>
+</li>
+<li>
+<a href = "http://ase.arc.nasa.gov/visser/jpf/">
+<h1>
+<b><font color="#CC0000"><font size=+4>Java PathFinder</font></font></b></h1>
+</a><p>
+The Java PathFinder is a tool based on a novel Java Virtual Machine (JVM) allowing model checking and testing of Java bytecode programs.  I worked with NASA Ames Research Center's <a href = "http://ase.arc.nasa.gov/">Automated Software Engineering</a> group on JPF over two summers as a participant in the <a href = "http://icarus.riacs.edu/ssrp/">Summer Student Research Program</a>.
+<hr>
+</li>
+<br>
+In the past, I also worked on these tools:<br>
+<br>
+<li>
+<a href = "http://www.cs.sunysb.edu/~cwb/">The Concurrency Workbench (CWB-NC)<a><br>
+<hr>
+</li>
+<li>
+<a href = "http://www-2.cs.cmu.edu/~modelcheck/symp.html">SYMP</a><br>
+</li>
+</ol>
+<p>
+<hr>
+<b>UPDATE (4/27/05):</b> I started work at JPL on Monday; so far, so good.  STTT journal paper on explanation accepted, and starting work on some new topics now.  Lots of very cool things going on at LaRS.
+<p>
+In other news, JPF was open sourced today!  It took a while, but Willem and Jon and Peter did it; way to go, guys.  The release is <a href = "http://javapathfinder.sourceforge.net/">here</a>, and the Slashdot story(!) is <a href = "http://science.slashdot.org/science/05/04/27/1510204.shtml?tid=160&tid=156&tid=185">here</a>.  Even I felt the effects -- factor of 10 or more boost in hits on my home page today.  I guess Java model checking is famous now?
+<p>
+<hr>
+<H3> Pre-JPL Updates & Information </H3>
+<hr>
+<a href = "http://www.cs.cmu.edu/~emc">
+Dr. Edmund Clarke</a> was my advisor at CMU.  I research software
+engineering and formal verification, particularly <a href =
+"http://www.cs.cmu.edu/~modelcheck/"> model checking</a>.  I graduated
+in March 2005, and can now be found working at the <a href =
+"http://eis.jpl.nasa.gov/lars/">Laboratory for Reliable Software
+(LaRS)</a> at the <a href = "http://www.jpl.nasa.gov/">Jet Propulsion
+Laboratory</a>.
+<hr>
+My undergraduate research involved
+an ABTA (Alternating Buchi Tableau Automata) based model-checker for the 
+<a href = "http://www.cs.sunysb.edu/~cwb/">
+Concurrency Workbench of the New Century</a> and simplifications to
+ABTAs produced from tableau rules for GCTL* (a modification of the
+temporal logic CTL*) and the L2 fragment of the mu-calculus that make
+ABTA model-checking more efficient.  The model-checking algorithm is a
+modification of the one described in Girish Bhat's Ph.D. thesis.  <a
+href = "http://www.cs.sunysb.edu/~rance">Dr. Rance Cleaveland</a>
+directed this research, and has been astonishingly helpful throughtout
+my career in higher education.  Our paper "Efficient Model Checking
+Via B&uuml;chi Tableau Automata" was published in the proceedings of <a
+href = "http://www.lsv.ens-cachan.fr/cav01/">CAV '01</a>.
+<p>
+In the past at CMU I worked some on Sergey Berezin's 
+<a href = "http://www.cs.cmu.edu/~modelcheck/symp.html">
+SyMP</a> system, although Sergey ended up spending more time fixing my
+code than it would have taken to write it himself, I suspect.
+<p>
+
+<b>UPDATE (6/16/00):</b>  This summer I'm working with 
+<a href = "http://www.cs.bell-labs.com/who/mihalis/">
+Mihalis
+Yannakakis</a> and 
+<a href = "http://www.cs.bell-labs.com/who/doron/index.html">
+Doron Peled</a>
+at Lucent/Bell Labs on 
+<a href = "http://www.cs.rice.edu/~vardi/papers/pstv99.ps.gz">
+black box checking</a>.
+<p>
+<b>UPDATE (8/29/00):</b>  Back at CMU, but continuing work on black-box
+checking as well as other things.
+<p>
+<h3>SOFTWARE MODEL CHECKING</h3>
+<b>UPDATE (8/16/01):</b>  About to leave NASA Ames Research Center, where I've been working on heuristic search for the <a href = "http://ase.arc.nasa.gov/visser/jpf/">JAVA PathFinder 2</a> with <a href = "http://ase.arc.nasa.gov/visser/">Willem Visser</a> and the other members of the Automated Software Engineering group.  I plan to continue this work during the year; the results so far have been very good, and there remain many avenues to explore.
+<p>
+<b>UPDATE (1/16/02):</b> A couple of papers to be published: <a href = "http://www.cs.cmu.edu/~agroce/tacas02.pdf">"Adaptive Model Checking,"</a> by myself, Doron Peled, and Mihalis Yannakakis, to be
+published in the proceedings of <a href =
+"http://www.dcs.ed.ac.uk/tacas2002/"> TACAS 2002</a> and <a href =
+"spin02.pdf">"Heuristic Model Checking for Java Programs,"</a> with
+Willem Visser, to be published in the proceedings of <a href =
+"http://tele.informatik.uni-freiburg.de/spin2002/"> SPIN 2002</a>.
+<p>
+<b>UPDATE (4/26/02):</b> <a href = "issta02.pdf">"Model Checking Java Programs
+using Structural Heuristics"</a> will appear in <a href =
+"http://www.iei.pi.cnr.it/ISSTA2002/issta02frame.htm"> ISSTA
+2002</a>.  As the semester finishes at CMU, I'm working with Sagar Chaki on predicate abstraction, in particular analyzing automatically discovered predicates, before returning to NASA Ames this summer.
+<p>
+<b>UPDATE (2/14/03):</b> A couple more papers to be published: <a href
+= "icse03.pdf">"Modular Verification of Software Components in C,"</a>
+by Sagar Chaki, Edmund Clarke, Alex Groce, Somesh Jha, and Helmut
+Veith, to be presented at <a href =
+"http://cs.oregonstate.edu/icse2003/"> ICSE 2003</a> and <a href =
+"spin03.pdf">"What Went Wrong: Explaining Counterexamples,"</a> with
+Willem Visser, to appear in <a href
+="http://research.microsoft.com/projects/spin2003/"> SPIN 2003</a>
+(SPIN is being held after ICSE this year).
+
+I'm currently investigating optimization for predicate abstraction (for
+<a href = "http://www.cs.cmu.edu/~chaki">Sagar Chaki</a>'s MAGIC tool) and methods for automatically explaining
+counterexamples, possibly in the world of autonomous systems.
+<p>
+<b>UPDATE (5/12/03):</b> Wednesday, May 21st, at 10:00 AM in WH 5409,
+I will be presenting my thesis proposal, on the topic: "Explaining
+Counterexamples: Causal Analysis and Comparison of Transition
+Sequences" <b><a href = "propabs.html">(abstract)</a></b>.  My
+committee members are Edmund Clarke, David Garlan, Reid Simmons, and
+Willem Visser.
+<br>
+<br>
+<a href = "icse03.pdf">"Modular Verification of Software Components in
+C"</a> was one of two ICSE ACM SIGSOFT Distinguished Paper Award
+winners.  <a href = "http://www.cs.cmu.edu/~chaki/magic">The MAGIC tool</a> 
+has been officially released.
+<p>
+<b>UPDATE (6/13/03):</b> My thesis topic has been approved and I am
+continuing work on my approach for explaining (and possibly
+automatically suggesting fixes for) errors in programs.
+<br>
+<br>
+<a href = "charme03.pdf">"Predicate Abstraction with Minimum
+Predicates"</a> was accepted for publication in <a href = "http://www.di.univaq.it/charme2003/">CHARME 2003</a>.
+<p>
+<b>UPDATE (8/03/03):</b> Initial implementation of error explanation
+within the <a href =
+"http://www-2.cs.cmu.edu/~modelcheck/cbmc/">CBMC</a> bounded
+model-checker for ANSI-C programs is complete, but lacking a number of
+features.  CBMC is available now for download, and I hope to have an
+alpha release of error explanation capabilities before too long.
+Better handling of arrays and structures and integration with the GUI
+are the only major features needed before release.
+<p>
+<b>UPDATE (11/21/03):</b> I'll be attending <a href =
+"http://www.dagstuhl.de/03491/index.en.phtml">Dagstuhl Seminar 03491,
+Understanding Program Dynamics</a> right after Thanksgiving,
+presenting my work on error explanation with distance metrics.
+<p>
+"Efficient Verification of Sequential and Concurrent C Programs," by
+Sagar Chaki, Edmund Clarke, Joel Ouaknine, Ofer Strichman, Karen
+Yorav, and myself, has just been accepted for publication in the
+special Software Model Checking issue of <i>Formal Methods in System
+Design</i>.  <a href = "sttt04.pdf">"Heuristics for Model Checking Java Programs"</a> by Willem Visser and myself has been accepted for publication in <i>Software Tools for Technology Transfer</i>.
+<p>
+The <b>explain</b> tool is ready for release, but I haven't gotten
+around to it yet, and would like to better integrate it with the CBMC
+GUI before putting it on the website.
+<p>
+<b>UPDATE (12/12/03):</b> <a href = "tacas04.pdf">"Error Explanation with Distance Metrics"</a>
+was accepted for publication in TACAS 2004.
+<p>
+<b>UPDATE (3/26/04):</b> <a href = "cav04.pdf">"Understanding Counterexamples with <i>explain</i>"</a>
+was accepted for publication in CAV 2004.  I'm off tomorrow to Barcelona for ETAPS to present the distance metric paper.  In the meantime, I've implemented distance metric based error explanation for <a href = "http://www.cs.cmu.edu/~chaki/magic">MAGIC</a>, and it's working quite nicely.
+<p>
+I forgot to mention the journal version of the ICSE paper also being accepted (see <a href = "pubs.html">publications page</a>).
+<p>
+<b>UPDATE (6/11/04):</b> <a href = "fse04.pdf">"Explaining Abstract Counterexamples"</a> will appear at <a href = "http://www.isr.uci.edu/FSE-12/">FSE</a> (Foundations of Software Engineering) in November.  <a href = "bmc04.pdf">"Making the Most of BMC Counterexamples"</a> has been accepted for <a href = "http://bmc04.inf.ethz.ch/">BMC'04</a>, the second workshop on Bounded Model Checking.
+<p>
+<b>UPDATE (2/17/05):</b> I've scheduled a thesis defense for March 3rd
+(two weeks from now) and will be starting work at JPL's 
+<a href = "http://eis.jpl.nasa.gov/lars/">Laboratory for Reliable Software (LaRS)</a> as soon as I finish up at CMU (and move to
+California).  It should be a great opportunity to do some serious model
+checking research with real-world (and other-worldly!) examples.
+<p>
+My <a href = "thesis.pdf">thesis draft</a> looks to be in good shape for public release, though I expect to be tweaking it until the defense or shortly thereafter.
+<p>
+<b>UPDATE (3/3/05):</b> Successful thesis defense today!  I will be
+making some changes to address a few points that need to be clarified,
+and then, well, it's on to Mars, so to speak...
+<p>
+<hr>
+Some of this research was presented at meetings of the <a href =
+"http://www-2.cs.cmu.edu/~svc/">Specification and Verification Center</a> at CMU.
+<hr>
+<a href = "advisors.html">
+The greater scheme of things...</a>
+<hr>
+<a href = "index.html"> Back to Alex's Page</a>
+<hr>
+<i>Comments & questions to <a href = "mailto:agroce@gmail.com">
+agroce@gmail.com</a>.
+<hr>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

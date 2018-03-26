@@ -1,0 +1,826 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+<title>Publications</title>
+</head>
+<body BGCOLOR=white>
+<h1 ALIGN=CENTER>Alex David Groce's Publications</h1>
+<hr>
+<font face="Courier New">
+Some papers now have "executive summary" comments that explain why you might want to read this paper, or help you get the idea without reading it.  The summary may not be that helpful, if it is a paper you just really need to at least skim if you want to get the ideas.  All journal papers receive this treatment, and conference/workshop papers going backwards in time as I get the chance.
+</font>
+<hr>
+<h1> Journal Papers </h1>
+<hr>
+<ol>
+<li>
+<a href = "sttt17.pdf">
+<b>TSTL: the Template Scripting Testing Language</b></a>
+<p>
+Josie Holmes, Alex Groce, Jervis Pinto, Pranjal Mittal, Pooria Azimi, Kevin Kellar, and James O'Brien.  "TSTL: the Template Scripting Testing Language." <i>International Journal on Software Tools for Technology Transfer</i>, 20(1):57-78, February 2018.
+<p>
+<font face="Courier New">
+This paper is a solid overview of the TSTL domain-specific language (and toolset) for software testing.  TSTL uses a nondeterministic choice-of-action with guards model, which is useful and easy to use; perhaps more important, TSTL offers the idea of using the DSL to build a general first-class library for test generation/manipulation for any SUT (software under test), hiding the details of the SUT itself.
+</font>
+<hr> 
+</li>
+<li>
+<a href = "tr17.pdf">
+<b>Mutation Reduction Strategies Considered Harmful</b></a>
+<p>
+Rahul Gopinath, Iftekhar Ahmed, Mohammad Amin Alipour, Carlos Jensen, and Alex Groce.  "Mutation Reduction Strategies Considered Harmful." <i>IEEE Transactions on Reliability</i>, 66(3): 854-874, September 2017.
+<p>
+<font face="Courier New">
+Many methods intended to improve mutation testing effectiveness are both limited in theoretical advantage over random sampling, and in practice may cause more harm than good.
+</font>
+<hr> 
+</li>
+
+<li>
+<a href = "sqj16.pdf">
+<b>Does Choice of Mutation Tool Matter?</b></a>
+<p>
+Rahul Gopinath, Iftekhar Ahmed, Mohammad Amin Alipour, Carlos Jensen, and Alex Groce. "Does Choice of Mutation Tool Matter?" <i>Software Quality Journal</i>, 25(3):871-920, September 2017.
+<p>
+<font face="Courier New">
+We suggest that the answer is "no" (in terms of average score) but "yes" in terms of per-project variation in score, and propose some standardization.
+</font>
+<hr>
+</li>
+<li>
+<a href = "stvr15.pdf">
+<b>Cause Reduction: Delta Debugging, Even Without Bugs</b></a>
+<p>
+Alex Groce, Mohammad Amin Alipour, Chaoqiang Zhang, Yang Chen, and John Regehr. "Cause Reduction: Delta Debugging, Even Without Bugs." <i>Software Testing, Verification and Reliability</i>, Volume 26, Number 1, pages 40-68, January 2016.
+<p>
+<font face="Courier New">
+The classic Hildebrandt-Zeller delta-debugging can usefully be applied not just to preserve the property "this test fails," but to reduce the size of a test while holding constant <i>any</i> property of interest.  The obvious application we demonstrate is improving regression testing by minimizing not just suites, but individual tests.  Can also boost seeded symbolic execution very nicely, however, which is less obvious.
+</font>
+<hr>
+</li>
+<li>
+<a href = "tosem14.pdf">
+<b>Guidelines for Coverage-Based Comparisons of Non-Adequate Test Suites</b></a>
+<p>
+Milos Gligoric, Alex Groce, Chaoqiang Zhang, Rohan Sharma, Mohammad Amin Alipour, and Darko Marinov.  "Guidelines for Coverage-Based Comparisons of Non-Adequate Test Suites."  <i>ACM Transactions on Software Engineering and Methodology</i>, Volume 24, Number 4, pages 4-37, August 2015.
+<p>
+<font face="Courier New">
+A mass of data about how coverage and mutation score relate, over a large number of projects, with some support for branch coverage and intra-procedural acyclic path coverage as particularly effective for comparing test suites.
+</font>
+<hr>
+</li>
+<li>
+<a href = "amai14.pdf">
+<b>Establishing Flight Software Reliability: Testing, Model
+Checking, Constraint-Solving, Monitoring and Learning</b></a>
+<p>
+Alex Groce, Klaus Havelund, Gerard Holzmann, Rajeev Joshi, and Ru-Gang Xu.  "Establishing Flight Software Reliability: Testing, Model
+Checking, Constraint-Solving, Monitoring and Learning."  <i>Annals of Mathematics and Artificial Intelligence</i>, Volume 70, Number 4, pages 315-348, April 2014.
+<p>
+<font face="Courier New">
+Overview of a variety of software verification and testing attempts (on file systems) at JPL, related to the Curiosity Rover flight software and other actual mission code.  No major technical advances, but interesting for the "when you actually try it" insights.
+</font>
+<hr>
+</li>
+<li>
+<a href = "tse14.pdf">
+<b>You Are the Only Possible Oracle:
+Effective Test Selection for End Users of
+Interactive Machine Learning Systems</b></a>
+<p>
+Alex Groce, Todd Kulesza, Chaoqiang Zhang, Shalini Shamasunder, Margaret Burnett, Weng-Keen Wong, Simone Stumpf, Shubhomoy Das, Amber Shinsel, Forrest Bice, and Kevin McIntosh.  "You Are the Only Possible Oracle:
+Effective Test Selection for End Users of
+Interactive Machine Learning Systems."  <i>IEEE Transactions on Software Engineering</i>, Volume 40, Number 3, pages 307-323, March 2014.
+<p>
+<font face="Courier New">
+Machine learning systems' bugs are often predictable enough that, even though tests are costly, users can quickly find faults in a system based on relatively straightforward heuristic methods for selecting a few tests.
+</font>
+<hr>
+</li>
+<li>
+<a href = "tse11.pdf">
+<b>Swarm Verification Techniques</b></a>
+<p>
+Gerard Holzmann, Rajeev Joshi, and Alex Groce.  "Swarm Verification Techniques."  <i>IEEE Transactions on Software Engineering</i>, Volume 37, Number 6, pages 845-857, November 2011.
+<p>
+<font face="Courier New">
+Diversity in model checker configuration is a good way to find bugs fast (and cover a model better) when complete verification is not practical.
+</font>
+<hr>
+</li>
+<li>
+<a href = "sttt08.pdf">
+<b>Exploiting Traces in Static Program Analysis: Better Model Checking through <i>printf</i>s</b></a>
+<p>
+Alex Groce and Rajeev Joshi.  "Exploiting Traces in Static Program Analysis: Better Model Checking through <i>printf</i>s."  <i>International Journal on Software Tools for Technology Transfer</i>, <a href = http://www.springerlink.com/content/c4836w8055556448/?p=29e3bf1805ab4920848cf428d7145630&pi=4>online first</a>, January 2008.
+<p>
+<font face="Courier New">
+You can improve the efficiency of SAT-based model checking if you know that the counterexample of interest produced a particular output trace.  This approach also allows some novel specification methods using CBMC.
+</font>
+<hr>
+</li>
+<li>
+<a href = "igpl06.pdf">
+<b>Adaptive Model Checking</b>
+</a>
+<br>
+<p>
+Alex Groce, Doron Peled, and Mihalis Yannakakis.  "Adaptive Model Checking."  <i>Logic Journal of the IGPL</i>, Volume 14, Number 5, pages 729-744, October 2006.
+<p>
+<font face="Courier New">
+Finite-state-machine learning algorithms can be used to model check a system based on a partial or inaccurate model (termination will arise from either a real counterexample, or a conformance-checked model of the system, or (if there is no counterexample, and your upper bound on number of states is not fairly small) you running out of patience).
+</font>
+<hr>
+</li>
+<li>
+<a href = "sttt05.pdf">
+<b>Error Explanation with Distance Metrics</a></b>
+<p>
+Alex Groce, Sagar Chaki, Daniel Kroening, and Ofer Strichman.  "Error Explanation with Distance Metrics."  <i>International Journal on Software Tools for Technology Transfer</i>, Volume 8, Number 3, pages 229-247, June 2006.
+<p>
+<font face="Courier New">
+SAT-based model checking with Pseudo-Boolean queries can be used to search for the most similar successful execution to a counterexample, and this can be useful for debugging.  Also describes a "slicing" algorithm based on relaxed transition relations that has generally confused and dismayed even seasoned researchers.  Can't say that offhand I recall exactly why it makes sense, now.
+</font>
+
+<hr>
+</li>
+<li>
+<a href = "sttt04.pdf">
+<b>Heuristics for Model Checking Java Programs</a></b>
+<p>
+Alex Groce and Willem Visser.  "Heuristics for Model Checking Java Programs."  <i>International Journal on Software Tools for Technology Transfer</i>, Volume 6, Number 4, pages 260-276, August 2004.
+<p>
+<font face="Courier New">
+This is a good overview of not just our work, but basic AI-inspired heuristic search as it relates to (Java) explicit-state model checking.  
+</font>
+<hr>
+</li>
+<li>
+<a href = "FMSD-2004.pdf">
+<b>Efficient Verification of Sequential and Concurrent C Programs</a></b>
+<p>
+Sagar Chaki, Edmund Clarke, Alex Groce, Joel Ouaknine, Ofer Strichman, and Karen Yorav.  "Efficient Verification of Sequential and Concurrent C Programs."  <i>Formal Methods in System Design, Special Issue on Software Model Checking</i>, Volume 25, Numbers 2-3, pages 129-166, September-November 2004.
+<p>
+<font face="Courier New">
+An omnibus of some important ideas in C verification, ten or more years ago --- alternatively, the MAGIC + concurrency journal paper.
+</font>
+<hr>
+</li>
+<li>
+<a href = "tse04.pdf">
+<b>Modular Verification of Software Components in C</a></b>
+<p>
+Sagar Chaki, Edmund Clarke, Alex Groce, Somesh Jha, and Helmut Veith.  "Modular Verification of Software Components in C."  <i>IEEE Transactions on Software Engineering</i>, Volume 30, Number 6, pages 388-402, June 2004.
+<p>
+<font face="Courier New">
+Fuller version of the ICSE paper presenting the MAGIC approach to model checking C code, a Counterexample-Guided Abstraction Refinement method with particular emphasis on 1) modularity and 2) "two Jeffs" (Magee and Kramer) style FSP specification.
+</font>
+</li>
+</ol>
+<hr>
+<h1> Conference and Workshop Papers </h1>
+<hr>
+<ol>
+<li>
+<a href = "icse18t.pdf"><b>
+An Extensible, Regular-Expression-Based Tool for Multi-Language Mutant Generation
+</b></a>
+<p>
+Alex Groce, Josie Holmes, Darko Marinov, August Shi, and Lingming Zhang.  "An Extensible, Regular-Expression-Based Tool for Multi-Language Mutant Generation."  In <i>IEEE/ACM International Conference on Automated Software
+Engineering</i>, accepted for publication, Gotherburg, Sweden, May-June 2018.
+<p>
+<font face="Courier New">
+Mutant generation usually involves either working at the bytecode level, or parsing the language of a source file.  We show that a text-based approach, using much less effort, can extend the reach of mutation to new languages, including Apple's Swift, and make creating custom mutations almost trivial.
+</font>
+<hr>
+</li>
+
+<li>
+<a href = "bar18.pdf"><b>
+DeepState: Symbolic Unit Testing for C and C++
+</b></a>
+<p>
+Peter Goodman and Alex Groce.  "DeepState: Symbolic Unit Testing for C and C++."  In <i>NDSS 18 Workshop on Binary Analysis Research</i>, accepted for publication, San Diego, California, February 2018.
+<p>
+<font face="Courier New">
+The security and testing communities have produced powerful tools, including symbolic execution engines and sophisticated fuzzers.  Unfortunately, not many developers know how to use these tools, learning one does not make learning another trivial, and the tools have significant limitations -- and bugs.  DeepState offers a front-end to such tools that resembles a unit testing framework such as Google Test, but allows generation of inputs via a selected back-end.  Right now, DeepState offers access to angr and Manticore, as well as Dr. Memory's fuzzer.  In the future, we plan to extend it to other back-ends.  In addition to this gain in ease of use (and ability to find a tool that works on your problem, DeepState also provides high-level heuristic aids to improve the performance of the back-ends.  This makes DeepState a powerful platform for exploring novel techniques to improve test generation.
+</font>
+<hr>
+</li>
+<li>
+<a href = "interpretableml17.pdf"><b>Provenance and Pseudo-Provenance for Seeded Learning-Based Automated Test Generation</b></a>
+<p>
+Alex Groce and Josie Holmes.  "Provenance and Pseudo-Provenance for Seeded Learning-Based Automated Test Generation."  In <i>NIPS 2017 Interpretable ML Symposium</i>, Long Beach, California, December 2017.
+<p>
+<font face="Courier New">
+We propose some (common-sense) methods for tracking and presenting the provenance of tests generated by automated test generation methods where new tests essentially derive from old tests, and can (usually) be traced back to some original, often simple and hand-crafted (or at least simple and valid) inputs.  The most interesting idea here is probably the proposal to "fake" a provenance in cases where either the algorithm itself or a post-processing step (like normalization) destroys it.  For such tests we can generate a plausible, if "untrue" causal story of how the test derives from seed inputs, and it seems reasonable to think that such "false" stories are, in a probabilistic setting, useful even if technically untrue, since the test could have been thus derived.  In fact, this suggests (not in the paper) the idea of made-up (Platonic/Straussian lie?) ML interpretations.  "This is not how I produced this result, but it's a simple story your little human head can handle, and not utterly impossible" might be a reasonable thing for an AI to say, in some circumstances.  What Elon Musk would think of such patronizing AIs, we don't speculate.
+</font>
+<hr>
+</li>
+<li>
+<a href = "saso17.pdf"><b>Resource Adaptation via Test-Based Software Minimization</b></a>
+<p>
+Arpit Christi, Alex Groce, and Rahul Gopinath.  "Resource Adaptation via Test-Based Software Minimization."  In <i>IEEE
+International Conference on Self-Adaptive and Self-Organizing Systems</i>, pages 61-70, Tucson, Arizona, September 2017.
+<p>
+<font face="Courier New">
+What if we have really good tests?  This paper proposes that labeling tests can serve as a convenient way to express adaptability constraints for software resource adaptation.  The idea is to 1) label some tests as ok to fail 2) use cause reduction/delta-debugging/hierarchical delta-debugging/statement deletion mutation (whichever you wish to think of it as) to produce variants of the program that pass all tests not labeled as ok to fail.  Test labeling is an easy way to express functionality, and restricting to statement deletion means that tests alone may suffice to avoid broken variants.  Case study:  by labeling three tests, we can remove undo/redo from NetBeans IDE and significantly reduce its memory usage.
+</font>
+<hr>
+</li>
+<li>
+<a href = "issta17.pdf"><b>One Test to Rule Them All</b></a>
+<p>
+Alex Groce, Josie Holmes, and Kevin Kellar.  "One Test to Rule Them All."  In <i>ACM SIGSOFT International Symposium on Software Testing and Analysis</i>, pages 1-11, Santa Barbara, California, July 2017. 
+<p>
+<font face="Courier New">
+This paper proposes a new, term-rewriting-based approach to semantic simplification of unit tests, providing both canonization to reduce duplicate tests for faults and additional size reduction beyond delta-debugging.  The paper also describes a (closely related) way to generalize a test to understand the neighborhood of failing tests, and distinguish accidental and essential aspects of a failure.  The approach is well-implemented in current TSTL release, and sufficiently useful that I basically always run random testing (if searching for actual bugs, not just running experiments for a paper) with normalization turned on.  It isn't quite obvious, but this paper is basically another in the series of papers (cause reduction being the previous one) concerning \emph{causality} in verification/testing that extend back to my thesis work at CMU and the model-checking error explanation/"What Went Wrong?" papers.
+</font>
+<hr>
+</li>
+<li>
+<a href = "issta17tool.pdf"><b>A Suite of Tools for Making Effective Use of Automatically Generated Tests</b></a>
+<p>
+Josie Holmes and Alex Groce.  "A Suite of Tools for Making Effective Use of Automatically Generated Tests."  In <i>ACM SIGSOFT International Symposium on Software Testing and Analysis</i>, pages 356-359, Santa Barbara, California, July 2017. 
+<p>
+<font face="Courier New">
+Tool paper describing the TSTL tools for manipulating and understanding tests (reduction, normalization, generalization).  A decent brief intro to the TSTL tool suite and what it can do with tests.
+</font>
+<hr>
+</li>
+<li>
+<a href = "tecps17.pdf"><b>Towards Automated Composition of Heterogeneous Tests for Cyber-Physical Systems</b></a>
+<p>
+Alex Groce, Paul Flikkema, and Josie Holmes.  "Towards Automated Composition of Heterogeneous Tests for Cyber-Physical Systems." In <i>ACM International Workshop on Testing Embedded and Cyber-Physical Systems</i>, pages 12-15, Santa Barbara, California, July 2017.
+<p>
+<font face="Courier New">
+This paper describes a new approach to test composition, and (perhaps just as importantly) suggests that test composition is something we really do care about, and want to make efficient and effective.  The proposed approach uses delta-debugging to shrink a large candidate composition that has extra copies of test components to allow for better interleaving of tests and the elimination of interfering operations.
+</font>
+<hr>
+</li>
+<li>
+<a href = "icst17.pdf"><b>The Theory of Composite Faults</b></a>
+<p>
+Rahul Gopinath, Carlos Jensen, and Alex Groce.   "The Theory of Composite Faults."  In <i>IEEE International Conference on Software Testing, Verification and Validation</i>, pages 47-57, Tokyo, Japan, March 2017.
+<p>
+<font face="Courier New">
+We investigate the proposition that, in general, if a test detects a fault in isolation, it will (with high probability) detect that fault when it is composed with another fault.  We extend the theory somewhat, and show that in practice the "high probability" is 98-99% for Apache commons libraries.
+</font>
+<hr>
+</li>
+<li>
+<a href = "mutation17.pdf"><b>Applying Mutation Analysis On Kernel Test Suites: An Experience Report</b></a>
+<p>
+Iftekhar Ahmed, Carlos Jensen, Alex Groce, and Paul E. McKenney.  "Applying Mutation Analysis On Kernel Test
+Suites: An Experience Report."  In <i>International Workshop on Mutation Analysis</i>, pages 110-115, Tokyo, Japan, March 2017.
+<p>
+<font face="Courier New">
+Mutation testing can actually help improve real tests, in a practical
+way.  Right now, you need a very high quality test suite/generation
+method already, and a dedicated and savvy developer (like Paul), but
+the principle seems clear: this is effort that can pay off, for
+high-stakes systems code.
+</font>
+<hr>
+</li>
+<li>
+<a href = "fse16.pdf"><b>Can Testedness be Effectively Measured?</b></a>
+<p>
+Iftekhar Ahmed, Rahul Gopinath, Caius Brindescu, Alex Groce, and Carlos Jensen.  "Can Testedness be Effectively Measured?" In <i>ACM SIGSOFT Symposium on the Foundations of Software Engineering</i>, pages 547-558, Seattle, Washington, November 2016.
+<p>
+<font face="Courier New">
+Using a novel method for evaluating a "testedness" measure (does a high measure for a program component predict few future defect corrections for that component?) we show that:  1) traditional testedness measures are not, in a continuous sense, very reliable (testedness is only weakly negatively correlated with future defects), but 2) choosing a threshold (say, is a component covered or not), less "tested" components have, on average, twice as many future fixes.  Upshot:  the traditional use of coverage measures and mutation scores in testing research may be dubious (small differences in score don't strongly imply anything), but using coverage/mutation as a simple rule-of-thumb to prioritize/evaluate testing is reasonably well supported.
+</font>
+<hr>
+</li>
+<li>
+<a href = "atest16.pdf"><b>Mitigating (and Exploiting) Test Reduction Slippage</b></a>
+<p>
+Josie Holmes, Alex Groce, and Mohammad Amin Alipour.  "Mitigating (and Exploiting) Test Reduction Slippage."  In <i>7th Workshop on Automated Software Testing (A-TEST)</i>, pages 66-69, Seattle, Washington, November 2016.
+<p>
+<font face="Courier New">
+Slippage takes place when delta-debugging reduces a test T failing due to fault A into a test R failing due to fault B. While this is generally a problem (B is probably an easier fault to detect than A was), it can also be exploited to improve fault detection.  We present two algorithms for both mitigating slippage and using it to find more faults, and a limited evaluation showing the utility of these methods.
+</font>
+<hr>
+</li>
+<li>
+<a href = "ssbse16.pdf"><b>A Method Dependence Relations Guided Genetic Algorithm</b></a>
+<p>
+Ali Aburas and Alex Groce.  "A Method Dependence Relations Guided Genetic Algorithm." In <i>International Symposium on Search-Based Software Engineering</i>, pages 267-273, Raleigh, North Carolina, October 2016.  
+<hr>
+</li>
+
+<li>
+<a href = "ase16.pdf"><b>Evaluating Non-Adequate Test-Case Reduction</b></a>
+<p>
+Mohammad Amin Alipour, August Shi, Rahul Gopinath, Darko Marinov, and Alex Groce.  "Evaluating Non-Adequate Test-Case Reduction."  In <i>IEEE/ACM International Conference on Automated Software Engineering</i>, pages 16-26, Singapore, Singapore, September 2016.
+<hr>
+</li>
+<li>
+<a href = "issta16.pdf"><b>Generating Focused Random Tests Using Directed Swarm Testing</b></a>
+<p>
+Mohammad Amin Alipour, Alex Groce, Rahul Gopinath, and Arpit Christi. "Generating Focused Random Tests Using Directed Swarm Testing." In <i>ACM International Symposium on Software Testing and Analysis</i>, pages 70-81, Saarbrucken, Germany, July 2016.
+<hr>
+</li>
+<li>
+<a href = "icse16.pdf"><b>On the Limits of Mutation Reduction Strategies</b></a>
+<p>
+Rahul Gopinath, Mohammad Amin Alipour, Iftekhar Ahmed, Carlos Jensen, and Alex Groce. "On the Limits of Mutation Reduction Strategies." In <i>ACM/IEEE International Conference on Software Engineering</i> (ICSE), pages 511-522, Austin, Texas, May 2016.
+<hr>
+</li>
+<li>
+<a href = "icse16-2.pdf"><b>Topsy-Turvy: a Smarter and Faster Parallelization of Mutation Analysis</b></a>
+<p>
+Rahul Gopinath, Carlos Jensen, and Alex Groce. "Topsy-Turvy: a Smarter and Faster Parallelization of Mutation Analysis." In <i>ACM/IEEE International Conference on Software Engineering</i> (ICSE), pages 740-743, Austin, Texas, May 2016.
+<br>
+<b> (ICSE 2016 Distinguished Poster Award) </b>
+<hr>
+</li>
+<li>
+<a href = "ase15.pdf"><b>How Verified is My Code?  Falsification-Driven Verification</b></a>
+<p>
+Alex Groce, Iftekhar Ahmed, Carlos Jensen, and Paul E. McKenney.  "How Verified is My Code? Falsification-Driven Verification."  In <i>IEEE/ACM International Conference on Automated Software Engineering</i>, pages 737-748, Lincoln, Nebraska, November 2015.
+<hr>
+</li>
+<li>
+<a href = "issre15.pdf"><b>How Hard Does Mutation Analysis Have to Be, Anyway?</b></a>
+<p>
+Rahul Gopinath,Mohammad  Amin Alipour, Iftekhar Ahmed, Carlos Jensen, and Alex Groce.  "How Hard Does Mutation Analysis Have to Be, Anyway?" In <i>IEEE International Symposium on Software Reliability Engineering</i>, pages 216-227, Gaithersburg, Maryland, November 2015.
+<hr>
+</li>
+<li>
+<a href = "issta15.pdf"><b>TSTL: A Language and Tool for Testing (Demo)</b></a>
+<p>
+Alex Groce, Jervis Pinto, Pooria Azimi, and Pranjal Mittal.  "TSTL: A Language and Tool for Testing (Demo)." In <i>ACM International Symposium on Software Testing and Analysis</i>, pages 414-417, Baltimore, Maryland, July 2015.
+<hr>
+</li>
+<li>
+<a href = "nfm15.pdf"><b>A Little Language for Testing</b></a>
+<p>
+Alex Groce and Jervis Pinto.  "A Little Language for Testing." In <i>NASA Formal Methods Symposium</i>, pages 204-218, Pasadena, California, April 2015.
+<hr>
+</li>
+<li>
+<a href = "iwsm14.pdf">
+<b>Taming a Fuzzer Using Delta Debugging Trails</b></a>
+<p>
+Yuanli Pei, Arpit Christi, Xiaoli Fern, Alex Groce, and Weng-Keen Wong.  "Taming a Fuzzer Using Delta Debugging Trails."  In <i>3rd International Workshop on Software Mining</i>, Shenzen, China, December 2014.
+<hr>
+</li>
+<li>
+<a href = "issre14.pdf">
+<b>Mutations: How Close Are They to Real Faults?</b></a>
+<p>
+Rahul Gopinath, Carlos Jensen, and Alex Groce.  "Mutations: How Close Are They to Real Faults?" In <i>IEEE International Symposium on Software Reliability Engineering</i>, pages 189-200, Naples, Italy, November 2014.
+<hr>
+</li>
+<li>
+<a href = "onwardessays14.pdf">
+<b>Coverage and Its Discontents</b></a>
+<p>
+Alex Groce, Mohammad Amin Alipour, and Rahul Gopinath.  "Coverage and Its Discontents."  In <i>ACM Symposium on
+New Ideas in Programming and Reflections on Software, Onward! Essays, part of SPLASH (ACM SIGPLAN
+Conference on Systems, Programming, Languages and Applications: Software for Humanity)</i> 
+, pages 255-268 , Portland, Oregon, October 2014.
+<hr>
+</li>
+<li>
+<a href = "qsic14.pdf">
+<b>An Improved Memetic Algorithm with Method Dependence Relations (MAMDR)</b></a>
+<p>
+Ali Aburas and Alex Groce.  "An Improved Memetic Algorithm with Method Dependence Relations (MAMDR)."  In <i>International Conference on Quality Software</i> 
+, pages 11-20, Dallas, Texas , October 2014.
+<hr>
+</li>
+<li>
+<a href = "issta14.pdf">
+<b>Using Test Case Reduction and Prioritization to Improve Symbolic
+Execution</b></a>
+<p>
+Chaoqiang Zhang, Alex Groce, and Amin Alipour.  "Using Test Case Reduction and Prioritization to Improve Symbolic
+Execution."  In <i>ACM International Symposium on Software Testing and
+Analysis</i> (ISSTA), pages 60-70, San Jose, California, July 2014.
+<hr>
+</li>
+<li>
+<a href = "isstat14.pdf">
+<b>MuCheck: an Extensible Tool for Mutation Testing of Haskell Programs</b></a>
+<p>
+Duc Le, Mohammad Amin Alipour, Rahul Gopinath, and Alex Groce.  "MuCheck: an Extensible Tool for Mutation Testing of Haskell Programs."   In <i>ACM International Symposium on Software Testing and
+Analysis</i> (ISSTA), pages 429-432, Tools and Demonstration Track, San Jose, California, July 2014.
+<hr>
+</li>
+<li>
+<a href = "icse14.pdf">
+<b>Code Coverage for Suite Evaluation by Developers</b></a>
+<p>
+Rahul Gopinath, Carlos Jensen, and Alex Groce.  "Code Coverage for Suite Evaluation by Developers."  In <i>ACM/IEEE International Conference on Software Engineering</i> (ICSE), pages 72-82,  Hyderabad, India, May-June 2014.
+<hr>
+</li>
+<li>
+<a href = "icst14.pdf">
+<b>Cause Reduction for Quick Testing</b></a>
+<p>
+Alex Groce, Amin Alipour, Chaoqiang Zhang, Yang Chen, and John Regehr.  "Cause Reduction for Quick Testing."  In <i>IEEE International Conference on Software Testing, Verification and Validation</i> (ICST), pages 243-252, Cleveland, Ohio, March-April 2014.
+<br>
+<b> (ICST 2014 Best Paper Award) </b>
+<hr>
+</li>
+<li>
+<a href = "cfv13.pdf">
+<b>Finding Model-Checkable Needles in Large Source Code Haystacks: Modular Bug-Finding via Static Analysis and Dynamic Invariant Discovery</b></a>
+<p>
+Amin Alipour, Alex Groce, Chaoqiang Zhang, Anahita Sanadaji, and Gokul Caushik.  "Finding Model-Checkable Needles in Large Source Code Haystacks: Modular Bug-Finding via Static Analysis and Dynamic Invariant Discovery."  In <i>International Workshop on Constraints in Formal Verification</i> (CFV), San Jose, California, November 2013.
+<hr>
+</li>
+<li>
+<a href = "issre13.pdf">
+<b>Help, Help, I'm Being Suppressed! The Significance of Suppressors in Software Testing</b></a>
+<p>
+Alex Groce, Chaoqiang Zhang, Amin Alipour, Eric Eide, Yang Chen, and John Regehr.  "Help, Help, I'm Being Suppressed! The Significance of Suppressors in Software Testing."  In <i>IEEE International Symposium on Software Reliability Engineering</i> (ISSRE), pages 390-399, Pasadena, California, November 2013. 
+<hr>
+</li>
+<li>
+<a href = "issta13.pdf">
+<b>Comparing Non-adequate Test Suites using Coverage Criteria</b></a>
+<p>
+Milos Gligoric, Alex Groce, Chaoqiang Zhang, Rohan Sharma, Amin Alipour, and Darko Marinov. "Comparing
+Non-Adequate Test Suites using Coverage Criteria."  In <i>ACM International Symposium on Software Testing and
+Analysis</i> (ISSTA), pages 302-313, Lugano, Switzerland, July 2013.
+<hr>
+</li>
+<li>
+<a href = "pldi13.pdf">
+<b>Taming Compiler Fuzzers</b></a>
+<p>
+Yang Chen, Alex Groce, Chaoqiang Zhang, Weng-Keen Wong, Xiaoli Fern, Eric Eide, and John Regehr. "Taming Compiler Fuzzers."  In <i>ACM SIGPLAN Conference on Programming Language Design and Implementation</i> (PLDI), pages 197-208, Seattle, Washington, June 2013. 
+<hr>
+</li>
+<li>
+<a href = "issre12.pdf">
+<b>Lightweight Automated Testing with Adaptation-Based Programming</b></a>
+<p>
+Alex Groce, Alan Fern, Jervis Pinto, Tim Bauer, Amin Alipour, Martin Erwig, and Camden Lopez.  "Lightweight Automated Testing with Adaptation-Based Programming."  In <i>IEEE International Symposium on Software Reliability Engineering</i> (ISSRE), pages 161-170, Dallas, Texas, November 2012. 
+<hr>
+</li>
+<li>
+<a href = "woda12.pdf">
+<b>Finding Common Ground:  Choose, Assert, and Assume</b></a>
+<p>
+Alex Groce and Martin Erwig.  "Finding Common Ground:  Choose, Assert, and Assume."  In <i>International Workshop on Dynamic Analysis</i> (WODA), pages 12-17 Minneapolis, Minnesota, July 2012. 
+<hr>
+</li>
+<li>
+<a href = "woda12.2.pdf">
+<b>Extended Program Invariants: Applications in Testing and Fault Localization</b></a>
+<p>
+Amin Alipour and Alex Groce.  "Extended Program Invariants: Applications in Testing and Fault Localization."  In <i>International Workshop on Dynamic Analysis</i> (WODA), pages 7-11, Minneapolis, Minnesota, July 2012. 
+<hr>
+</li>
+<li>
+<a href = "issta12.pdf">
+<b>Swarm Testing</b></a>
+<p>
+Alex Groce, Chaoqiang Zhang, Eric Eide, Yang Chen, and John Regehr.  "Swarm Testing."  In <i>ACM International Symposium on Software Testing and Analysis</i> (ISSTA), pages 78-88, Minneapolis, Minnesota, July 2012.
+<hr>
+</li>
+<li>
+<a href = "cfv11.pdf">
+<b>Bounded Model Checking and Feature Omission Diversity</b></a>
+<p>
+Amin Alipour and Alex Groce.  "Bounded Model Checking and Feature Omission Diversity."  In <i>International Workshop on Constraints in Formal Verification</i> (CFV), San Jose, California, November 2011.
+<hr>
+</li>
+<li>
+<a href = "ase11.pdf">
+<b>Coverage Rewarded: Test Input Generation via Adaptation-Based Programming</b></a>
+<p>
+Alex Groce.  "Coverage Rewarded: Test Input Generation via Adaptation-Based Programming."  In <i>ACM/IEEE International Conference on Automated Software Engineering</i> (ASE), pages 380-383, Lawrence, Kansas, November 2011.
+<hr>
+</li>
+<li>
+<a href = "vlhcc11.pdf">
+<b>Mini-crowdsourcing End-user Assessment of Intelligent Assistants: A Cost-benefit Study</b></a>
+<p>
+Amber Shinsel, Todd Kulesza, Margaret M. Burnett, William Curran, Alex Groce, Simone Stumpf, and Weng-Keen Wong.  "Mini-crowdsourcing End-user Assessment of Intelligent Assistants: A Cost-benefit Study." In <i>IEEE Symposium on Visual Languages and Human-Centric Computing</i> (VL/HCC), pages 47-54, Pittsburgh, Pennsylvania, September 2011.
+<hr>
+</li>
+<li>
+<a href = "eud11.pdf">
+<b>Where Are My Intelligent Assistant's Mistakes? A Systematic Testing Approach</b></a>
+<p>
+Todd Kulesza, Margaret Burnett, Simone Stumpf, Weng-Keen Wong, Shubhomoy Das, Alex Groce, Amber Shinsel, Forrest Bice, and Kevin McIntosh.  "Where Are My Intelligent Assistant's Mistakes? A Systematic Testing Approach."  In <i>International Symposium on End-User Development</i> (EUD), pages 171-186, Brindisi, Italy, June 2011.
+<hr>
+</li>
+<li>
+<a href = "icse10.pdf">
+<b>From Scripts to Specifications:  the Evolution of a Flight Software Testing Effort</b></a>
+<p>
+Alex Groce, Klaus Havelund, and Margaret Smith.  "From Scripts to Specifications:  the Evolution of a Flight Software Testing Effort."  In <i>ACM/IEEE International Conference on Software Engineering</i> (ICSE), pages 129-138, Cape Town, South Africa, May 2010.
+<hr>
+</li>
+<li>
+<a href = "woda09.pdf">
+<b>(Quickly) Testing the Tester via Path Coverage</b></a>
+<p>
+Alex Groce.  "(Quickly) Testing the Tester via Path Coverage."  In <i>Workshop on Dynamic Analysis</i> (WODA), Chicago, Illinois, July 2009.
+<hr>
+</li>
+<li>
+<a href = "ase08.pdf">
+<b>Random Test Run Length and Effectiveness</b></a>
+<p>
+James H. Andrews, Alex Groce, Melissa Weston, and Ru-Gang Xu.  "Random Test Run Length and Effectiveness."  In <i>IEEE/ACM Conference on Automated Software Engineering</i> (ASE), pages 19-28, L'Aquila, Italy, September 2008.
+<hr>
+</li>
+<li>
+<a href = "spin08.pdf"><b>Tackling Large Verification Problems with the Swarm Tool</b></a>*
+<p>
+Gerard Holzmann, Rajeev Joshi, and Alex Groce.  "Tackling Large Verification Problems with the Swarm Tool."  In <i>SPIN Workshop on Model Checking of Software</i> (SPIN), pages 134-143, Los Angeles, California, August 2008.
+<hr>
+</li>
+<li>
+<a href = "mochart08.pdf"><b>Automated Testing of Planning Models</b></a>
+<p>
+Klaus Havelund, Alex Groce, Gerard Holzmann, Rajeev Joshi, and Margaret Smith.  "Automated Testing of Planning Models."  In <i>Workshop on Model Checking and Artificial Intelligence</i> (MoChArt), Patras, Greece, July 2008.
+<hr>
+</li>
+<li>
+<a href = "woda08.pdf">
+<b>Random Testing and Model Checking:   Building a Common Framework for Nondeterministic Exploration</b></a>
+<p>
+Alex Groce and Rajeev Joshi.  "Random Testing and Model Checking:   Building a Common Framework for Nondeterministic Exploration."  In <i>Workshop on Dynamic Analysis</i> (WODA), pages 22-28, Seattle, Washington, July 2008.
+<hr>
+</li>
+<li>
+<a href = "vmcai08.pdf">
+<b>Extending Model Checking with Dynamic Analysis</b></a>*
+<p>
+Alex Groce and Rajeev Joshi.  "Extending Model Checking with Dynamic Analysis."  In <i>Conference on Verification, Model Checking and Abstract Interpretation</i> (VMCAI), pages 142-156, San Francisco, California, January 2008.
+<hr>
+</li>
+<li>
+<a href = "ase07.pdf">
+<b>Verifying C++ with STL Containers via Predicate Abstraction</b></a>
+<p>
+Nicolas Blanc, Alex Groce, and Daniel Kroening.  "Verifying C++ with STL Containers via Predicate Abstraction."  In <i>IEEE/ACM Conference on Automated Software Engineering</i> (ASE), pages 521-524, Atlanta, Georgia, November 2007.
+<hr>
+</li>
+<li>
+<a href = "icse07.pdf">
+<b>Randomized Differential Testing as a Prelude to Formal Verification</a></b>
+<p>
+Alex Groce, Gerard Holzmann, and Rajeev Joshi.  "Randomized Differential Testing as a Prelude to Formal Verification."  In <i>ACM/IEEE International Conference on Software Engineering</i> (ICSE), pages 621-631, Minneapolis, Minnesota, May 2007.
+<hr>
+</li>
+<li>
+<a href = "tacas06.pdf">
+<b>Exploiting Traces in Program Analysis</a></b>*
+<p>
+Alex Groce and Rajeev Joshi.  "Exploiting Traces in Program Analysis."  In <i>Tools and Algorithms for the Construction and Analysis of Systems (TACAS)</i>, pages 379-393, Vienna, Austria, March-April 2006.
+<hr>
+</li>
+<li>
+<a href = "icfem04.pdf">
+<b>Counterexample Guided Abstraction Refinement via Program Execution</a></b>*
+<p>
+Daniel Kroening, Alex Groce, and Edmund Clarke.  "Counterexample Guided Abstraction Refinement via Program Execution."  In <i>International Conference on Formal Engineering Methods (ICFEM)</i>, pages 224-238, Seattle, Washington, November 2004.
+<hr>
+</li>
+<li>
+<a href = "fse04.pdf">
+<b>Explaining Abstract Counterexamples</a></b>
+<br>
+<h6>
+&copy ACM, 2004. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive version was published in Proceedings of the ACM SIGSOFT 2004 International Symposium on the Foundations of Software Engineering, ACM SIGSOFT Software Engineering Notes Volume 29, Issue 6 (November 2004), <a href = "http://doi.acm.org/10.1145/1029894.1029908">http://doi.acm.org/10.1145/1029894.1029908</a>.
+</h6>
+<p>
+Sagar Chaki, Alex Groce, and Ofer Strichman.  "Explaining Abstract Counterexamples."  In <i>Foundations of Software Engineering (SIGSOFT FSE)</i>, pages 73-82, Newport Beach, California, October-November 2004.
+<hr>
+</li>
+<li>
+<a href = "bmc04.pdf">
+<b>Making the Most of BMC Counterexamples</a></b>
+<p>
+Alex Groce and Daniel Kroening.  "Making the Most of BMC Counterexamples."  In <i>Workshop on Bounded Model Checking (BMC)</i>,  pages 71-84, Boston, Massachusetts, July 2004.
+<hr>
+</li>
+<li>
+<a href = "cav04.pdf">
+<b>Understanding Counterexamples with <i>explain</i></a></b>*
+<p>
+Alex Groce, Daniel Kroening, and Flavio Lerda.  "Understanding Counterexamples with explain."  In <i>Computer Aided Verification (CAV)</i>,  pages 453-456, Boston, Massachusetts, July 2004.
+<hr>
+</li>
+<li>
+<a href = "tacas04.pdf">
+<b>Error Explanation with Distance Metrics</a></b>*
+<p>
+Alex Groce.  "Error Explanation with Distance Metrics." In <i>Tools and Algorithms for the Construction and Analysis of Systems (TACAS)</i>, pages 108-122, Barcelona, Spain, March-April 2004.
+<hr>
+</li>
+<li>
+<a href = "WMF03.pdf">
+<b>VeriAgent: an Approach to Integrating UML and Formal Verification Tools</a></b>
+<p>
+E. Mota, E. Clarke, W. Oliveira, A. Groce, J. Kanda, and M. Falcao.  "VeriAgent: an Approach to Integrating UML and Formal Verification Tools."  In <i>Sixth Brazilian Workshop on Formal Methods (WMF 2003)</i>, pages 111-129 (Elect. Notes Theor. Comput. Sci. 95), Universidade Federal de Campina Grande, Brazil, October 2003.
+<hr>
+</li>
+<li>
+<a href = "charme03.pdf">
+<b>Predicate Abstraction with Minimum Predicates</a></b>*
+</a>
+<br>
+<i>(Contains full versions of some tables that were cut for publication version.)</i>
+<p>
+Sagar Chaki, Edmund Clarke, Alex Groce, and Ofer Strichman.  "Predicate Abstraction with Minimum Predicates."  In <i>Advanced Research Working Conference on Correct Hardware Design and Verification Methods (CHARME)</i>, pages 19-34, L'Aquila, Italy, October 2003.
+<hr>
+</li>
+<li>
+<a href = "spin03.pdf">
+<b>What Went Wrong: Explaining Counterexamples</a></b>*
+<p>
+Alex Groce and Willem Visser.  "What Went Wrong: Explaining Counterexamples." In <i>SPIN Workshop on Model Checking of Software</i>, pages 121-135, Portland, Oregon, May 2003.
+<hr>
+</li>
+<li>
+<a href = "icse03.pdf">
+<b>Modular Verification of Software Components in C</a></b>
+<p>
+Sagar Chaki, Edmund Clarke, Alex Groce, Somesh Jha, and Helmut Veith.  "Modular Verification of Software Components in C."  In <i>ACM/IEEE International Conference on Software Engineering (ICSE)</i>, pages 385-395, Portland, Oregon, May 2003.
+<br>
+<b> (ICSE 2003 ACM SIGSOFT Distinguished Paper Award) </b>
+<hr>
+</li>
+<li>
+<a href = "cav02.pdf">
+<b>AMC: An Adaptive Model Checker</a></b>*
+<p>
+Alex Groce, Doron Peled, and Mihalis Yannakakis.  "AMC: An Adaptive Model Checker."  In <i>Computer Aided Verification (CAV)</i>, pages 521-525, Copenhagen, Denmark, July 2002.
+<hr>
+</li>
+<li>
+<a href = "issta02.pdf">
+<b>Model Checking Java Programs using Structural Heuristics</a></b>
+<br>
+<h6>
+&copy ACM, 2002. This is the author's version of the work. It is posted here by permission of ACM for your personal use. Not for redistribution. The definitive version was published in Proceedings of the ACM SIGSOFT 2002 International Symposium on Software Testing and Analysis, ACM SIGSOFT Software Engineering Notes Volume 27, Issue 4 (July 2002), <a href = "http://doi.acm.org/10.1145/566172.566175">http://doi.acm.org/10.1145/566172.566175</a>.
+</h6>
+<p>
+Alex Groce and Willem Visser.  "Model Checking Java Programs using Structural Heuristics."  In <i>International Symposium on Software Testing and Analysis (ISSTA)</i>, pages 12-21, Rome, Italy, July 2002.
+<hr>
+</li>
+<li>
+<a href = "spin02.pdf">
+<b>Heuristic Model Checking for Java Programs</a></b>*
+<p>
+Alex Groce and Willem Visser.  "Heuristic Model Checking for Java Programs."  In <i>SPIN Workshop on Model Checking of Software</i>, pages 242-245, Grenoble, France, April 2002.
+<hr>
+</li>
+<li>
+<a href = "tacas02.pdf">
+<b>Adaptive Model Checking</a></b>*
+<p>
+Alex Groce, Doron Peled, and Mihalis Yannakakis.  "Adaptive Model Checking."  In <i>Tools and Algorithms for the Construction and Analysis of Systems (TACAS)</i>, pages 357-370, Grenoble, France, April 2002.
+<hr>
+</li>
+<li>
+<a href = "cav01.pdf">
+<b>Efficient Model Checking Via B&uuml;chi Tableau Automata</a></b>*
+<p>
+Girish Bhat, Rance Cleaveland, and Alex Groce.  "Efficient Model Checking Via B&uuml;chi Tableau Automata."  In <i>Computer Aided Verification (CAV)</i>, pages 38-52, Paris, France, July 2001.
+</li>
+</ol>
+<hr>
+*&copy Springer-Verlag <br>
+Final Springer version available at:
+<a href = "http://www.springer.de/comp/lncs/index.html">Lecture Notes in Computer Science</a>
+<hr>
+<h1>Invited Papers</h1>
+<hr>
+<ol>
+<li>
+<a href = "isola12.pdf"><b>Learning-Based Test Programming for Programmers</b></a>
+<p>
+Alex Groce, Alan Fern, Martin Erwig, Jervis Pinto, Tim Bauer, and Amin Alipour.  "Learning-Based Test Programming for Programmers."  In <i>International Symposium On Leveraging Applications of Formal Methods, Verification
+and Validation</i>, Heraclion, Crete, October 2012.
+</li>
+
+<li>
+<a href = "asej08.pdf"><b>Model Driven Code Checking</b></a>
+<p>
+Gerard Holzmann, Rajeev Joshi, and Alex Groce.  "Model Driven Code Checking."  In <i>Automated Software Engineering, Special Issue on Trends in Automated Software Engineering</i>, Volume 15, Number 3-4, pages 283-297, December 2008.
+</li>
+<li>
+<a href = "aseinv08.pdf"><b>Swarm Verification</b></a>
+<p>
+Gerard Holzmann, Rajeev Joshi, and Alex Groce.  "Swarm Verification."  In <i>Conference on Automated Software Engineering</i> (ASE), pages 1-6, L'Aquila, Italy, September 2008.
+</li>
+<li>
+<a href = "cfv08.pdf"><b>Putting Flight Software Through the Paces with Testing, Model Checking, and Constraint-Solving</b></a>
+<p>
+Alex Groce, Gerard Holzmann, Rajeev Joshi, and Ru-Gang Xu.  "Putting Flight Software Through the Paces with Testing, Model Checking, and Constraint-Solving."  In <i>Workshop on Constraints in Formal Verification</i>, pages 1-15, Sydney, Australia, August 2008.
+</li>
+<li>
+<a href = "25mc.pdf">
+<b>New Challenges in Model Checking</a></b>
+<br>
+<p>
+Gerard Holzmann, Rajeev Joshi, and Alex Groce.  "New Challenges in Model Checking."  In <i>Symposium on 25 Years of Model Checking</i>, Seattle, Washington, August 2006.
+</li>
+</ol>
+<hr>
+<h1>Technical Reports</h1>
+<hr>
+<ol>
+<li>
+<a href = "fp_mutation.pdf">
+<b>Mutation Testing of Functional Programming Languages</b></a>
+<br>
+<p>
+Duc Le, Mohammad Amin Alipour, Rahul Gopinath, and Alex Groce.  "Mutation Testing of Functional Programming Languages."  Oregon State University Technical Report, 2014.
+</li>
+<li>
+<b>Verifying C++ with STL Containers via Predicate Abstraction</b>
+<br>
+<p>
+Nicolas Blanc, Daniel Kroening, and Alex Groce.  "Verifying C++ with STL Containers via Predicate Abstraction."  Technical Reports 506, ETZ Zurich, January 2006.
+</li>
+<li>
+<a href = "thesis.pdf">
+<b>Error Explanation and Fault Localization with Distance Metrics</a></b>
+<p>
+Alex Groce.  "Error Explanation and Fault Localization with Distance Metrics."  Technical Report CMU-CS-05-121, Carnegie Mellon University, March 2005.
+</li>
+<li>
+<a href = "RIACS0208.ps.gz">
+<b>What Went Wrong: Explaining Counterexamples</a></b> [.ps.gz]
+<p>
+Alex Groce and Willem Visser.  "What Went Wrong: Explaining Counterexamples." Technical Report 02-08, RIACS, USRA, February 2002.  
+</li>
+</ol>
+<hr>
+<h1> Official ACM Authorizer Versions </h1>
+<hr>
+<!-- ACM DL Article: Comparing non-adequate test suites using coverage criteria-->
+<div class="acmdlitem" id="item2483769"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6836205" title="Comparing non-adequate test suites using coverage criteria">Comparing non-adequate test suites using coverage criteria</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81435592863" >Milos Gligoric</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81503687293" >Chaoqiang Zhang</a>, <a href="http://dl.acm.org/author_page.cfm?id=81461653793" >Rohan Sharma</a>, <a href="http://dl.acm.org/author_page.cfm?id=81503692612" >Mohammad Amin Alipour</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100437653" >Darko Marinov</a><br />ISSTA 2013 Proceedings of the 2013 International Symposium on Software Testing and Analysis, 2013</div></div>
+<!-- ACM DL Bibliometrics: Comparing non-adequate test suites using coverage criteria-->
+<div class="acmdlstat" id ="stats2483769"><iframe src="http://dl.acm.org/authorizestats?6836205" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Taming compiler fuzzers-->
+<div class="acmdlitem" id="item2462173"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6821089" title="Taming compiler fuzzers">Taming compiler fuzzers</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81444601555" >Yang Chen</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81503687293" >Chaoqiang Zhang</a>, <a href="http://dl.acm.org/author_page.cfm?id=81351594350" >Weng-Keen Wong</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100360432" >Xiaoli Fern</a>, <a href="http://dl.acm.org/author_page.cfm?id=81341490043" >Eric Eide</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100459621" >John Regehr</a><br />PLDI '13 Proceedings of the 34th ACM SIGPLAN conference on Programming language design and implementation, 2013</div></div>
+<!-- ACM DL Bibliometrics: Taming compiler fuzzers-->
+<div class="acmdlstat" id ="stats2462173"><iframe src="http://dl.acm.org/authorizestats?6821089" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Finding common ground: choose, assert, and assume-->
+<div class="acmdlitem" id="item2336800"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6719976" title="Finding common ground: choose, assert, and assume">Finding common ground: choose, assert, and assume</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100586223" >Martin Erwig</a><br />WODA 2012 Proceedings of the 2012 Workshop on Dynamic Analysis, 2012</div></div>
+<!-- ACM DL Bibliometrics: Finding common ground: choose, assert, and assume-->
+<div class="acmdlstat" id ="stats2336800"><iframe src="http://dl.acm.org/authorizestats?6719976" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Extended program invariants: applications in testing and fault localization-->
+<div class="acmdlitem" id="item2336799"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6719975" title="Extended program invariants: applications in testing and fault localization">Extended program invariants: applications in testing and fault localization</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81503692612" >Mohammad Amin Alipour</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a><br />WODA 2012 Proceedings of the 2012 Workshop on Dynamic Analysis, 2012</div></div>
+<!-- ACM DL Bibliometrics: Extended program invariants: applications in testing and fault localization-->
+<div class="acmdlstat" id ="stats2336799"><iframe src="http://dl.acm.org/authorizestats?6719975" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Swarm testing-->
+<div class="acmdlitem" id="item2336763"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6719810" title="Swarm testing">Swarm testing</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81503687293" >Chaoqiang Zhang</a>, <a href="http://dl.acm.org/author_page.cfm?id=81341490043" >Eric Eide</a>, <a href="http://dl.acm.org/author_page.cfm?id=81444601555" >Yang Chen</a>, <a href="http://dl.acm.org/author_page.cfm?id=81503689501" >John Regehr</a><br />ISSTA 2012 Proceedings of the 2012 International Symposium on Software Testing and Analysis, 2012</div></div>
+<!-- ACM DL Bibliometrics: Swarm testing-->
+<div class="acmdlstat" id ="stats2336763"><iframe src="http://dl.acm.org/authorizestats?6719810" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: From scripts to specifications: the evolution of a flight software testing effort-->
+<div class="acmdlitem" id="item1810314"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?351465" title="From scripts to specifications: the evolution of a flight software testing effort">From scripts to specifications: the evolution of a flight software testing effort</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100568202" >Klaus Havelund</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100077418" >Margaret Smith</a><br />ICSE '10 Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 2, 2010</div></div>
+<!-- ACM DL Bibliometrics: From scripts to specifications: the evolution of a flight software testing effort-->
+<div class="acmdlstat" id ="stats1810314"><iframe src="http://dl.acm.org/authorizestats?351465" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: (Quickly) testing the tester via path coverage-->
+<div class="acmdlitem" id="item2134249"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?6673599" title="(Quickly) testing the tester via path coverage">(Quickly) testing the tester via path coverage</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a><br />WODA '09 Proceedings of the Seventh International Workshop on Dynamic Analysis, 2009</div></div>
+<!-- ACM DL Bibliometrics: (Quickly) testing the tester via path coverage-->
+<div class="acmdlstat" id ="stats2134249"><iframe src="http://dl.acm.org/authorizestats?6673599" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Random testing and model checking: building a common framework for nondeterministic exploration-->
+<div class="acmdlitem" id="item1401833"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?082462" title="Random testing and model checking: building a common framework for nondeterministic exploration">Random testing and model checking: building a common framework for nondeterministic exploration</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100641984" >Rajeev Joshi</a><br />WODA '08 Proceedings of the 2008 international workshop on dynamic analysis: held in conjunction with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2008), 2008</div></div>
+<!-- ACM DL Bibliometrics: Random testing and model checking: building a common framework for nondeterministic exploration-->
+<div class="acmdlstat" id ="stats1401833"><iframe src="http://dl.acm.org/authorizestats?082462" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Verifying C++ with STL containers via predicate abstraction-->
+<div class="acmdlitem" id="item1321724"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?921615" title="Verifying C++ with STL containers via predicate abstraction">Verifying C++ with STL containers via predicate abstraction</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81408595260" >Nicolas Blanc</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100210974" >Daniel Kroening</a><br />ASE '07 Proceedings of the twenty-second IEEE/ACM international conference on Automated software engineering, 2007</div></div>
+<!-- ACM DL Bibliometrics: Verifying C++ with STL containers via predicate abstraction-->
+<div class="acmdlstat" id ="stats1321724"><iframe src="http://dl.acm.org/authorizestats?921615" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Explaining abstract counterexamples-->
+<div class="acmdlitem" id="item1029908"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?730856" title="Explaining abstract counterexamples">Explaining abstract counterexamples</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100403331" >Sagar Chaki</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81100140389" >Ofer Strichman</a><br />SIGSOFT '04/FSE-12 Proceedings of the 12th ACM SIGSOFT twelfth international symposium on Foundations of software engineering, 2004</div></div>
+<!-- ACM DL Bibliometrics: Explaining abstract counterexamples-->
+<div class="acmdlstat" id ="stats1029908"><iframe src="http://dl.acm.org/authorizestats?730856" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<!-- ACM DL Article: Model checking Java programs using structural heuristics-->
+<div class="acmdlitem" id="item566175"><img src="http://dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="http://dl.acm.org/authorize?36944" title="Model checking Java programs using structural heuristics">Model checking Java programs using structural heuristics</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=81100190717" >Alex Groce</a>, <a href="http://dl.acm.org/author_page.cfm?id=81392613559" >Willem Visser</a><br />ACM SIGSOFT Software Engineering Notes, 2002</div></div>
+<!-- ACM DL Bibliometrics: Model checking Java programs using structural heuristics-->
+<div class="acmdlstat" id ="stats566175"><iframe src="http://dl.acm.org/authorizestats?36944" width="100%" height="30" scrolling="no" frameborder="0">frames are not supported</iframe></div> 
+<a href = "index.html"> Back to Alex's Page</a>
+<hr>
+<i>Comments & questions to <a href = "mailto:agroce@gmail.com">
+agroce@gmail.com</a>.
+<hr>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

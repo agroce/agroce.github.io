@@ -1,0 +1,7 @@
+all:	
+	latex cv.tex
+	dvips -o cv.ps cv.dvi
+	pdflatex cv.tex
+	yes | cp cv.ps ~/www
+	yes | cp cv.pdf ~/www
+	gv cv.ps &

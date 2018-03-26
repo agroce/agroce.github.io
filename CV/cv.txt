@@ -1,0 +1,230 @@
+Alex David Groce
+
+Carnegie Mellon University
+Computer Science Department
+5000 Forbes Avenue
+Pittsburgh, PA 15213-3891
+412-268-3066
+agroce@cs.cmu.edu
+
+5621 Forbes Avenue, Apt. 2
+Pittsburgh, PA 15217-1565
+412-422-7888
+
+Education:
+  * Ph.D., Computer Science, Carnegie Mellon University, Fall 2004 (expected).
+
+  * B.S., Computer Science, North Carolina State University, May 1999 (summa cum laude).
+  * B.S., Multidisciplinary Studies, North Carolina State University, May 1999 (summa cum laude).
+*       Minors:  English Literature and  Science, Technology, and Society.
+
+Research Interests:
+* Specifying, testing, verifying, and debugging software written in widely used programming languages, such as ANSI C and Java.
+
+Topics:
+*  Software model checking:  I have investigated the use of fast SAT procedures for bounded model checking (http://www.cs.cmu.edu/~modelcheck/cbmc/) and predicate abstraction based model checking (http://www.cs.cmu.edu/~chaki/magic/).  Model checking research can produce practical tools for developers of critical software in real-world languages and environments.
+*  Error explanation:   I have developed automatic tools for explaining and localizing errors in ANSI C and Java source code.  Understanding and correcting errors can be as difficult and costly as implementation or design.  My thesis work on this topic indicates a promising future for model checking for purposes of automated debugging.
+*  Coverage for model checking: I am interested in coverage metrics and certification methods for model checkers.  Traditional and cutting-edge measures from the world of testing can be applied to model checking runs, and proof-based techniques for certification have recently appeared.  However, the general problem remains:  after verification, how much confidence should we have in in the correctness of a program?
+
+
+Research Experience:
+  *  8/1999--present -- Ph.D. student, Carnegie Mellon
+  University.  Invented methods for error explanation and fault
+  isolation using model checking and distance metrics.  Invented and
+  implemented novel and successful approaches for counterexample
+  guided abstraction refinement.
+
+  *  5/2002--8/2002 --  Summer Student Research Program, RIACS/NASA Ames Research Center, Automated Software Engineering group.  Invented and implemented methods for error explanation, using model checking counterexamples to provide automatic feedback about the causes and location of errors in Java programs.
+
+  *  5/2001--8/2001 --  Summer Student Research Program, RIACS/NASA Ames Research Center, Automated Software Engineering group.  Invented and experimented with novel (and successful) heuristics for model checking Java programs; implemented heuristic search in the Java PathFinder 2 model checker.
+
+  *  5/2000--8/2000 --  Research intern, Bell Laboratories (Murray Hill).  Implemented black box checking algorithm (model checking for an unknown model using FSM learning algorithms) and investigated theoretical aspects and applications of the algorithm to software model checking.
+
+  *  5/1999--8/1999 -- Summer research assistant, SUNY Stony Brook.  Continued work from the previous summer on ABTAs.
+
+  *  5/1998--8/1998 -- Summer research assistant, North Carolina State University.   Implemented a model checker based on Alternating Buechi Tableau Automata and developed logical optimizations for ABTAs.
+
+
+Teaching Experience:
+   *  Fall 2003 -- Teaching assistant, Carnegie Mellon University,
+    for undergraduate course 15-212, Principles of Programming.
+    Formulated assignments, graded assignments and
+    tests, taught a weekly recitation session, and held weekly office hours.
+
+   *  Spring 2000 -- Teaching assistant, Carnegie Mellon
+   University, for undergraduate course 15-312, Foundations of
+   Programming Languages.  Formulated tests and assignments, graded
+   assignments and tests, taught a weekly recitation session, and held
+   weekly office hours.
+
+   *  Fall 1998 -- Teaching assistant, North Carolina State
+   University, for undergraduate course CSC417, Theory of
+   Programming Languages.  Graded assignments and held weekly office hours.
+
+   *  Fall 1997, Spring 1998 -- Teaching assistant, North
+   Carolina State University, for undergraduate course CSC210,
+   Programming Concepts.  Graded assignments and held weekly office
+   hours.
+
+   *  Spring 1997 -- Teaching assistant, North
+   Carolina State University, for CSC495C,
+   Special Topics.  Graded assignments and held weekly office
+   hours.  This was a class for professional C programmers in industry
+   learning C++ and object-oriented design.
+
+
+Honors:
+  * ICSE 2003 ACM SIGSOFT Distinguished Paper Award
+  * NASA ``Engineering Innovation'' Turning Goals Into Reality (TGIR) Award 2003 (Java PathFinder team)
+  * National Science Foundation Graduate Fellowship
+  * NCSU Class of 1999 College of Humanities and Social Sciences Scholar
+  * Phi Beta Kappa
+
+Professional Activities:
+  * Reviewer for IEEE Transactions on Software Engineering, ACM Transactions on  Software  Engineering  and  Methodology, Software Tools for Technology Transfer, Formal Methods in System Design, IEEE Transactions on Parallel and Distributed Systems, Computer Aided Verification, Tools and Algorithms for the Construction and Analysis of Systems, Foundations of Software Engineering, Automated Software Engineering, International Conference on Software Engineering, Principles of Programming Languages, Formal Methods in Computer-Aided Design, Workshop on Model Checking and Artificial Intelligence, and Workshop on Software Model Checking.
+  * Association for Computing Machinery, Special Interest Group on Software Engineering (ACM SIGSOFT) member.
+
+Journal Publications:
+
+Alex Groce and Willem Visser.
+ "Heuristics for Model Checking Java Programs."
+ International Journal on Software Tools for Technology Transfer, Online First.
+
+Sagar Chaki, Edmund Clarke, Alex Groce, Joel Ouaknine, Ofer Strichman, and Karen Yorav.
+ "Efficient Verification of Sequential and Concurrent C Programs."
+ Formal Methods in System Design, Special Issue on Software Model Checking, 25(2-3):129-166, September-November 2004.
+
+Sagar Chaki, Edmund Clarke, Alex Groce, Somesh Jha, and Helmut Veith.
+ "Modular Verification of Software Components in C."
+ IEEE Transactions on Software Engineering, 30(6):388--402, June 2004.
+
+Refereed Conference and Workshop Papers:
+
+Daniel Kroening, Alex Groce, and Edmund Clarke.
+ "Counterexample Guided Abstraction Refinement via Program Execution."
+ International Conference on
+   Formal Engineering Methods,  pages 224--238, Seattle, Washington, November 2004.
+
+Sagar Chaki, Alex Groce, and Ofer Strichman.
+ "Explaining Abstract Counterexamples."
+ Foundations of Software Engineering,  pages 73--82, Newport Beach, California, October-November 2004.
+
+Alex Groce and Daniel Kroening.
+ "Making the Most of BMC Counterexamples."
+ Workshop on Bounded Model Checking,  pages 71--84, Boston, Massachusetts, July 2004.
+
+Alex Groce, Daniel Kroening, and Flavio Lerda.
+ "Understanding Counterexamples with explain."
+ Computer Aided Verification,  pages 453--456, Boston, Massachusetts, July 2004.
+
+Alex Groce.
+ "Error Explanation with Distance Metrics."
+ Tools and Algorithms for the Construction and Analysis of Systems, pages 108--122, Barcelona, Spain, March-April 2004.
+
+
+Edjard Mota, Edmund Clarke, W. Oliveira, Alex Groce, J. Kanda, and M. Falcao.
+ "VeriAgent: an Approach to Integrating UML and Formal Verification Tools."
+ In Sixth Brazilian Workshop on Formal Methods (WMF 2003), Universidade Federal de Campina Grande, Brazil, October 2003.
+
+Sagar Chaki, Edmund Clarke, Alex Groce, and Ofer Strichman.
+ "Predicate Abstraction with Minimum Predicates."
+ In Advanced Research Working Conference on Correct Hardware Design and Verification Methods (CHARME), pages 19--34, L'Aquila, Italy, October 2003.
+
+
+Alex Groce and Willem Visser.
+ "What Went Wrong: Explaining Counterexamples."
+ In SPIN Workshop on Model Checking of Software, pages 121--135, Portland, Oregon, May 2003.
+
+Sagar Chaki, Edmund Clarke, Alex Groce, Somesh Jha, and Helmut Veith.
+ "Modular Verification of Software Components in C."
+ In Proceedings of the 25th International Conference on Software Engineering, pages 385--395, Portland, Oregon, May 2003.
+
+Alex Groce, Doron Peled, and Mihalis Yannakakis.
+ "AMC: An Adaptive Model Checker."
+ In Computer Aided Verification, pages 521-525, Copenhagen, Denmark, July 2002.
+
+Alex Groce and Willem Visser.
+ "Model Checking Java Programs using Structural Heuristics."
+ In International Symposium on Software Testing and Analysis, pages 12--21, Rome, Italy, July 2002.
+
+Alex Groce and Willem Visser.
+ "Heuristic Model Checking for Java Programs."
+ In SPIN Workshop on Model Checking of Software, pages 242--245, Grenoble, France, April 2002.
+
+Alex Groce, Doron Peled, and Mihalis Yannakakis.
+ "Adaptive Model Checking."
+ In Tools and Algorithms for the Construction and Analysis of Systems, pages 357--370, Grenoble, France, April 2002.
+
+Girish Bhat, Rance Cleaveland, and Alex Groce.
+ "Efficient Model Checking Via Buechi Tableau Automata."
+ In Computer Aided Verification, pages 38--52, Paris, France, July 2001.
+
+Invited Seminars
+  * Dagstuhl Seminar 03491, Understanding Program Dynamics, Schloss Dagstuhl, Wadern, Germany, November 31-December 5, 2003.
+
+Selected Presentations
+  * ``Counterexample Guided Abstraction Refinement via Program Execution,'' International Conference on Formal Engineering Methods, Seattle, WA, November 11, 2004.
+
+  * ``Explaining Counterexamples,'' Microsoft Research, Redmond, WA, November 8, 2004.
+
+  * ``Explaining Abstract Counterexamples,'' SIGSOFT/Foundations of Software Engineering, Newport Beach, CA, November 2, 2004.
+
+  * ``Debugging Code with Model Checkers,'' Jet Propulsion Laboratory, Pasadena, CA, November 1, 2004.
+
+  * ``CBMC and C Model Checking,'' MURI Review Meeting, Annapolis, MD, August 16, 2004.
+
+  * ``Java PathFinder,'' Software Model Checking Seminar, Carnegie Mellon University, Pittsburgh, PA, July 22, 2004.
+
+  * ``Error Explanation with Distance Metrics,'' Tools and Algorithms for the Construction and Analysis of Systems, Barcelona, Spain, March 29, 2004.  
+
+
+  * ``Error Explanation via Model Checking,''  Dagstuhl Seminar 03491, Understanding Program Dynamics, Schloss Dagstuhl, Wadern, Germany, December 5, 2003.
+
+  * ``Explaining Errors,'' MURI Workshop, Carnegie Mellon University, Pittsburgh, PA, July 22, 2003.
+
+  * ``Explaining Counterexamples: Causal Analysis and Comparison of Transition Sequences,''  Specification and Verification Center, Carnegie Mellon University, Pittsburgh, PA, May 20, 2003.
+
+  * ``What Went Wrong: Explaining Counterexamples,''  SPIN Workshop on Model Checking of Software, Portland, OR, May 9, 2003.  Earlier versions presented at Specification and Verification Center, Carnegie Mellon University, Pittsburgh, PA, September 17, 2002, and NASA Ames Research Center/RIACS Seminar, Mountain View, CA, August 8, 2002.
+
+  * ``Model Checking Java Programs using Structural Heuristics,''  International Symposium on Software Testing and Analysis, Rome, Italy, July 22, 2002.
+
+  * ``Heuristic Model Checking for Java Programs,''  SPIN Workshop on Model Checking of Software, Grenoble, France, April 13, 2002.
+
+  * ``Adaptive Model Checking,''  Tools and Algorithms for the Construction and Analysis of Systems, Grenoble, France, April 11, 2002.
+
+  * ``Structural Heuristics for Directed Model Checking of Java Programs,''  Specification and Verification Center, Carnegie Mellon University, Pittsburgh PA,  March 19, 2002.
+
+  * ``Efficient Model Checking Via Buechi Tableau Automata,''  Conference on Computer Aided Verification, Paris, France, July 19, 2001.     
+
+  * ``Black Box Checking,''  Federal University of Rio Grande do Norte, Natal, Brazil, March 29, 2001.
+
+References:
+
+Dr. Edmund Clarke 
+FORE Systems Professor of Computer Science 
+Computer Science Department 
+Carnegie Mellon University 
+5000 Forbes Avenue 
+Pittsburgh, PA 15213-3891 
+412-268-2628
+
+Dr. Willem Visser 
+NASA Ames Research Center 
+M/S 269-2 
+Moffett Field, CA 94035-1000 
+650-604-3515 
+
+Dr. Doron Peled 
+Professor of Software Engineering 
+Department of Computer Science 
+The University of Warwick 
+Coventry, CV4 7AL 
+United Kingdom 
++44(24)7657 3796 
+
+Dr. Rance Cleaveland
+Professor 
+Department of Computer Science 
+State University of New York at Stony Brook 
+Stony Brook, NY 11794-4400 
+631-632-8448 

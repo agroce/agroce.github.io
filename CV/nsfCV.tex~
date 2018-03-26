@@ -1,0 +1,178 @@
+\documentclass[fleqn,11pt]{article}
+
+\usepackage[dvips]{epsfig,graphics,color}
+\usepackage{times}
+\usepackage{xspace}
+\usepackage{url}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+
+\setlength{\topmargin}{-0.5in}
+%\newcommand{\sht}{\\[-.24in]}
+\newcommand{\sht}{\vspace{-.24in}}
+\renewcommand{\textfraction}{.1}
+\renewcommand{\topfraction}{.80}
+\renewcommand{\bottomfraction}{.80}
+\newtheorem{Example}{Example}
+
+\newcommand\nin{\noindent}
+\newcommand\bd[1]{\mbox{\bf #1}}
+\newcommand{\emm}[1]{{\em #1}}
+\newcommand{\figr}[1]{Figure~\ref{fig:#1}}
+\newcommand{\figl}[1]{\label{fig:#1}}
+\newcommand{\secr}[1]{Section~\ref{sec:#1}}
+\newcommand{\secl}[1]{\label{sec:#1}}
+\renewcommand{\$}[1]{$#1$}
+\newcommand{\ignore}[1]{}
+\newcommand{\dollar}{{\rm \char'44}}
+\newcommand\pll{\mathop{\Vert}}
+\newcommand\otc{{\sf Ots}\xspace}
+\newcommand\ots{{\sf Ots}\xspace}
+\newcommand{\bpel}{{\sc Bpel4ws}\xspace}
+\newcommand{\bpw}{{\sc Bps4j}\space}
+\newcommand{\xml}{{\sc xml}\xspace}
+\newcommand{\hrm}{{\sc hrm}\xspace}
+\newcommand{\hhm}{{\sc hhm}\xspace}
+\newcommand{\svc}{{\sc svc}\xspace}
+
+%\newcommand{\numsupported}{10}
+
+%\input{lmacs}
+
+\begin{document}
+
+\begin{center}
+{\Large\bf Alex D.\ Groce}
+\end{center}
+
+\subsection*{Professional Preparation}
+
+\begin{tabular}{lllr}
+North Carolina State University & Computer Science & B.S. & 1999\\
+North Carolina State University & Multidisciplinary Studies & B.S. & 1999\\
+Carnegie Mellon University & Computer Science & Ph.D. & 2005\\
+\end{tabular}
+
+\subsection*{Appointments}
+
+\begin{tabular}{ll}
+2005--     & Researcher, Laboratory for Reliable Software, Jet Propulsion Laboratory\\
+2008 (3rd Term) & Lecturer in Computer Science at California Institute of Technology
+\end{tabular}
+
+\subsection*{Five Publications Most Closely Related to the Proposed
+Project}
+%\sht
+\begin{enumerate}
+\item K. Havelund, A. Groce, G. Holzmann, R. Joshi, and M. Smith.  Automated Testing of Planning Models.  {\em Proceedings of MOCHART'08, the Fifth International Workshop on Model Checking and Artificial Intelligence\/}, Patras, Greece (July 2008).
+\item A. Groce and R. Joshi.  Exploiting Traces in Static Program Analysis:  Better Model Checking through {\tt printf}s.  {\em International Journal on Software Tools for Technology Transfer\/}, Vol.~10, Issue~2, pp.~131-144 (March 2008).
+\item A. Groce and R. Joshi.  Extending Model Checking with Dynamic Analysis.  {\em Proceedings of the VMCAI'08, the Ninth International Conference on Verification, Model Checking and Abstract Interpretation\/}, San Francisco, CA, Springer, LNCS Vol.~4905 (January 2008).
+\item A. Groce, D. Peled, and M. Yannakakis.  Adaptive Model Checking.  {\em Logic Journal of the IGPL (Interest Group in Pure and Applied Logic)\/}, Vol.~14, Issue~5, pp.~729-744 (October 2006).
+\item D. Kroening, A. Groce, and E. Clarke.  Counterexample Guided Abstraction Refinement via Program Execution.  {\em Proceedings of ICFEM'04, the Sixth International Conference on Formal Engineering Methods\/}, Seattle, WA, Springer, LNCS Vol.~3308 (November 2004).
+\end{enumerate}
+
+\subsection*{Five Other Significant Publications}\
+%\sht
+\begin{enumerate}
+\item
+E. Bartocci, F. Corradini, E. Entcheva, R. Grosu and S.A.~Smolka.
+CellExcite: An Efficient Simulation Environment for Excitable Cells.
+{\em BMC Bioinformatics\/}, {\bf 9}(Suppl~2):53 (March 2008).
+\item
+P. Yang, C.R.~Ramakrishnan, and S.A.~Smolka,
+A Logical Encoding of the $\pi$-Calculus:  Model Checking Mobile
+Processes Using Tabled~Resolution.
+{\it International Journal on Software Tools for Technology Transfer (STTT)\/},
+Vol.~6, No.~1, pp.~38-66, Springer-Verlag (July 2004).
+\item
+D. Hansel, R. Cleaveland, and S.A. Smolka.  Distributed
+Prototyping from Validated Specifications.  {\em Journal of
+Systems and Software\/}, Vol.~70, Issue~3, pp.~275--298 (March
+2004).
+\item
+Y. Dong, X. Du, G. J. Holzmann and S.A. Smolka.  Fighting
+Livelock in the GNU i-Protocol: A Case Study in Explicit-State
+Model Checking.  {\it Software Tools for Technology Transfer\/},
+Vol.~4, Issue~2, 2003.
+\item
+Co-Inventor, U.S.\/ Patent No.~6,385,765,
+``Specification and Verification for Concurrent Systems with Graphical and
+Textual Editors''  (May 2002).
+\end{enumerate}
+
+\subsection*{Synergistic Activities: Five Examples}
+\begin{enumerate}
+\item
+Developed, along with Michael Kifer, the OSP and OSP~2 courseware for
+teaching undergraduate operating systems.  OSP, which has been
+used in over 100 institutions worldwide since 1991, is available
+via anonymous ftp from \verb+ftp.cs.sunysb.edu/~ospftp/+.  The OSP
+users guide is published as {\it OSP:  An Environment for
+Operating System Projects}, Addison-Wesley, Reading, MA (1991).  A 2007
+textbook on OSP~2, entitled \emph{Introduction to Operating System Design and
+Implementation: The OSP 2 Approach}, has been published by Springer Verlag.
+\item
+Developed, along with Paris C.~Kanellakis, what has come to be known
+as \emph{KS-partitioning}, the first algorithm for deciding
+bisimulation equivalence of finite-state processes.
+\item
+One of the developers, along with C.R.\ Ramakrishnan, I.V.\
+Ramakrishnan and D.S.\ Warren, of the XMC model checker.  XMC is a
+research tool developed with the support of NSF ESS grant
+CCR-9705998 and is available on the web at
+\url{http://www.cs.sunysb.edu/~lmc/}.
+\item
+Member: Editorial boards for ACM TOCL, STTT, LMCS and FMSD; Steering
+committee for the CONCUR conference series; and IFIP Working Groups~2.2
+(member emeritus) and~1.8.
+\item
+Co-Founder and President of Reactive Systems, Inc., which sells tools and
+services for automated testing \& validation of embedded-software designs
+based on co-founders' federally funded research.
+\end{enumerate}
+
+\subsection*{Collaborators During Last 48 months and Co-Editors During Last 24 months}
+Andrews, James (U.\ Western Ontario, Canada);
+Chaki, Sagar (Software Engineering Institute);
+Clarke, Edmund (Carnegie Mellon);
+Havelund, Klaus (Jet Propulsion Laboratory);
+Holzmann, Gerard (Jet Propulsion Laboratory);
+Jha, Somesh (U.\ Wisconsin, Madison)
+Joshi, Rajeev (Jet Propulsion Laboratory);
+Kroening, Daniel (Oxford, United Kingdom);
+Strichman, Ofer (Technion, Israel);
+Peled, Doron (Bar Ilan U., Israel / U. Warwick, United Kingdom);
+Veith, Helmut (TU Darmstadt, Germany);
+Visser, Willem (SEVEN Networks);
+Yannakakis, Mihalis (Columbia)
+
+\subsection*{Graduate and Postdoctoral Advisors}
+
+Clarke, Edmund M, Carnegie Mellon University.
+
+Basu, Samik (Iowa State);
+Cleaveland, Rance (U.\ Maryland);
+Corradini, Flavio (U.\ Camerino, Italy);
+Das, Samir (Stony Brook);
+Dong, Yifei (U.\ Oklahoma);
+Entcheva, Emilia (Stony Brook),
+Goldin, Dina (Brown);
+Grosu, Radu (Stony Brook);
+Kifer, Michael (Stony Brook);
+Mitra, Sayan (California Institute of Technology);
+Ramakrishnan, C.R. (Stony Brook);
+Ramakrishnan, I.V. (Stony Brook);
+Sims, Steven  (Reactive Systems, Inc.);
+Srba, Ji\v{r}\'{i} (Brno University of Technology);
+Stark, Eugene (Stony Brook);
+Stoller, Scott (Stony Brook);
+Tripakis, Stavros (Verimag, France);
+Wasilewska, Anita (Stony Brook);
+Wegner, Peter (Brown);
+Zadok, Erez (Stony Brook)
+
+
+\end{document}
