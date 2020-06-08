@@ -15,13 +15,39 @@ Some papers now have "executive summary" comments that explain why you might wan
 <ol>
 
 <li>
+<a href = "tosem20.pdf">
+<b>Using Relative Lines of Code to Guide Automated Test Generation for Python</b></a>
+  <p>
+Josie Holmes and Alex Groce.  "Using Relative Lines of Code to Guide
+  Automated Test Generation for Python." <i>ACM Transactions on
+  Software Engineering and Methodology</i>, accepted for publication.
+<p>
+<font face="Courier New">
+This paper shows that simply estimating the lines of code in each
+  function (including, only once, each function called by a function
+  as well), and adjusting probabilities in random test generation
+  according to relative LOC, such that if f has 2x the LOC of g, f
+  also will be called twice as often, can (sometimes dramatically)
+  improve the effectiveness of random testing for Python programs.  We
+  didn't scientifically prove it, but I would personally speculated
+  this is true for any API-call-based test generation, not just
+  Python.  In Python the need is particularly acute, due to slow code
+  coverage instrumentation, but in our results sometimes LOC was
+  better than a coverage-driven GA, and both together were usually the
+  best approach.  Side note:  when useful, unsurprisingly, swarm
+  testing was extremely effective, but it often was not useful.
+</font>
+<hr> 
+</li>
+  
+<li>
 <a href = "stvr20.pdf">
 <b>Using Mutants to Help Developers Distinguish and Debug
   (Compiler) Faults</b></a>
   <p>
 Josie Holmes and Alex Groce.  "Using Mutants to Help Developers Distinguish and Debug
   (Compiler) Faults." <i>Journal of Software Testing, Verification,
-  and Reliability</i>, accepted for publication.
+  and Reliability</i>, 30(2):e1727.
 <p>
 <font face="Courier New">
 Extension of our <a href="issre18.pdf">ISSRE 18</a> paper; much more
@@ -222,6 +248,24 @@ Fuller version of the ICSE paper presenting the MAGIC approach to model checking
 <hr>
 <ol>
   <li>
+  <li>
+  <a href = "issta20.pdf"><b>
+  Echidna: Effective, Usable, and Fast Fuzzing for Smart Contracts
+  </b></a>
+  <p>
+ Gustavo Grieco, Will Song, Artur Cygan, Josselin Feist, and Alex Groce. "Echidna: Effective, Usable, and Fast Fuzzing for Smart Contracts."
+  In <i>ACM SIGSOFT International Symposium on Software Testing and
+  Analysis</i>, Los Angeles, California, July 2020.
+  <p>
+<font face="Courier New">
+Basic tool paper on Echidna, a fuzzer for Ethereum smart contracts
+  that is, like the title says, intended to be effective, usable, and
+  fast:  not too hard to configure, not too hard to run, and with
+  quick feedback exposing bugs.
+</font>  
+<hr>  
+</li>
+  
   <a href = "fc20.pdf"><b>
   What are the Actual
 Flaws in Important Smart Contracts (and How Can We Find Them)?
@@ -250,6 +294,7 @@ Analyses of "everything on the blockchain" (which is mostly garbage)
 </font>  
   <hr>  
   </li>
+  
   <li>
   <a href = "ase19.pdf"><b>
   Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts
@@ -269,6 +314,7 @@ Presents Manticore, a powerful and easy-to-script/extend symboliic
 </font>  
   <hr>  
   </li>
+  
     <li>
   <a href = "issre19.pdf"><b>
   Building Resource Adaptations via Test-Based Software Minimization: Application, Challenges, and Opportunities
