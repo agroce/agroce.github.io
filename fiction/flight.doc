@@ -1,0 +1,565 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff6\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier{\*\falt Courier New};}{\f179\froman\fcharset238\fprq2 Times New Roman CE;}{\f180\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f182\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f183\froman\fcharset162\fprq2 Times New Roman Tur;}{\f184\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f185\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f186\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f195\fmodern\fcharset238\fprq1 Courier New CE;}{\f196\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f198\fmodern\fcharset161\fprq1 Courier New Greek;}{\f199\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f200\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f201\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f202\fmodern\fcharset186\fprq1 Courier New Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;\red255\green255\blue255;}{\stylesheet{\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive 
+Default Paragraph Font;}{\s15\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 header;}{\s16\ql \li0\ri0\widctlpar
+\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 footer;}{\*\cs17 \additive \sbasedon10 page number;}}{\info{\title RECEIVED:}{\author a d g}
+{\operator Alex David Groce}{\creatim\yr1999\mo3\dy17\hr16}{\revtim\yr2001\mo5\dy17\hr23\min47}{\printim\yr1999\mo5\dy4\hr17\min16}{\version25}{\edmins421}{\nofpages45}{\nofwords11573}{\nofchars52080}{\*\company  }{\nofcharsws81013}{\vern8269}}
+\margl1440\margr1440 \widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\lytprtmet\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl \fet0\sectd \psz1\linex0\endnhere\titlepg\sectdefaultcl {\header \pard\plain \s15\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 
+\f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs20 
+\par }\pard \s15\qr \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 {\fs20 Groce: }{\field{\*\fldinst {\cs17\fs20  PAGE }}{\fldrslt {\cs17\fs20\lang1024\langfe1024\noproof 35}}}{\fs20 
+\par 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\trowd \trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4878 \cellx4770\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4698 \cellx9468\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\faauto\adjustright\rin0\lin0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f2 Alex David Groce
+\par 6000 Highway 21
+\par Jonesville, NC 28642
+\par (336)-835-6073
+\par \cell }\pard \qr \li0\ri0\widctlpar\intbl\faauto\adjustright\rin0\lin0 {\f2 ABOUT
+\par 12000
+\par WORDS\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f2 \trowd \trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr
+\brdrnone \cltxlrtb\clftsWidth3\clwWidth4878 \cellx4770\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4698 \cellx9468\row }\pard \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {
+\f2 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard\plain \s15\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f2 
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f2 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FLIGHT
+\par 
+\par Alex David Groce
+\par 
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+\par 
+\par \tab \'93Fragments of a manuscript discovered after the storming of the \lquote Bastille.\rquote \'94  J. Storr.  Edited and abridged by A. Groce.  }{\i\f2 Historical Scholar}{\f2 , Aug. 810.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 NOTE:  These fragments are of dubious authenticity.  Stoddard and Glenn believe that they are apocryph
+a dating from at least two generations after the Second Revolution.  Storr defends the pieced-together \'93document\'94 on the grounds that, whether it is an actual prisoner\rquote 
+s record or not, it is relevant to understanding the conditions that led to revolution; 
+however, as you will see, this is also open to debate.  Some would argue that the conditions the prisoner describes are for the most part universal throughout human experience; Storr has suggested that this is the true note of the manuscript\rquote 
+s authenticity.
+\par }\pard \qc \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 1:
+\par \tab Dr. Johnson said \'93Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully.\'94  This is so.
+\par \tab \'93First,\'94 they say, \'93we will remove your eyeballs.  You must believe that this will be more painful than you can
+ imagine.  Then, having blinded you, we will amputate your limbs, making sure to staunch the flow of blood; you see, we wish you to live some time.\'94
+\par \tab At this point they always apply a burning iron to my back, and if I only knew what sign it was they brande
+d me with I should be much better off.  The dream ends when I see the scalding tongs descending towards my eyes.  Sometimes the order is reversed and they amputate my arms and legs before blinding me.  This is excruciating, but bearable because I am aware
+ it is only a premonition of what is to come.
+\par \tab As I mentioned ear
+lier, the warden denies all this.  He has just left, again.  There are two possibilities:  I am here because they want something from me (I have a secret, I have a secret) or because I want something from them (in which case I also have a secret, but they
+ do not know it).
+\par \tab The warden\rquote s story is highly unlikely.  That I would be so stupid as to assault an officer of the law is unbelievable.  If he insulted my woman (had I a woman) I would, perhaps, kill a member of the Securitet, but I would not get into a b
+arroom brawl with him.  Therefore, if the story is true, then it means that I was seeking imprisonment.  Anyway, if a woman were so important to me I would remember her.
+\par \tab The essential questions for you, my reader, are the same ones I ask myself:  who am I and what am I doing here?  And whose are the wings I hear beating in my dream?
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 NOTE:  The supposed original of the \'93first\'94
+ fragment is written on a sheet of paper that dates to a period well before the revolution (c. 688) but the writing itself cannot, 
+of course, be dated.  The numbering of the fragments is that assigned by Storr, since the sheets were not found together, nor were they numbered.  Because of the document\rquote 
+s nature, the correctness of this order is uncertain, although in all fairness to Storr it must be admitted that his arrangement seems to be the most coherent.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 2:
+\par \tab I will describe the wall of my cell.  It is gray, and it is stone.  That is the wall of my cell.
+\par \tab I could dig my way out of the Chateau d\rquote If, but these walls are very solid and I do not have time.  The warden tells me that I am to be released in two days, which does not give me enough time to escape.
+\par \tab }{\i\f2 She}{\f2  presents a problem.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 NOTE:  This is the first reference to a mysterious female figure later referred to as \'93the Lady.\'94  The identification of \'93}{\i\f2 she}{\f2 \'94 with \'93
+the Lady\'94 has been generally accepted since 780, when Storr challenged Stoddard to a duel over the matter.  This fragment, curiously enough, was found on a piece of butcher\rquote s paper, soaked in blood.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 3:
+\par \tab Th
+e warden is a pleasant man, although he is too fat.  We play chess a great deal, and he always loses.  He says that I am more interesting than most of the other prisoners, who are (he claims, and I almost believe him) elderly political prisoners left over
+ from the last regime, held only as a mercy\emdash 
+many of them do not (again, this is what the warden claims) even remember why they are here.  They are pleasant, but usually somewhat distant, and many are afflicted with memory disorders, ranging from eidetic, bu
+t obsessively trivial, memoriousness to complete amnesia (save for memory of certain abstract and incomprehensible political doctrines).  Only a few old firebrands still seem to harbor a grudge against the government, and they are in such poor health and 
+of such great age that they are the most laughable of revolutionaries.
+\par \tab It is the reactionaries, he tells me as he moves his knight to check my king, that are most useful to him, because they are often very good chess players.  But I am his only really worthy opponent.  \'93Mate in four,\'94
+ I tell him as I take his knight.
+\par \tab The dream is back again, after three years of sleepless nights.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab NOTE:  After this point it will be necessary to present only certain, more interesting, fragments.  The bulk of the remaining
+ two hundred are either written in what appears to be some form of code or indicative of such a disordered mental state that they are not easily parsed by the sane.  Four of the fragments are not available for study (see Storr, J., \'93
+Academic Freedom and National Security\'94 in }{\i\f2 Historical Scholar}{\f2 , Jan. 789).
+\par \tab The duration of the prisoner\rquote s stay in the \'93Bastille\'94 is a matter of considerable controversy.  Certain modern techniques of psychological treatment can produce a temporal disorientation similar to that a
+pparently experienced by the prisoner.  Crantree suggests that a similar technique may have been employed by the pre-revolutionary government to rehabilitate prisoners.  The length of the final (and still incomplete) document suggests a period of at least
+ five years, possibly more, unless the prisoner wrote at a truly astonishing rate.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 14:
+\par \tab Fit the first.
+\par \tab Should this record survive me, they may alter it.  Reader, beware!  In fact, the text you see may not be what I wrote, or, more importantly ma
+y be a carefully selected and misleading portion of the whole.  The ravings of a madman are one thing, and these \'93notes from underwater\'94 as I should call them, are another.
+\par \tab However, I believe that I have found a solution to this problem.  I have encrypted the whole within a portion\emdash 
+the very part of this document that for their own devious purposes they will maintain unaltered is, in fact, a cryptogram that encapsulates the everything.
+\par \tab I will not have time to complete my work, though, if they insist upon letting me go.
+\par \tab She came again last night, after the dream of sweet torture.  She says much the same things as the warden, but more plausibly.  I cannot suspect her of being their agent.  She is of another order.
+\par \tab \'93Sir,\'94 she says, \'93if you will look, your cell is not small and gray.  It is a fair-sized and hospitable room, only the door is locked from the outside.  It is much nicer than the warden\rquote s office.\'94
+  She is (possibly) correct, but that does not fit my story very well.
+\par \tab \'93Also, you have only been here for a week.  You punched an officer in a bar, and though you got the worst of the fight and he pled for clemency, you were sentenced to ten weeks.  The woman the officer insulted will be waiting for you outside.\'94
+
+\par \tab This is also a plausible story.  In fact I am here to spy on the prison, and to ascertain that a certain man, X we shall call him, or \'93the prisoner of Zenda\'94
+, the true King, is being held here.  The fight was a ruse, calculated to get me imprisoned.
+\par \tab Only, the plan did not
+ work quite right.  They somehow discovered my purpose, and have removed my memory of the rest of the plan, including who it is that I am a spy for.  It is even possible that I am in the service of another branch of the government, uncovering a plot from 
+within by traitors to our country.
+\par \tab She kisses my brow before she leaves.  There is nothing sexual about all of this, I assure you, despite her being young and darkly beautiful, and dressed in a diaphanous robe.  She is above my station, and I know it.  I h
+ad sooner lust after an angel.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+NOTE:  The original of this fragment contains, in addition to the uneven typescript here given, a series of illegible crayon scrawls.  Storr and other historians generally agree that the last of these marks can be read as saying:  \'93
+Labyrinth is composed of crayons and overabundant Icons in constant delay (half-wife < forever). impermanent but what is beyond I ask?\'94  The various proposed interpretations of this remark are unsatisfying.  See the fragments numbered 103, 183, an
+d 202 for my alternative reading.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 26:
+\par \tab The warden informs me that I am to be hanged at dawn.  Apparently, the \'93officer\'94 suddenly took a turn for the worse, and is now dead.  I have killed a man.  It\rquote s actually very amusing, since I don\rquote t even remember him at all.
+
+\par \tab My Lady says that this, too, is a ruse.  They are attempting to shock me out of my \'93mentally unbalanced\'94 state.  However, I have begun to suspect that I am not a spy, but that this \'93mental unbalance\'94 is a ruse on their part.  In fact.  
+In fact.  Neither story is true\emdash neither mine nor theirs.  The real story is lost.
+\par \tab In fact, a ruse on their part to convince me that I am mad, in the hopes that eventually my identity will completely break down and I will tell them whatever secret it is th
+at I am supposed to have.  Standard tactics, to bewilder a poor man into surrendering his most guarded possession.  Whom the gods would interrogate, they first drive mad.
+\par \tab It is true that this proposed hanging is also a ruse, although I wish it were not.  Execution might give me a bit of honor, because how can you take pride in going mad?
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+NOTE:  Apparently the prisoner was correct.  The hanging is not mentioned again, and from time to time in the next hundred fragments he mentions new threats of execution
+.  He does not take any of these very seriously, although later, once he has become even closer friends with the warden, he mentions how upset the warden seems whenever he has to carry these false messages (as below).
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 50:
+\par \tab The warden has arrange
+d for me to receive better food.  He often takes his own evening meal with me now.  Steak, crab, salmon, even corn and broccoli--the variety and quality is excellent.  I wonder why they allow him to lavish such special treatment upon me.  The warden himse
+lf has given up all hope of me recovering my memory of the secret the government hopes to obtain.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 94:
+\par \tab The warden today confessed.  He started to tell me that they were going to shoot me at midnight, but then stopped.  He sat down on the bed and said \'93It\rquote s a lie.  Don\rquote t tell them I told you, but you must have figured it out by now
+\emdash you\rquote re not that crazy.\'94  I have come to trust the warden.  He likes me, and I like him.  I think in a sense we are the same kind of person, and perhaps serve similar fun
+ctions within the apparatus of the state.  He shares my dangerous taste for Bach as well, and has always brought me whatever books I want, even some that are supposedly banned, such as the Barchester novels, although \'93banned\'94
+ books have always been available to the intelligentsia.
+\par \tab Not that I like him only because he performs certain useful services!  We talk a great deal now, although some of these conversations I have censored from this document because they are irrelevant to my purposes.  He tells me he 
+is beginning work on a story about me.  A prison, I suppose, inspires men to write.  Boethius, Cervantes, Bunyan, etc.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 103:
+\par \tab The warden showed me a picture of his daughter today.  It is strange to think that he has a life outside of this place.  At the end of the day he leaves the \'93Bastille\'94
+ and walks through the back alleys to a tiny, dirty apartment in the Old Town.  He is as alone there as I am in my cell, and, ironically, does not even own a record player although he gave me one for Christmas
+, (with some appropriate music, thus breaking two laws at once).  He is alone by choice--he sent little Eleanor abroad when the political situation became intolerable.  She is a small child, frail and birdlike, with a halo of fragile golden hair--complete
+ly unlike her father in appearance.  Her mother died in the Fever of 610.  She must have been a beautiful woman.
+\par \tab I wish he had left the picture with me.  I would place it on the mirror on my dresser.  Despite the rather posh furnishings, the gilt-framed bed, the ivory table, etc., this cell is barren.  It needs a child.
+\par \tab The thought of poor Eleanor waving to her father from the ship makes me so sad, I wonder if I have a daughter, a wife, a family?  Perhaps these people, who I love though I do not remember t
+hem, are part of the faceless crowd that I so despise.  Perhaps I look down on them from my barred window when the dull roar of their protest (or the sudden alarm and fight/flight when the Law disperses them) attracts my attention.  For all I know, I was 
+once part of that anonymous and fickle mob myself.  In some little apartment in this city my wife may be saying even now, \'93We do not know where your father went.  God grant us that he will return home safely.\'94
+  And my child is weeping for her father.
+\par \tab 
+But if I have a family, they are outside the labyrinth, I pray.  Inside, in here, and out there on the street, the walls shift constantly, walls made of the lies they tell me, the lies I tell them, the polite half-truths the warden and I exchange in order
+ to avoid completely disheartening each other, the lies of the government and the revolutionaries and the masses.
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 My little girl, if she }{\i\f2 is}{\f2 , is not part of that.  My wife loves me, not some imagined secret I possess.  Even if my family is lost forever to me
+, they are free and real.  All men, surely, are not wardens or prisoners?  Perhaps they are.  Is the nightingale that sings outside my window a part of the game--or does it have wings both real and metaphorical?  Hard to say.
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab One thing I am certain of:  the Lady is not a part of the labyrinth.  It could not contain her, though she lives within it.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 113:
+\par \tab We witnessed an execution today, the first in months.  The Warden (Harding--he trusts me enough to tell me his name--I wish that I could return 
+the favor), as is customary, did not appear before the public, but watched from inside.  My window provides an excellent view of the front yard.
+\par \tab A large crowd was allowed inside the walls to watch the poor woman die.  The soldiers, in their brown dress uniforms, kept their rifles trained on the crowd, which ruined the effect of the military display.
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 Another group of soldiers, rifles properly shouldered, escorted the prisoner from the door.  They brought her to Mr. Guillotine.  It is interesting that (at le
+ast as I saw it) only two of the hundreds of figures below were distinguishable, anything but faceless members of the mob or the rifle squad.  The central actor in the drama, of course, was the woman about to be executed.  She could not have been much old
+e
+r than twenty, and was breathtakingly beautiful.  She wore a pale sea-green dress, quite elegant, although not the present fashion.  Her hair was a smoldering red, and hung to her waist, unbound.  It was the brightest thing in the drab prison yard; in ear
+ly winter the grass takes on a ghastly gray shade and the lonely tree is stark and barren.  She looked back and up at the Bastille for a moment, as if to greet the Warden and myself, or, more likely, to see her \'93home\'94
+ for the last time.  Her face was pale and soft, already like an aging photograph--of a woman who was a beauty in her prime in the oldest living man\rquote s childhood, but, the old man sighs, \'93is now gone down to dust these forty years.\'94
+  There was a dignity in her expression  and bearing that was almost unbearable to watch.
+\par The other figure was Mr. Guillotine, the executioner.  He was dressed in white, from head to toe, even his boots, and wore the mask of a skull.  He was a head taller than any of the others gathered below, and his shoulders were mor
+e than broad enough to match his height.  I wonder still how his identity was kept a secret; the mask hid his face, but surely he was recognizable in his outside life by his stature?  The only solution that I can offer is that he was a prisoner himself--p
+erhaps with his death sentence altered to one of half-life, half-(acting as the agent of)-death.
+\par Only two real people in the whole crowd, and one of them not a person but a thing, the face behind the mask of reality, the grinning skull always leering at you behind your back.  Death and the maiden.
+\par She kneeled under the tree, and placed her head on the block.  A soldier stepped up and cut her hair.  It was a butchery, as savage as the execution in its own way.  When he was finished, her neck was bare.
+\par The sho
+uts of the crowd were becoming more bloodthirsty.  The Warden whispered to me that she was as unpopular with them as with the government; the reforms she had been foolish enough to suggest pleased neither the satisfied rich nor the rapacious poor.  It was
+ not those reforms but the motivations behind them, he added, that had ensured her sentence.  The judge had explained the importance of maintaining the \'93sacred\'94 (how ironic) Separation.
+\par Mr. Guillotine lifted the axe from beside the block and tested its edge
+ against his gloved hand.  Satisfied, he raised it high in the air.  The girl on the block still said nothing, still refused to cry or scream, which angered the now roaring crowd.  As the mob drew closer to the tree the soldiers tightened their line.  The
+ drum-roll ended and I turned away from the window.  I did not hear the axe fall, it is only a small sound, though sickening if you are close enough to hear it.  Only the cheers ensured me that justice had been done.
+\par Perhaps she was my wife, and now I am a widower.  She was young enough to be my daughter.  God have mercy on our souls.
+\par The warden told me this morning that the }{\i\f2 Institute de Physic}{\f2  announced today the discovery of a new particle.  The quantum of time, the chronon.  While we played darts, careful
+ not to bury any of them in the finely paneled oak walls of the cell, he explained the significance of the discovery.  He thinks that I may have had a scientific career before my unfortunate loss of memory, and so is always telling me these things.
+\par The chronon has both imaginary mass and charge (0+}{\i\f2 ei}{\f2  and 0-}{\i\f2 ei}{\f2 
+, respectively), and that it is the fact that it has no anti-particle that provides time with a direction.  All physical processes would otherwise be symmetric, and past and present would be indistingui
+shable.  It is only this mathematical quirk that makes yesterday more known but infinitely less reachable to us than tomorrow.  Below the unit of time marked by the quantity of the chronon, the arrow points both ways.
+\par The physicists verified the existence of time by detecting the decay of a chronon.  The Warden offered an interesting suggestion.  \'93Since,\'94 he said, \'93
+the chronon decays into something else that we have no name or theory for, but that is definitely not a temporal particle, and all chronons will
+ eventually decay, although their half-life is provably unknowable, is it not the case that time has, in a sense, already come to a halt?  If it ever will, which it must, then it has already--only this is undetectable to our instruments.\'94
+  Protons decay, so matter will eventually come to an end, but to imagine that time will also end, perhaps before that (in which case the protons will not decay, because there will be no time to measure half-lives by?) is strange.  
+\par The girl is always on the block, the axe 
+is always raised.  I am always a free man, and the warden is always smiling beatifically as his hypothesis is concluded and he buries his last dart in the bullseye.  We are all, always, about to die, are dying, are dead.  In fact, at every moment we are a
+live, there are vast, unimaginable orders of magnitude more moments in which we are dead, \'93before\'94 and \'93after,\'94
+ if those terms even apply (and so this is, like all tales told by men, a ghost story).  Our heads are always on the block, and thus, I suppose, by Johnson\rquote s dictum, our minds should always be clear.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+NOTE:  The techniques and costumes of execution employed in the Bastille have been commented on at length by Tyris and Fidd (other common combinations include a sword and a traditional headsman\rquote s garb, and an electrical \'93apparatus\'94
+ and technician\rquote s uniform; for ceremonial events such as regicides wood and nails are employed).  Executioners were usually selected, as the prisoner proposes, from the population of the prison.  Usually, a death sentence was
+ commuted in exchange for the prisoner\rquote s cooperation.  It is interesting to speculate as to who would have carried out the executions if the \'93executioners\'94
+ had refused the deal.  Eventually, one supposes, a prisoner willing to serve was always found.  The results of the chronon experiment have been challenged in recent years.  The prisoner\rquote 
+s understanding of quantum mechanics appears to have been somewhat unorthodox.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 156:
+\par \tab Things are coming to a head outside, the warden says.  The people are beco
+ming restless under the velvet heel.  I hope they do not make fools of themselves--the current government, to be sure, has its flaws, and has done me no great service, but there are worse possibilities.  Better the devil you know. . .
+\par \tab My Lady says that it will, in fact, in fact, come to revolution.  Insurrection, blood in the streets, a storming of the prisons, the men in high places all hanging from the gallows (still a high place!) in but a year\rquote 
+s time.  I will escape in the turmoil.  The woman whose honor I lost my freedom defending will hunt me down and restore my memory.
+\par \tab It is an unpleasant possibility.  If I do not have a great secret, if the warden\rquote s sincere friendship is not partially inspired by a directive to befriend me and discover what they wa
+nt to know, if I have not been brainwashed into thinking I am a spy (perhaps I am a spy who has been brainwashed into thinking he has been brainwashed into thinking he is a spy?) then, then, what?  Then I do not know who I am.  In fact, this is unlikely. 
+ 
+If a woman had meant so much to me I would remember her even after their devices and cruel tricks.  But I would like to trust the Lady.  Perhaps she, too, is subject to certain delusions.  It would explain much.  But it is not an explanation I care to acc
+ept.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 178:
+\par \tab The warden came today and gave me the story he wrote.  He finished it last night, he said, inspired by the sound of the latest riot outside his apartment.  I do not know what to think of it.  He calls it \'93Flight,\'94
+ a poorly chosen title.  I will reproduce it (with certain editorial alterations) or perhaps I can ask him for another copy, to include in my hidden cache.
+\par \tab The warden sighed when he handed over the manuscript.  \'93I do not dream of flight,\'94 he told me, \'93but of hovering--still and silent, hanging in the sky.  Above it all, you might say.\'94
+\par \tab My dream:
+\par \tab }{\i\f2 These are hot coals that were his eyes}{\f2  
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 NOTE:  Fragment 178 was, when discovered, paper-clipped to a manuscript that we assume is the original \'93Flight.\'94  The d
+ocument is typewritten.  It is unfortunate that we do not have the prisoner\rquote s editorially altered version, but apparently he never got a chance to write it.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par FLIGHT
+\par 
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab The prisoner was enthusiastically digging in the corner of his cell with a silver spoon 
+he had stolen during a meal when he heard heavy footsteps from the corridor beyond his door.  He placed the spoon within the two-inch deep hole that was his potential escape route and covered the hole with his feather pillow.
+\par \tab The door to his cell opened, 
+and a grossly fat man stepped into the cell, briefly silhouetted by the brighter light of the corridor.  The guard waited for the fat man and then closed the iron door with a thunderous bang that echoed down the long halls of the mostly unoccupied dungeon
+.  Now that the fat man was lit by only the faint green luminescence of the moss which grew on the comfortingly solid black stone walls, he was recognizable.  The prisoner nodded at his guest and offered him his apple.  \'93Here, take it, I\rquote 
+m not hungry.  And I know how you love to eat.\'94
+\par \tab His obese visitor grunted and carefully lowered his fleshy bottom to the floor.  \'93I\rquote ve just eaten.  Thank you anyway.\'94  He was an unpleasant sight, made still more repulsive by the sickly green light.  His white silk shirt was
+ missing several buttons, and his still whiter flesh rolled through these openings, like a wave threatening to drown the cramped cell.  His voice, for all of the sloppiness of his flesh, was crisp and controlled.  \'93If you\rquote ll just tell me you
+\rquote re him, I can guarantee you we will never allow you to leave.  I have that kind of power, now.\'94
+\par \tab The prisoner smiled.  \'93I know all about you.  You don\rquote t really matter.  I don\rquote t care what you do to me.  The worst you can do is kill me, or let me go.  Obviously, I\rquote d prefer to stay here, but I\rquote 
+m not exactly cowering in fear of freedom--or release, for that matter.\'94
+\par \tab \'93You\rquote re a stupid man.\'94
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 The prisoner studied the man\rquote s face for the thousandth time.  It still fascinated him how the face could be so pig-like, with its close-s
+et tiny eyes and snout of a nose, and yet somehow manage to seem insectile, startling the face in an imagined mirror with its own single pupil and iris when a thousand fly-eyes would have been so much more appropriate to its general nature.
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab The prisoner yawned, stretching his arms to the limits of the back corner of the cell.  \'93Ask them to change my chamber pot more often, if you would.  It\rquote 
+ll give me more chances to ambush a guard, throttle him, and wind my way down into the deeper levels of the oubliette, where you\rquote ll be less likely to bother me.\'94
+\par \tab The fat man did not reply.  After a long moment of sitting with his mouth open, like a beached mouth-breathing whale gasping for air, he closed his mouth, stood up, and knocked on the door.  The guard opened the door and allowed him to leave.
+\par \tab The prisoner returned to the corner of the cell and resumed digging.  After a few hours of labor, he went to sleep on the cold stone floor, his head resting above the now slightly deeper hole.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab A guard knocked on the warden\rquote s door, disturbing his reading.  \'93Come in.\'94  The warden did not put his book aside, but looked up at the guard.
+\par \tab \'93Two messages for you, sir.\'94  The guard placed the gray envelopes on the neatly arranged table.  The warden shifted his bulk forwards and p
+icked them up, weighing them in his hand.  After a long moment, he dismissed the guard with a brisk gesture.
+\par \tab A single letter was a rare occurrence in this forsaken place.  Two epistles, when he had dreamed of a messenger the night before, was a sign or po
+rtent, and no coincidence.  The difference between dream and reality was, admittedly, extreme.  The warden tried to imagine a greater contrast than that between the faceless guard who had delivered his mail and the burning angel of his dream, and failed. 
+ 
+The guard had been exactly six feet tall,  a little shorter than the warden.  The angel had towered above the night sky, at a height that was impossible and indeed far more fearsome than if it had been infinite--one word sufficed to quantify infinite heig
+ht, while no words could have expressed the distance between the angel\rquote 
+s face and his own.  The guard had been dressed in the constant gray of the prison, while the angel had been clothed in fire and white light;  it had perhaps been naked, but shielded by 
+its own magnificence.  The guard had delivered two unremarkable envelopes.  The angel had spoken words of thunder and lightning, conveying something of all-consuming importance.  The messages of the guard were still with him, unopened.  The message of the
+ angel had been lost when he had awoken and had left him with an impression of immeasurable loss.
+\par \tab He sighed and placed the book on his shelf, between the Bible and a collection of chaos poetry.  The warden slit the first envelope with the letter opener his
+ mother had given him to celebrate his first assignment.  He pulled a sheet of white paper from it and read:
+\par }{\i\f2 To the Warden of Prison PSC8V4
+\par \tab New information has come to the attention of this office concerning the identity of Prisoner #122142001122.  It is 
+certain that he is not the man that he was suspected of being.   This man may be an associate of that man, and may even have participated in his atrocities, but is not the man himself.  It is unlikely that we will ever be able to determine his true identi
+ty, or establish any possible connection between his person and the General.  We have spoken to our superior, and after much deliberation, she has issued the following directives:
+\par \tab (1)  Prisoner #122142001122 is to be released immediately, and given the standard payment of two-hundred golden balances.
+\par \tab (2)  Any and all crimes committed by Prisoner #122142001122 while imprisoned are to be completely pardoned, as stated in the False Imprisonment Directive.
+\par \tab (3)  A file containing all information on the Prisoner\rquote 
+s habits, speech, personality, choice of reading material, behavior towards guards, etc., is to be sent to Operative #213060003003 in the Hierarchy of Information and Observation in order to facilitate his duties.
+\par \tab (4)  You are to formally apologize, as representative of the Hierarchy, for the inconvenience we have visited on Prisoner #122142001122.}{\f2   (scribbled in ink beside this)  }{\i\f2 Make it sound sincere.  I know you can do it.  You\rquote 
+re a trained liar.
+\par 
+\par Dutifully,
+\par The First Over-warden of Prison District #6
+\par }{\f2 \tab The warden laughed.  His laughter was beautiful, deep, kind, and sincere--the loud laughter of an honest and sensible man, not the nervous chuckle of a liar or the over-hearty guffaw of the buffoon. He
+ was genuinely happy for a moment.  At long, long, long, last he would be rid of #122142001122.  There would be no more futile attempts to persuade the prisoner to admit that he was whoever they had thought he was.  There would, he prayed, be no more terr
+ifying dreams of the prisoner\rquote s empty face blotting out the universe and devouring the sun, denying that he was a prisoner and denying that the warden was anyone at all.  The prisoner might be difficult to remove, but defeating his devious mind
+\rquote s attempts to escape from release would be an enjoyable challenge.  Challenges, enjoyable or otherwise, were rare things for the warden.
+\par \tab With the prisoner no longer a mysteriously disturbing thorn in his side, the warden\rquote s life would be bearable once again.  He would
+ spend his time reading, and thinking, and listening to music.  He would sometimes go down into the dungeons to visit the other three prisoners, pleasant intellectuals who had forgotten long ago exactly why they were in prison.  They were always pleased t
+o be remembered, and hungry for conversation and what little news of the outside world the warden possessed.
+\par \tab The warden tore open the second envelope with abandon.  It was a brief message from the same man, only written entirely in the hand that had scribbled the comment on the official letter:}{\i\f2 
+\par \tab Keep your eyes open.  Your favorite prisoner isn\rquote t who they thought he was, but he\rquote s no harmless innocent.  Well, you ask, who is?  He\rquote s quite a bit less harmless and innocent than most, even you.  They\rquote re not sure 
+who he is, and they\rquote re keeping their mouths shut about what they do know, but I (as usual) have my sources.
+\par \tab He\rquote s something they don\rquote t want to talk about, someone too dangerous to be in prison, too dangerous to be killed.
+\par \tab Get rid of him as quickly as you can, and I would suggest that after you send the info. to Information, you burn the files on him, and put somebody else in that cell and just pretend there never was a #122142001122.,
+\par  Your clever friend,
+\par Irian
+\par }{\f2 \tab The warden instinctively looked around to make sure no one was watching him, then threw the note into the incinerator, where the flames encrypted its dangerous text in ashes--a code unbreakable even by the savants of Information.
+\par \tab The warden decided to put together the dossier for Information before
+ he released the prisoner.  Midnight would be a good time to tell the prisoner the bad news.  He would be asleep, and the disorientation of the first moments of semi-alertness might prevent him from trying to stop the guards from removing him from his cel
+l.  The warden set about fulfilling a directive from the Hierarchy with enthusiasm for the first time in years.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab He had almost finished describing the prisoner\rquote s strange affinity for apples when there came a knock at his door.  \'93Come in.\'94
+\par \tab A guard entered.  \'93Prisoner #122142001122 has escaped from his cell.  He killed another guard with a spoon and cannot be found on any of the occupied levels.  He has not exited the tower.\'94
+\par \tab The warden\rquote s high spirits were instantly destroyed.  \'93Damn him.  When?\'94
+\par \tab \'93An hour ago his guard stopped transmitting.  I arrived in five minutes, but the prisoner had already escaped.  We conducted a thorough search of the upper levels, and did not find the prisoner.  The main gate has not been opened since then.\'94
+
+\par \tab \'93Of course not, he doesn\rquote t want out.  Go and get four of the best men.  We\rquote ll go after him.\'94  The guard left and the warden considered this new turn of events.  The prisoner was trying to cheat him.  He couldn\rquote 
+t possibly have known that he was to be released in another hour, 
+but he had acted as if he did know.  He could not be allowed to stay in the prison.  Even if he descended into the bottom-most bowels of the forgotten levels and was never heard from again, the warden would know that something terrible was underneath his 
+feet at all times, that the threat and the enigma remained with him.
+\par \tab How ironic, he thought, that in the first days of his imprisonment, the prisoner could have just killed the guard and stayed in his cell.  Murder was one crime that even the False Impriso
+nment Act could not pardon.  But with the introduction, long before the warden had become warden, of semi-human guards, the crime had become one of tampering with state property, and quite excusable in the case of an unjustly caged man.  Over the years, t
+h
+e prisoner had made a game of killing these semi-human guards by various cruel and unusual methods.  The warden had once suggested to his friend the Over-warden that replacing the prisoner with a half-man bred to be a prisoner was the obvious solution to 
+this problem.
+\par \tab The guards were effective, but not very intelligent, and certainly no match for the hostile and brilliant mind of #122142001122.  The warden would have to go with them into the deep levels.  He had tried to avoid thinking of this inescapable 
+conclusion, but all of his thoughts led to it, and all of the paths his mind followed lead him down into the darkness and mystery.
+\par \tab He stared into that darkness for a long time, his eyes resting unfocused on the singularly unsympathetic and disapproving eyes of the portrait of the previous warden that disfigured the corner of his office.
+\par \tab The five guards entered his office through the open door, and he brought up the map of the prison.  The torturously claustrophobic winding stairway that had been called th
+e Throat for countless centuries appeared in all of its three-dimensional dread on his desktop.  The semi-transparent walls of the circular levels surrounded it, forming a cylinder around the black helix.  The three upper-most levels were the prison libra
+ry, the warden\rquote s quarters, and the guards\rquote 
+ quarters, in ascending order.  Below these were the more utilitarian levels of the kitchen and the laundry machines.  The next ten layers were the cells.  They were arranged on corridors which radiated out from the
+ circular central chambers through which the Throat wound on each level.  The prisoner\rquote 
+s cell had been on the bottom-most of these levels, only fifteen feet from the door to the central chamber and the Throat.  The Throat extended below this layer on the m
+odel for some distance, but it was surrounded by only a slight darkening of the air and a label indicating that the area was }{\b\f2 UNKNOWN (MAP INCOMPLETE)}{\f2 .
+\par \tab The warden explained to the guards that they were entering uncharted territory, into which even he, the 
+warden, had only ventured once, and of which he knew very little, almost nothing.  They were to follow him and watch with their superior eyes for the prisoner, who was to be captured alive if at all possible.  \'93
+Be very cautious!  He will try to kill you as
+ he killed his guard.  For some unknown reason he enjoys killing your kind very much, so you must be careful or I will be left alone to face him down there.  You are all to memorize our route, so that we can find our way out once we have recaptured the pr
+i
+soner.  That is all I can think of.  Do you have any questions before we start?  Once we are after him it will obviously be important for you to be quiet unless I ask you a question or there is an urgent need to communicate something you cannot tell me wi
+thout speaking.\'94
+\par \tab The guards did not have any questions.  They had already changed from guards into trackers and watchers and warriors trained to subdue, but not to kill.  This perfect adaptability was one of their strengths, and raised them well above the 
+simpler semi-humans, who could only perform one kind of task well.  The warden looked into their smooth, uninterrupted faces of polished steel.  \'93Right.\'94  He stood up, lifting his ungainly mass with difficulty.  \'93Let\rquote s go.\'94
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab 
+They made their way down the Throat slowly at first.  They were forced to travel single-file, and the warden had to bend over to avoid striking his head on the low ceiling.  His huge body brushed against the walls constantly, and he began to sweat profuse
+l
+y, slowing almost to a halt.  After a few minutes he realized that he would never be able to track the prisoner on foot--his monstrous body had completely swallowed the man he had once been.  He sat on the floor of the circular chamber on the second floor
+ 
+and instructed one of the guards to bring his chair.  The guard returned after ten minutes with a small blue sphere.  The warden lifted it and pressed a button.  The sphere floated in the air, glowing with a faint blue light, and the warden turned around 
+and sat on the invisible chair it had created for him.  On this cushion he traveled swiftly and silently down the Throat, and the group soon reached the lowest level of the prison.
+\par \tab The warden floated to the prisoner\rquote s cell.  The guard was outside, leaning 
+against the wall.  The spoon had entered his throat on one side and exited on the other, just below the bottom of the steel mask.  The floor was splattered with blood.  The cell was empty--the prisoner had taken his pillow with him.
+\par \tab They returned to the T
+hroat, and proceeded into the depths.  The first chamber the warden remembered.  It was a vast cavern of stone, polished and empty.  The walls were hundreds of yards from the landing of the Throat, which wound through empty space for a hundred feet before
+ 
+touching ground, its usual claustrophobic effect replaced with an equally powerful acrophobic effect.  They passed the ceiling on the way down, and the warden noticed hand-holds on the black stone, metal rings which might be traveled by a brave or despera
+te man.  \'93Guard, go along these and report to me where they lead.  Simply report back.  Do not leave this chamber.\'94
+\par \tab The guard passed from rail to rail for almost a full minute, with the swiftness and sureness of the truly ignorant.  He reached for another 
+ring, and as he did the one he was holding snapped.  He grabbed for the other ring, but it, too, broke away and he tumbled to the floor a hundred feet below, and struck it with a sickening thud.
+\par \tab The warden suspected that the rungs had been deliberately weakened, that the prisoner had anticipated him already, but it was possible, he reflected, that the rings were simply old and weak--possible, but not likely.
+\par \tab The gap which remained was too large for even the strongest and most agile of men to have crossed, so the warden continued down the stairs, followed by his loyal troops.  \'93That may have been the prisoner\rquote 
+s first trap.  He will want to kill you all.  You must constantly keep an eye out for danger.\'94  With some of the more exotic semi-humans the warden\rquote s 
+last phrase might have been literal, but none were better prepared to follow the order than the ever-watchful guards.
+\par \tab When they reached the bottom, the warden surveyed the room. In the almost nonexistent light the walls were too far away to be seen.  He r
+emembered that when he had last been here, he had followed the previous warden to a door, and that they had walked straight in the direction in which the Throat\rquote s last step pointed to reach it.  He floated that way and the guards followed silently.
+
+\par \tab A few 
+minutes later, they arrived at the small steel door.  The door was dwarfed by the walls which continued beyond it into darkness.  The warden paused before the door.  The passage beyond was where his recollection of his first and only visit to these region
+s
+ ended.  Beyond this point, his memories were only of a moment of pain and an eternity of blackness.  He had awakened at the bottom of the Throat.  The old warden had never been found, and twenty guards had vanished forever into the darkness.  After a wee
+k of directing the fruitless search from the safety of his office, he had appointed himself warden of the prison.
+\par \tab He opened the door, keeping it between himself and the gloomy space beyond, afraid that whatever had happened the last time he had entered that short hallway might happen again.
+\par \tab The corridor beyond was short, only fifteen feet long.  Arches to the left and right opened onto small rooms full of unidentifiable piles of machinery and wiring.  The air beyond the portal was a few degrees warmer than
+ that just before it, and there was a faint odor of decay in the air.  The warden floated in and the guards followed, searching the debris about them for signs of danger.  The warden passed beyond them, to the end of the hall, and into the room at there.
+
+\par \tab 
+The room was larger than the hall, twenty feet in all directions, and two passages exited it, one on the left and one on the right.  The walls were covered in writing.  Most of the neatly printed characters were ones with which the warden was not familiar
+, but a small portion of the orderly graffiti was written in his own tongue.  He walked over to it, more curious than cautious, and the guards followed, being cautious for him.  Someone had written a famous passage from the chaos poetry on the wall:
+
+\par }\pard \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f2 Let that final meet a travell,
+\par All turning towar the town,
+\par Ritual of the multitutendant lords and I come very white hands,
+\par Effee spoons;
+\par I have swell a progress do sink.
+\par 
+\par The youth, \'93as crisis?
+\par   Does it dryards
+\par That lift and the sinks and then run?
+\par 
+\par   In the night
+\par   Under the dead land is gone; the could
+\par sing Morning bread [grown them and come say in ice,
+\par For decision;
+\par With a running.
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+\par \tab The warden brushed his sausage-like fingers over the writing.  It was slightly raised from the wall, and seemed to vibrate at his touch.  He suspected that it had been embossed by machinery, but for what purpose he could not imagine.
+\par \tab He turned aside and passed into the passage on the left.  A feather was lying on the ground, obviously pulled from the prisoner\rquote s pillow and left behind to taunt his pursuers.  \'93Be careful.  He\rquote 
+s been here, and there will probably be a trap nearby.\'94
+\par \tab They continued down the hallway.  A deep pit opened on their left, where the wall was broken and revealed a chamber with a large port
+ion of its floor missing.  The warden peered over the edge, and saw a skeleton twenty feet below, the un-rotted clothing identifying it as one of the missing guards from his first excursion.
+\par \tab The passage came to a dead end.  The warden retreated and took t
+he other passage from the poetry room.  This passage was longer and fully intact.  Air vents on the ceiling blew chilled air down on them, and the warden shivered as the cold blasts played across the expanses of his flesh.  There was no door at the end of
+ 
+this corridor, only an arch opening into a room almost as large as the chamber at the bottom of the Throat.  Where the vast spaces of that room had drifted into darkness, the surfaces of this room were nakedly exposed by a fierce light.  A sphere of unbea
+rable brightness hung suspended from a cable in the center of the room, nearly blinding the group as they approached it along the refrigerated passage.
+\par \tab As they entered the lit cavern, they heard a noise behind them.  They turned quickly, but only the warde
+n, able to spin instantly on his invisible chair, caught a glimpse of the creature.  It was, he estimated, half the height of a man:  a thin ghost of ugly white flesh.  Its red eyes gleamed as they met his for the briefest of durations, and he thought he 
+s
+aw claws and fangs, but he was not really sure he had seen anything.  The form of the monster was taken directly from one of his recurring nightmares, the one in which wicked little white men with claws and fangs chased him among the labyrinthine stacks o
+f the prison library.  The creature, if it had existed, had fled back into the poetry room.
+\par \tab He decided not to pursue it.  He had not taken the long trip down the Throat in order to pursue phantasms through shadowy corridors.  He had taken it in order to pu
+rsue the very real prisoner through those same shadowy corridors, and somehow his well-developed, if long dormant, skills told him that the prisoner had passed through the great chamber of light.
+\par \tab He turned back.  \'93Did you see anything?\'94
+\par \tab \'93No, sir.  We heard a noise, and turned, but there was nothing behind us.\'94
+  He beckoned for them to follow him into the cavern.  Here the exits were clearly visible.  Twenty passages, counting the one at the head of which they stood, exited the circular room, evenly spaced along the walls.
+\par \tab \'93Come on, we\rquote ll check them all.  He probably left a feather in front of one of them, and it\rquote s either a trap or the way he went--either way, it will tell us something.\'94  The guards followed without comment.
+\par \tab The warden was correct.  The p
+assage directly across the chamber from the one they had entered by was marked with a single feather.  The corridor was similar to the one they had entered by, a long steel hall of vent-chilled air blasts.  At the other end was a large and very dark room.
+  Strange shapes loomed in the darkness and prevented the warden\rquote 
+s light from revealing much more of the place than they could see directly in front of them.  The shapes appeared to be ruined machines and discarded storage containers.  The warden cautiously
+ moved forwards.  Something about the place struck him as unbearably lonely, but in a triumphant rather than pathetic way:  here was a place which was proud of its desolation.  He moved over a small crab-like object, and it suddenly lit with a faint green
+ glow and skittered away on its obscene insect-legs into the shadows, emitting a few mournful beeps.
+\par \tab He followed it, passing over more pieces of discarded devices, none of which came to life.  He heard a sharp hiss of breath and started to turn, but was st
+ruck by something before he saw more of what was behind him than a flash of white flesh.  Blackness took him, and he saw no more for some time.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab When the warden awoke, he was no longer in the room of ruined parts.  He was lying on a street in a ruined ci
+ty--miles, he imagined, below the tower.  Above him stretched abyssal darkness, a cavern far larger than anything he would have imagined was possible.  The only light was the pale blue luminosity of the ground.  He saw around him rows of dead houses and c
+o
+lumns of buildings that had been partly or completely reduced to rubble.  A moaning wind howled somewhere far away, though he could feel no movement in the air where he was.  In fact, the air was unnaturally still, as if it were weighted down and unable t
+o
+ move.  He sat up, and looked for his chair.  It and his light were gone, although his rations were untouched.  He stood up and brushed the dust off of his shirt.  The white dust stained his hands and he imagined that it gave his already pallid face a pos
+itively ghastly appearance.
+\par \tab The warden began to wander the streets.  He walked for hours without seeing anything other than ruined and abandoned dwellings and stores and offices.  He assumed they were dwellings and stores and offices--time had erased any d
+ifferences between the buildings beyond size and architecture.  There were no wares in the stores, only dust.  A few of the buildings had pieces of metal in them that might have been parts of furniture, but nothing he could definitively establish as a bed
+ or chair or desk.
+\par \tab There was a shooting pain in his left side, but he ignored it, using the remnants of the stamina and stoic endurance he had once possessed.  Every ten or fifteen minutes he was forced to sit down and rest.  It was while he was resting th
+at he saw another crab-like object on the floor of a particularly large building.  He kicked the thing, and it lit.  This time, instead of scurrying away, it circled around him rapidly, without beeping.  Then it started moving away from him, but slowly, a
+n
+d it paused whenever it was more than five feet away.  He staggered to his feet and followed, slowly, unsure what it might be or whether it might even somehow be a tool of the prisoner.  After a while it entered another building.  Inside this building he 
+saw several crates, apparently untouched by whatever had ravaged the city.  He opened one, and inside was what he regarded as a gun.  He had never seen a real gun.
+\par \tab He took it out and examined it.  He had seen many pictures of guns, and most of them looked 
+dangerous.  This one looked deadly, and had obviously been designed by a master of psychology in order to convey instantly and very intensely the idea of threat.  The barrel was long and the six vibrating tubes underneath fed into a central bulb inside th
+e electrical housing.  A \'93rifle,\'94
+ he believed, was the proper terminology.  The rifle looked like something made for the highly specific purpose of killing things in an extremely unpleasant way.  He hefted it, feeling how light it was despite its impression of destructive weight.
+\par \tab The crab creature had ceased to move.  He kicked it again, but it lay still and dark.  Apparently, its task completed, it had turned itself off.  Finally, he took the rifle and left, wondering why the crab creature had wanted to ar
+m him.  He mentally shrugged.  Most of the world was incomprehensible.  To expect to be able to discern the motivations of tiny crab-like mechanisms scurrying through abandoned cities beneath ancient prisons was probably the height of hubris.
+\par \tab He wandered 
+a while longer, and grew hungry.  He sat down at the base of a broken statue, sweeping the shards of marble aside with his foot to make a resting place for his large fundament.  He pulled out his rations and again thanked God that whatever had attacked hi
+m
+ had not stolen his food as well as his light and chair.  He was just finishing the third of the bars when he saw a white figure moving through the shadows just beyond a pile of rubble.  He picked up the gun and carefully aimed it.  He drew in a deep brea
+th and pulled the trigger.
+\par \tab The black tip of the weapon glowed white for a brief instant, but nothing else happened.  A second later he noted that something else had actually happened, as the white figure toppled forwards and was hidden by the rubble.  The 
+warden wondered if he had actually hurt it, or if it had seen the light of the gun and was pretending to be hit in order to lure him to it.  He was reasonably sure that if the creature wanted to catch him it would have no trouble doing so.  He had little 
+to lose by going over to see what had happened to it.
+\par \tab He stood, looked around, and then, having seen nothing moving, began to slowly walk towards the fallen monster.  He slowed to a halt at the edge of the rubble pile, then as swiftly as he could he rounde
+d the corner and fired the gun.  Nothing happened.  The white thing was lying on the ground, face down, with no apparent wounds.  He kicked it.  Nothing happened.  He reached down and carefully touched it.  The white was in fact dust, and he was able to r
+u
+b some away.  The skin underneath was gray with specks of a sickening green, the same shade as the moss that lit the walls of the prison cells above.  He turned the creature over and saw his nightmare made flesh.  It did have wicked claws and red eyes and
+ 
+sharp fangs.  It was only vaguely human, and in some way reminded him of a snake, although there was nothing really reptilian about it.  As he brushed the dust from its chest, he discovered something disturbing and inexplicable.  A number was written on i
+ts chest, dyed in black ink.  }{\b\f2 #600033001005}{\f2 , the tattoo read.  The number, of course, was of the same form as a citizen\rquote s identification number, but obviously this thing was not a citizen of the Hierarchy.
+\par \tab He examined the creature closely, but found nothin
+g else of note.  Eventually, exhausted by his efforts, he crawled into a hole in a concrete barrier and went to sleep.  He slept fitfully, and dreamed that the prisoner and the angel were interrogating the gray and green creature in a huge torture chamber
+,
+ one such as the old warden had told him was hidden somewhere down here in the depths and had been used in the days when the Hierarchy had been somewhat less morally sound.  The angel and the prisoner kept asking the creature one question, again and again
+, relentlessly beating and burning and cutting and strangling it, killing it a thousand times over.  }{\i\f2 \'93What is a man?  What is a man?  The heavens declare that you must answer, what is man?\'94}{\f2 
+\par \tab He woke up unrested but unable to resume his sleep.  He wandered for four more days in this manner, traveling randomly and sleeping fitfully, slowly exhausting his rations and noticing the pain in his left side increase.
+\par \tab Finally, he rounded a crest and saw before him a gathering of twenty of the white-dust coated monste
+rs, and in the center of the group, tied to a pole, the prisoner.  He fired the rifle at the beasts, but before he could kill more than three of them they overwhelmed him. One of them sank its fangs into his arm and he lost consciousness.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab When he awoke he was at the bottom of the Throat.  He saw a hideously fat man lying on the ground a few feet away.  The man\rquote 
+s white silk shirt was ripped and soiled, and his bloated flesh escaped its confines and glistened wetly in the light.  His left arm was torn, still bleeding, and his badge of office was broken in half.
+\par \tab The warden realized with a sudden certainty that the man was himself.  He looked at his own body.  He was a thin, angular man, not quite six feet tall, with a two great cloth-covered bundles bound i
+n chains on his back.  He wore the gray uniform of a prisoner, although it was covered in fine white dust.  There was a bite on his right arm, where his sleeve was torn, but it didn\rquote 
+t hurt.  A number, he knew, was tattooed across his chest in black ink:  }{\b\f2 #122142001122}{\f2 
+.  He climbed the stairs and brought down some of the guards, telling them a half-truth:  that their warden was at the bottom of the stairs, but that he had suffered a terrible blow to his head and might be delirious.  They did not trust him an
+d bound his hands before they allowed him to lead them down, but they did follow him back to the bottom of the Throat.
+\par \tab The prisoner woke when the guards injected him with the needle one of them brought.  He looked at his former warden and appeared to grasp the situation with an instant and perfect awareness.  The prisoner smiled and spoke.  \'93
+Guards, this is the man I was seeking.  Take him upstairs.  I will deal with him after I have washed.  No.  First, bring me a chair.\'94  
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 The guards brought the new warden a chair and then carried the former warden to what had been the prisoner\rquote s cell.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab They released 
+him the next day, after breaking the bonds that had been placed on his wings and presenting him with his pardon and his payment.  The new warden apologized to him for the Hierarchy\rquote 
+s error, and then they opened the front gate and he stepped out and walked 
+for fifteen minutes down the dirt path without looking back.  Then he turned back to face the mighty tower, and laughed the beautiful, deep, loud, honest laugh of a good man.  He spread his wings and flew towards the rising sun.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 THE END
+\par #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 179:
+\par \tab Ce
+rtainly an implausible tale.  I am not fond of the scientific romance, if that is what it is.  But I cannot tell the warden that I have figured out what it means.  How trivial!  I already knew that he loved parts of his job, and hated others (mostly the t
+orture, and the paperwork).  Meanings are always banal when they are expressible in words.
+\par \tab It would devastate him if I were not to praise it.  He is, really, a very insecure man.  His obesity bothers him, and he is ashamed of his political leanings.
+\par \tab The Lady came last night, but only looked at me sternly.  \'93Madness,\'94 she said, \'93is one thing.  But to intentionally delude oneself is a dangerous game.  It is not a game, at all.\'94
+  I pleaded and she finally relented (only after I reminded her of the dismemberment I had just suffered) and kissed my brow.  That kiss is a better weapon than a sword, I think.  \'93You will come to your senses in time,\'94 she said.  Then she added, 
+\'93I hope so, at least, which is something.\'94
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 183:
+\par \tab Shots were fired today in the s
+treets, after dark.  I could see nothing.  The Warden knows nothing; they have decided that in order to prevent panic, information about the situation is to be restricted to those who already know it and those who are not interested in it.  He is afraid h
+e was followed to his apartment last night.
+\par \tab A speculation (jocular):  perhaps there is a quantum particle of identity, let us call it the \'93I\'94on; let us further suppose that mine have all but a few decayed, but these few they cannot detect; I cannot detect 
+them either, but they remain, so I am constant, despite erasure.  When I talk to the warden, we exchange \'93I\'94
+ons, in minute numbers, not enough to change who we are, but enough to be convinced that we both exist.  This is all there is to communication.  The only question, then, worth asking, is whether eventually all \'93I\'94
+ons decay or whether there is anything that persists.  Perhaps once the chronons are gone, the \'93I\'94ons remain?
+\par \tab The Lady appeared this morning, after long absence, and my heart was filled with fire.  She did not stay long, and spoke in riddles again.  She said, \'93\lquote Now,\rquote  said she, \lquote 
+I know the cause, or chief cause, of your sickness.  You have forgotten what you are.\rquote   Also said to a prisoner, in one of the books you have here on your shelf.\'94  She
+ pointed to the well-stocked shelf--I possess a number of books that would get the Warden in trouble if it were known he had provided them to me.  \'93
+But you are close to remembering.  And I will protect you if you ask, though your understanding is but poor.\'94
+\par \tab I asked her, \'93So I will remember who I am soon?\'94
+\par \tab \'93Not in the sense that you mean; that is almost irrelevant.  But yes, you already have remembered, but not yet.\'94
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 190:
+\par \tab A mutation, unexpected, of my nightly torments.  Again the hot searing of
+ my flesh, my back marked, the symphonic pain as they scrape the flesh from my hands and feet with rough stones.  But I am doubly present in this version of the dream; not only the object of the torture, but an indifferent observer, watching from above.  
+M
+y point of view is fractured, and although I can still feel the excruciations, they are somehow abstract and removed.  I watch the proceedings first from the ceiling, then I descend and borrow the eyes of Mr. Guillotine, who was not present a moment befor
+e.  Through the skull-mask (if it is a mask and not merely an inversion of the usual pattern of flesh on bone) I clinically note the precision with which he uses his scalpel.  
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 The end of the dream:  I notice that my features have been distorted by the pain
+, at first into a caricature, red and ugly, with trickles of bright blood flowing from my scalp, but then transformed into something beautiful, the face of the Warden, then that of his daughter, and finally the woman with the lovely red hair.  They turn 
+\'93me\'94 over, but the dream always (I experienced this variation three times now) ends before I can see the image on my back.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 193:
+\par \tab On reflection, I have been too harsh in judging the warden\rquote s story.  Although, perhaps to give my criticism would be k
+inder than to tell him the truth--that whatever its merits, he can never publish the story.  I am curious as to why he, in an offhand manner, uses the few words and phrases that the government has determined upset the people and distract them from more re
+levant issues.  Of course, perhaps he is of my mind on those questions, as I have suspected from time to time.
+\par \tab What upset me at first was the obvious element of wish-fulfillment in the story.  How can he imagine that my position is any better than his?  At
+ least he can with some confidence state his own name.  But after much thought I have concluded that although he is wrong--my position is not preferable to his--I am also wrong to imagine that his position is preferable to mine.  He is a good man, though,
+ and supposes that he alone is guilty.  He does not suspect that I am no easier in my conscience than he is.  In this one thing we differ.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 196:
+\par \tab A nightmare, different.  At my window, the fanged and clawed devil of the warden\rquote s story.  The image was lifelike, and the creature\rquote 
+s face my own, distorted by time and subterranean life.  For a moment, I was disoriented and imagined that I was hanging from the bars looking in on the creature, asleep in my bed.
+\par \tab Perhaps not a nightmare.  I am very frightened, and wish it were morning.
+\par \tab Much later, this same night.  I finally managed to resume my slumber, briefly, and I believe I have \'93solved\'94 my usual dream.  Instead of patiently watching the torture, this time I grabbed Mr. Guillotine\rquote 
+s arm, whether to stop him or to guide his incisions I do not know.  He and the others, the things I will not describe, vanished.  I turned myself over, and saw the symbol on my back, the perpendicular burns, and knew that I would live, (at least in the d
+ream).
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 FRAGMENT 202:
+\par \tab This is the end.  The shouting in the streets has prevented me from sleeping of late.  It is like the first years of my imprisonment come again.  My beard has grown long and I have grown accustomed to the luxury of my cell.  But it w
+ill all end tomorrow.  I am not to be hung--though, to be sure, it would concentrate my mind to know how I will meet Death.  In what guise, other than the freedom that approaches even now, will that specter haunt me?  The Lady assures me that all will be 
+well (all manner of thing shall be).  \'93You must have hope, even if your only son is about to be killed, hope no matter what.\'94
+\par \tab I am not so sure, but have some hope (I cannot disobey her completely).  The warden is more worried.  Last night he showed me my f
+ile.  I finally realize the nature of the secret that they hoped to persuade me to deliver into their hands.  However, they do not know, even now, that I never had that secret.  No, that is not correct.  I do have the secret, but they have it too, only th
+e
+y have buried it so well they have forgotten it.  I would say that they are right, that such a Thing does make people unsettled, unhappy and unquiet, but they seem to be pretty unsettled and unhappy and loud anyway, so maybe that is not exactly it.  Perha
+ps they know this, and have only buried the truth so that it can show off by returning again after a time, as if from the dead, \'93come back to tell you all,\'94
+ and thus attract our attention, even our awe.  It has pulled that trick before, but it is something worth seeing for yourself I imagine.
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+The warden says that we must be sure, if we both make it out alive (perhaps I will die tomorrow, which would be a relief, because I somewhat expect it), to find each other when things settle down.  He has friends among 
+the revolutionaries, and I may receive some compensation as a victim of the current government.  
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I will not allow compensation; I am not innocent.  My file shows that I did strike the officer, although my own injuries were much worse than his.  The sente
+nce was light, despite the fact that they had been looking for some excuse, any excuse, to put me away.  To discover my secret!  It is no wonder they haven\rquote t managed to deal with the present unrest.
+\par \tab All of the tricks, and ruses, and the construction of so many layers of the labyrinth and to what end?  Something else entirely, a page from the real story.  I could tell them this, but only the warden would not believe I was mad.
+\par \tab I would have been released a long time ago if I had not been annually deemed \'93mentally unfit for release.\'94
+  Fortunately, my mission has been successful.  The King is not a prisoner here now, but has visited certain prisoners from time to time.  There is some evidence, of a convincing nature, that he was once imprisoned in this very ce
+ll, even died here (but he has visited me since then).  I am honored; or perhaps, He is insulted.  I will report all of this to my superiors, if I can figure out who they are, but they may be too busy saving their skins from the mob to care.  Maybe I will
+ just report it to anyone I can find, to my imagined family or to Eleanor if I find passage over the sea with her father.  The Lady already knows, of course--she is the King\rquote s mother, or his bride.
+\par \tab I wonder if she is the woman whom the officer insulted, th
+e woman I defended, in fact, or the poor woman with hair of fire.  Perhaps it is as in that book by Chesterton, and this is an asylum, not a prison, and all who have heard of my mad attack on a person of the state have been imprisoned here as well.  It do
+es not matter.
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 The B-Minor Mass (another gift from the warden, delivered this morning) has reached the }{\i\f2 Agnus Dei}{\f2 , the agony of God.  }{\i\f2 Dona nobis pacem}{\f2 
+.  God grant us. . .  Grant you, reader, a similar situation, perhaps.}{\i\f2 
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I hear the crowd rising now, a wave 
+bearing everything away before it.  Chaos come again is never a lovely thing to behold, even when it is just, which is only somewhat the case now.
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 The walls are coming down, perhaps even the walls of the labyrinth itself.  But this also means that the grou
+nd is falling away, and I am about to fly, whether I am ready or not.  I must put away my pen and await the opening of the cell door.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 NOTE:  Should this abridged version of Storr\rquote s work inspire further investigation of this intriguing problem in authenti
+cation and historical interpretation, please refer to the full, two-volume, annotated version of Storr issued by the University of New Alexandria Press.  I am indebted to the University of New Alexandria Press for permitting me to use generous excerpts fr
+om these volumes.
+\par }}

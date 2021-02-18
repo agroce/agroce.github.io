@@ -1,0 +1,388 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff6\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier{\*\falt Courier New};}{\f179\froman\fcharset238\fprq2 Times New Roman CE;}{\f180\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f182\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f183\froman\fcharset162\fprq2 Times New Roman Tur;}{\f184\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f185\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f186\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f195\fmodern\fcharset238\fprq1 Courier New CE;}{\f196\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f198\fmodern\fcharset161\fprq1 Courier New Greek;}{\f199\fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f200\fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f201\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f202\fmodern\fcharset186\fprq1 Courier New Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;\red255\green255\blue255;}{\stylesheet{\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive 
+Default Paragraph Font;}{\s15\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 header;}{\s16\ql \li0\ri0\widctlpar
+\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 footer;}{\*\cs17 \additive \sbasedon10 page number;}}{\info{\title RECEIVED:}{\author Eos/Unity Environment}
+{\operator Alex David Groce}{\creatim\yr1999\mo5\dy5\hr3\min12}{\revtim\yr2001\mo5\dy17\hr23\min56}{\version5}{\edmins4}{\nofpages33}{\nofwords8254}{\nofchars34667}{\*\company  }{\nofcharsws57778}{\vern8269}}\margl1440\margr1440 
+\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\lytprtmet\hyphcaps0\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jcompress\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot\nolnhtadjtbl \fet0\sectd \psz1\linex0\endnhere\titlepg\sectdefaultcl {\header \pard\plain \s15\ql \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 
+\f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs20 
+\par }\pard \s15\qr \li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\faauto\adjustright\rin0\lin0\itap0 {\fs20 Groce: }{\field{\*\fldinst {\cs17\fs20  PAGE }}{\fldrslt {\cs17\fs20\lang1024\langfe1024\noproof 33}}}{\fs20 
+\par 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\trowd \trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl
+\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4788 \cellx4680\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4788 \cellx9468\pard\plain 
+\ql \li0\ri0\widctlpar\intbl\faauto\adjustright\rin0\lin0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f2 Alex David Groce
+\par 6000 Highway 21
+\par Jonesville, NC 28642
+\par (336)-835-6073\cell }\pard \qr \li0\ri0\widctlpar\intbl\faauto\adjustright\rin0\lin0 {\f2 ABOUT
+\par 8550
+\par WORDS\cell }\pard \ql \li0\ri0\widctlpar\intbl\aspalpha\aspnum\faauto\adjustright\rin0\lin0 {\f2 \trowd \trgaph108\trleft-108\trftsWidth1\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3 \clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr
+\brdrnone \cltxlrtb\clftsWidth3\clwWidth4788 \cellx4680\clvertalt\clbrdrt\brdrnone \clbrdrl\brdrnone \clbrdrb\brdrnone \clbrdrr\brdrnone \cltxlrtb\clftsWidth3\clwWidth4788 \cellx9468\row }\pard \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {
+\f2 
+\par 
+\par 
+\par 
+\par }\pard\plain \s15\ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f2 
+\par }\pard\plain \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 \f6\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f2 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 THE OTHER SHORE 
+\par Alex David Groce
+\par }\pard \ql \li0\ri0\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 
+\par }\pard \ql \li720\ri0\widctlpar\faauto\adjustright\rin0\lin720\itap0 {\i\f2 Midwinter spring is its own season}{\f2 
+\par }{\i\f2 Sempiternal though sodden towards sundown,
+\par Suspended in time, between pole and tropic.
+\par }\pard \qr \li0\ri720\widctlpar\faauto\adjustright\rin720\lin0\itap0 {\i\f2 -T. S. Eliot, \'93Little Gidding\'94
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f2 
+\par Entry:  5:09 PM, November 3}{\i\f2\super rd}{\i\f2 , 1974}{\f2 
+\par \tab I\rquote m worried.  I don\rquote t think I was prepared for this--and it isn\rquote t one of the things I was prepared to be unprepared for.  I\rquote m in the woods and it\rquote 
+s getting dark.  I can see the trees all around me at the edge of my firelight where the clearing ends, and just beyond them I can see the reflections of eyes.  Some of the eyes are animals, but some are, I think, not.
+\par \tab And it\rquote s my birthday.  That\rquote s what the readout says, but it must be wrong.  I\rquote m definitely not in 1974.  As far as I know, the university\rquote s been around since the beginning of the century, and there surely weren\rquote 
+t any woods here in 1974.  Anyway, the past is beyond our reach.
+\par \tab I\rquote ll calm down (actually, I\rquote m very calm, just worried) and make this more sensible.  I arrived not among the tall spires of some city of tomorrow, the way Dr. Burke thought I would, but in 
+a fairly small grassy clearing surrounded by thick pine woods. Firewood lay heaped in the center.  That wood is now burning behind me, the flames reflected in the screen as I write.  I\rquote 
+ve moved away from the fire--the wind is still, and the smoke and heat 
+are hovering above the fire, slowly drifting away into the darkening sky.  My eyes were beginning to burn, so I retreated to this distance, although I felt safer beside the fire.  The smoke seems to rise up forever, and it is hard for me not to discover s
+hapes in its amorphous trail.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I just heard a voice, somewhere beyond the trees, calling my name.  \'93}{\i\f2 Andy!  Andy!}{\f2 \'94
+  My memory is playing odd tricks, and I wish it would stop.  It was my father, calling me from twenty years ago, growing angry.  He was searc
+hing the woods, calling, certain I was hiding behind a tree, either lost or scared to come out in the gathering dusk.  I was looking up at my mother as she smiled and turned a page in her book by the fire, where I\rquote 
+d crept back when he started sounding angry.  He probably would have given me a (deserved I suspect) whipping if she hadn\rquote 
+t been my willing accomplice.  This fire, I suppose, is a lot like that one.  The same wood, and although this is a larger fire and a larger clearing, I am a larger Andy, now Andrew.
+\par \tab I unpacked and checked to see how far I\rquote d come.  The screen lied to me, and told me it was my birthday, and we\rquote d have a party in the woods, but I wasn\rquote 
+t very happy about it.  I played with the program a while, and even looked over a few of the lines of code, but if it\rquote s something wrong with the machine it\rquote s either hardware or a bug beyond my abilities.  I\rquote 
+m attaching the relevant lines, in case you can see something I can\rquote t back there, but that\rquote s not going to do me any good.
+\par \tab It hasn\rquote t been very long since I arrived.  I was glad I picked cold-weather clothes to wear, with the shorts and T-shirt in my bag, because it was cold when I came in at 4:17, and it\rquote s a lot colder now that the sun\rquote s not around.
+
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I just unrolled my sleeping bag, and now I\rquote m wrapped up like a mummy, except for my head and arms which are sticking out of the top so I can type.  I\rquote 
+ll have to say it\rquote s a very comfortable bag, womb-like, if you\rquote ll pardon the idea, or perhaps since it\rquote s a mummy bag, even tomb-like.  Chronological bookends of comfort.
+\par \tab Most of the eyes have retreated, which is good, I suppose.  But one pair of large, intelligent, rather liquid eyes is still discernible in the shadow of undergrowth along the edge.  The eyes are almost human, and I don\rquote t know why they couldn
+\rquote t be human, except that if they are the person is crouching, and I just don\rquote t think it\rquote s really a person out there, watching me silently.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Actually, the fire is not at all like the one I remember.  I built this one, and I build them differently than m
+y father did, although he taught me.  I prefer to arrange the larger logs in levels, like a little cabin of Lincoln Logs without notches.  I then place the brush around so as to create an inferno in the center, but without much actual fuel there.  It does
+n\rquote t work outside as it does in the fireplace at home, where it creates curious drafts to study (to play with), vortices of flame, as I exaggerate them to be.  My father\rquote 
+s fires lasted longer, but mine are more artistic.  I built my first fire outdoors on that trip we took on my third birthday.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I should go exploring, of course.  Even if it means going into that earthen cave on the edge of the clearing that I can barely make out through the smoke.  I can
+\rquote t stay here forever, and although there wasn\rquote t a welcoming committee to take me on a guided tour of Metropolis, and my locator\rquote 
+s having fun playing with my head, I need to find out when I am--two days? (no)  a million years? (unlikely, though possible).  But it\rquote s late and dark, and surely it would be best to start out in the morning, when I presumably won\rquote 
+t hear my father calling from the shadows.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I can almost see you, through the screen.  Dr. Burke is seated, leaning into the monitor, his finger poised over the <PAGE DOWN> button, but re-reading e
+ach sentence twice.  Ellen is standing behind him, biting her nails, wishing he\rquote d go ahead and page down.  True?  That is what you\rquote re doing, and if you change it just to prove me wrong, you are cheating.     
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I just woke up from a strange dream, I suppo
+se brought about by thoughts of my birthday.  I was in my bed at home, and my room was the way it was when I was fifteen.  I had just fallen asleep when I woke up and heard someone opening my door (this was before I took to habitually locking my doors at 
+night, trained by dorm rooms and summer programs).  My computer was on my desk, the boxes beside the bed where I\rquote 
+d unpacked it that morning after Dad said I could open it up before school.  I almost always had to go to school on my birthday.  I watched, fro
+m under the edge of the thin sheet which occasionally stirred and settled like a restless ocean under the brisk breeze from my ceiling fan, as my cousin picked up a book off the floor where it was stacked on top of several others.
+\par \tab \'93Which one is it?\'94 I asked her, sitting up some.  Sarah started, then whispered, \'93}{\i\f2 The Once and Future King}{\f2 .  You said I could borrow it, and I couldn\rquote t sleep, so I thought I\rquote d grab it and read a while.\'94
+\par \tab She was so young, younger than I was, at most a few candles past eleven.  I sat up and stretched my arms, afraid she\rquote d}{\i\f2  }{\f2 leave me.  \'93Sure.  It\rquote s really good.  Funny, but sad.\'94
+\par \tab \'93Oh?  I don\rquote t know of anything like that.\'94  I was puzzled, unsure of what she was trying to say, because there was a hunted, painful look in her eyes that didn\rquote 
+t match the quiet humor of her voice.  She looked as if she wanted to flee.  To hide.
+\par \tab \'93You mean you\rquote ve never read anything like that?  I know you have, although maybe not in the same way.  I used to give you Joan Aiken books when I was ten.\'94 
+\par \tab She shook her head, her long brown hair catching the light from my night-light.  \'93No I just meant I can\rquote t think of anything that\rquote s really funny and sad.  Except maybe birthdays, which are supposed to be happy.\'94
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Then I woke up, sweating profusely in the dark.  My fire had gone out, but the night air had warmed as I slept.  I\rquote 
+ve changed into my shorts and t-shirt, and am listening amazed to the summer hum of insects, to June bugs in the trees.  Sarah has never stayed at my house, and she is six years older than I 
+am.  She kept me when she was barely a teenager, when Mom and Dad went on trips.  I always stayed at Uncle Mike\rquote s house with her. 
+\par \tab She has never borrowed a book from me, although when I was little I read a book she handed down to me about Mickey Mouse and
+ Goofy in a haunted house.  I drew the dancing skeleton from that book on the porch of a different haunted house when I was seven.  The picture won the donut shop\rquote 
+s contest for the best Halloween picture, and won a box of donuts for me.  The skeleton in th
+e book was really a robber dressed up to look like a skeleton, but the one in my picture was real.  When I left for this place, the donut shop had been a parking lot for ten years, and Sarah was living in California, about to have her first kid.  I hope h
+e had a happy birthday.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f2 Entry:  8:46 AM, June 15}{\i\f2\super th}{\i\f2 , 1980
+\par }{\f2 \tab The chronometer is wrong again.  It\rquote s not even agreeing with yesterday\rquote s incorrect date.
+\par \tab Further strange dreams troubled me last night.  Most of them I cannot recall, but the last I think I will n
+ote before I forget it.  I was standing on a mountain, looking down on a vast grassy land below, bathed in morning sunlight.  A giantess slept on the earth, her form so closely melded with the ground that it was impossible to tell where one began and the 
+o
+ther left off.  A dove settled on her furrowed brow, insignificant against such bulk.  But it must have been felt, for she rolled in her sleep and the mountain shook with the motion.  I sank to my knees so as not to fall--I would have tumbled all the way 
+d
+own the slope to her feet.  The dove took flight again, and the sleeper sat up, stretched her enormous limbs to their full extent and yawned a prodigious yawn.  When she stood, she shook her length of green hair and it seemed to cover the world.  I inhale
+d the startling spring scent of that hair as I lay trembling on the mountain, then awoke.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2  #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I\rquote ve packed and I\rquote m ready to move out now.  It\rquote s hot, but not uncomfortable in shorts.  I don\rquote t know where yesterday\rquote 
+s weather has gone, but then I don\rquote t know where yesterday\rquote s date has gone either--I certainly don\rquote t feel as if I\rquote ve slept for almost six years.  I think I\rquote ll head north, along the stream.
+\par \tab I\rquote m not sure how to say this, but it appears that my food worries have been taken care of.  I won\rquote t be dining on the food of the gods or vat-grown proteins the way you\rquote 
+d hoped, Dr. Burke, but I think manna from heaven is a suitably impressive substitute.  I haven\rquote t even opened the little ration pack I brought with me.
+\par \tab I should explain.  When I woke up, a scattering 
+of pieces of white bread lay around my camp.  They were definitely bread, not some odd fruit (from pine trees?) and in fact freshly cooked.  I ate a few, and they were delicious.  I cannot describe how they smelled, except to say that the moment I awoke I
+ was taken back to the feeling I had when I stood outside my grandmother\rquote 
+s kitchen as a young child.  We only visited her two or three times a year (but always just after Christmas) and the food was, as the house and the land around it, always a disturbing but wonderful combination of strange and well-known to me.
+\par \tab I gathered the rest and stowed them away in case I can\rquote t find anything else I know is safe to eat today.  Then I scouted around most of sides of the clearing, to see if anything suggested one dire
+ction as more profitable than any other.  To the east I found a stream running north-south, and I\rquote ve decided to follow it.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Well, I\rquote ve lost the stream.  I\rquote m eating my bread now, as I take a mid-day break.  About an hour out of camp, I spotted something i
+n the distance, west of the stream.  A slight young woman was flitting through the trees, dancing a fascinatingly complex pattern with rapid steps.  I called out to her, and she stopped, transfixed.  I slowly moved towards her, wading through the water.  
+A
+s I climbed the hill, I was able to get a better look at her.  For a moment, I almost thought she might be you, Ellen--a figment of my imagination like my father the night before.  But then I realized she was too small, and too young by several years, alm
+ost a girl.
+\par \tab As I reached this conclusion, she turned and fled, her laughter like the wild tinkling of bells.  I chased her, and think I might have caught her had I not been wearing these boots and carrying my pack.  Instead, I ran for perhaps five minutes 
+before she vanished into the trees and I could not find where she had gone.  I tried to return to the creek, which should have been simple with my compass, since I\rquote 
+d lost her so quickly.  But it had apparently slipped away while my back was turned, and I was unable to find it.
+\par \tab My nymph had gotten me lost.  I continued north, hoping to find something other than more trees, and glad I\rquote d taken some of the clear water in the stream before it became shallow and muddy.  I walked until the sun was overhead, then 
+settled down here by this big rock under a particularly shady tree.
+\par \tab I\rquote m for some reason very tired, despite the moderate pace I\rquote ve maintained, and I think I\rquote ll take a quick nap.  I\rquote ve set my alarm for 2:00.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab 
+When my alarm went off, the girl I chased earlier was standing not ten feet from me, watching me sleep. A moment later she fled back into the forest.  Her hair cascaded like waterfalls, and she had covered her lithe body with a garment of leaves such as a
+ real nymph might have worn, had they gone about clad.  Her eyes, in that moment, were liquid pools.  I was afraid of them, not so much of drowning with them before me, but of being constantly haunted by their memory. 
+\par \tab I considered her, and my dream.  I wa
+s in my room, again, but now a child rather than a boy of fifteen.  My mother sat in the discarded wooden swivel chair on which my father always sat when he drew.  The chair before the new one (a term I still use for a chair that he\rquote 
+s owned most of my life
+).  She was reading to me from the big book of Bible stories for children.  In real life, if I remember correctly, the first stories she read were of Noah, because I was passionately interested in the Flood at that time (I once let the bathtub overflow tr
+ying to recreate it and made the repair man very happy) but in my dream she was telling me about Adam before the Fall.
+\par \tab \'93And God then saw that Adam was very lonely, and He said to Himself, \lquote It is not good for the man to be alone.  I will make him a helper.\rquote 
+\par \tab \'93
+First God brought all of the animals to Adam, and Adam named them.  He named the cow, and the rabbit, and the fox and the sheep, and the bear and the dog.  He named all of the birds, so that the quick little one was the hummingbird and the fierce one wi
+th claws was the falcon.
+\par \tab \'93After this was done, God put Adam to sleep.  He took one of his ribs, and then closed up the hole.  From Adam\rquote s rib, God made the first woman.  When he brought her to him, Adam looked at her.  \lquote This is bone of my bone, and flesh 
+of my flesh.  Because she was taken out of Man, she shall be called Woman.\rquote   And so Adam named the last creature.\'94
+\par \tab I never can remember whether it\rquote s true or not that men have one less rib than women.  I never can remember to look it up, either.  Now that I\rquote 
+m probably very far away from the nearest encyclopedia (although I could be wrong about this) I suppose experiment is the only way I can settle the question, if I ever do.
+\par \tab Which brings me back to my dryad.  It is very comforting to know someone else is 
+out there, but very irritating to have that someone flee before you can find out when you really are and whether she speaks English and how to get out of the woods.  Perhaps I will set a trap for Rima, which is what I\rquote 
+ve decided to call her until I can find out her real name.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I\rquote ve found something interesting.  It\rquote s a little past four, and I\rquote ve been walking since the end of my siesta.  I\rquote 
+ve stopped to examine a nicely built stone well that seems to be proof that people do live near here, other than the elusive Rima, who seems to me to be the type who lives in trees and eats only wild berries.  It isn\rquote 
+t exactly high-technology, although it does its job well.  The water is very good, and I\rquote ve replenished my canteen.  I\rquote m tempted to stop here for the night although it won\rquote t be dark for a number of hours.
+\par \tab The well and the thick forestation make me wonder if I may have come to a fallen civilization.  Perhaps there was a nuclear war, or something else (a }{\i\f2 long}{\f2  time ago), and North America\rquote s back the way it was be
+fore even the Indians showed up.  Maybe a squirrel can travel from South Carolina to Las Vegas (I\rquote ll bet California\rquote s fallen into the sea by now) without touching the ground.  Although that doesn\rquote t explain why my locator isn\rquote 
+t working.
+\par \tab The significance (to myself at least) of the 15}{\f2\super th}{\f2  of June in 1980 has been recalled to me, just now--I was six and I almost broke my back at Grandma\rquote s house, jumping on my cousin\rquote 
+s trampoline, which was actually an old inner tube with a rubber sheet stretched across the hole.  I landed wrong, and it flipped me up and then down onto the ground on my back.  I couldn\rquote 
+t walk for five days, and lay in the little bedroom in the old house, flat on my back, holding books up above my head to read until my arms grew tired and I went to sleep, then woke up to read some more.
+\par \tab I remember that room almost as well as my own.  The walls were white, and bumpy like the ceiling in my own house.  Grandma\rquote s closet was in the corner opposite my head, where she kept the black straw broom that made 
+my cousin Henry and me think she was a witch.  She helped us reach this conclusion by never letting us play in the living room after the time I spun Henry around in the chair so fast that he fell out and cracked his head on the coffee table.  He bled and 
+b
+led all over his Sunday clothes and all over my clothes and all over the carpet.  There was a cracked mirror on the side of the closet, which came out a little into the room.  Beside the mirror hung an old calendar, made of cloth, for the impossibly dista
+nt year of 1954.
+\par \tab It is this calendar that brought to my mind this whole sequence--isn\rquote t it curious how the smallest things can pull back the past to us, in full?  The passage of the seasons was illustrated on that calendar by four illustrations woven into 
+the background.  The wooden dipper on this well is notched in precisely the way as that depicted in the scene of summer on my Grandmother\rquote 
+s calendar, with the same rusted iron rings holding it together.  As soon as I saw it, I knew.  All memories, perhaps,
+ arise from such trivial keys, provided either by the world or by our own desire to look back.  Certainly that chipped bucket has unlocked the entire room from my vaults.
+\par \tab Papa\rquote s dresser was black oak, curved in front, and always covered with a white cloth
+.  The bed was brass, with knobs that I would reach my hands out to hold as I lay flat, pretending my hands were chained and I was a prisoner of the evil warlord, or the Russians, or whoever my enemies were at the time.
+\par \tab At night, after Mom turned out the lights and I couldn\rquote 
+t follow the Hardy Boys any more, I would lie awake for hours, listening to Papa clatter about the house past midnight, and thinking that in winter I would be able to sleep because the sound of the furnace turning on and off with its lo
+ud coughs and dull clangs would distract me from my thoughts.
+\par \tab I think that I miss that room more than I miss my own.  It seems to me that my visits to Grandma and Papa\rquote s house were more important, and certainly more fraught with mystery and wonder, than t
+he time I spent at home.  I describe this because the feelings I am experiencing now are similar--this place, this }{\i\f2 time}{\f2 
+, seems charged with memory, ripe with the smell of the past.  I am not certain what this means, but I am certain that it is important.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Tomorrow I will leave the woods.  It\rquote s starting to get dark, and I\rquote m very tired, so I won\rquote 
+t make the odyssey until tomorrow, but I am at their edge.  Just before it grew too dark too see, I saw a line of smoke in the distance, across the field and the road, that seemed to be chimney smoke.
+\par \tab I waited by the well for two hours, playing solitaire and reading, before I heard a startling sound.  I grabbed my things and hid behind a tree, away from the direction of the voices.  I almost laughed when I saw the m
+en.  They reminded me of nothing so much as kindergartners dressed up for Thanksgiving, with their pilgrim hats and black clothes.  One of them even had a musket, clean and new, not shined for a museum.  They stopped at the edge of the clearing, and talke
+d quietly for a moment.  I couldn\rquote 
+t make out the words, but when they were done, the shorter man turned and went back the way they had come.  His tall, sharp-eyed companion dipped some water from the well, drank it, and walked westwards.  As he left the cle
+aring, he turned back and stared hard at the tree behind which I was standing.  My heart skipped a beat.  He frowned and unshouldered his gun, but he turned away and continued walking.  I waited until he was almost out of sight before I left my hiding pla
+ce and followed him.  I am certain that he knew I was behind him, for he turned and looked every few minutes, but he never acknowledged my presence, and I somehow felt that it wasn\rquote 
+t my place to bring it to his attention.  We walked for an hour.  I noticed the trees beginning to thin, and began to drop back farther so as not to be speared in the open by one of his backward glances.
+\par \tab Somehow I lost him.  I swear that he must have melted into the ground, or vanished in a puff of smoke, because one moment I was
+ watching his back as he walked stiffly along, and the next I looked at my watch, and the next he was gone.  I scanned the trees, searching for him, and finally ran up to where he had been, but there was no trace of him.  It was then that I decided to see
+ 
+if the thinning continued and the woods ended.  They did, and as dusk approached I came to this very large field, across which is a black paved road, one-lane and unmarked.  In the distance I saw the smoke, but knew it would be too dark to find its source
+ before I even crossed the field (it was one of those sudden summer sunsets, when the sun sets the clouds ablaze with crimson and gold and azure, then the next moment is gone).  I wonder why anyone would build a fire in this weather--I don\rquote 
+t think I\rquote ll need my sleeping bag tonight, other than to lie on.  Perhaps in the morning I can ask them.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f2 Entry:  8:30 AM, December 20}{\i\f2\super th}{\i\f2 , 1989
+\par }{\f2 \tab I was awakened this morning by a whisper not, I think, part of my dreams.  \'93}{\i\f2 I remember.}{\f2 \'94  The voice was that of an old woman, or a young woman pressed old by the weight of events.  \'93}{\i\f2 I remember,}{\f2 \'94
+ she said again, then was silent.
+\par \tab For a moment I was lying on the soft ground beside an open field, and then I was not.  Instead, I was standing in the library at my high school, staring at
+ myself through the large glass windows that formed its walls, separating it from the rest of D building.  The boy I was as a freshman was leaning against the wall across from me, behind which was his English classroom.  It was break, but he wasn\rquote 
+t talking to anyone.  He was reading a book, probably very interested in the book but even more interested in appearing to have a reason not to talk to everyone.  I knew that it wasn\rquote 
+t because he was shy, exactly--he was talkative, even loud.  He knew everyone (his mother was a teacher, so it was impossible for them not to know him, even if he did not know them).  But he didn\rquote 
+t really feel at home among them.  At their dances he walked around, watching his friends and imagining himself an alien, sent to observe them
+.  Or an agent of the time patrol, sent from the future to impersonate a young boy and watch for his old nemesis, who might at that very moment be pretending to be one of his friends.
+\par \tab In many ways he was a very ignorant boy.  He didn\rquote t know that his algeb
+ra teacher had lectured the class after sending him off on an errand one day, angrily telling them that they were being cruel by resenting and laughing at his always answering all the questions.  He didn\rquote t even notice they were doing it.  He didn
+\rquote t know that until one of them told him years later.  He didn\rquote 
+t know that years later he would, in fact, know some of those people as well as he ever knew anyone, and love them as friends so much that he almost cried at graduation, and only once, for a brief second,
+ thought of himself as a spectator from another time.
+\par \tab He didn\rquote t know that the girl he had a crush on would in time become one of the people he remembered least about, remembering instead only embarrassing stories that featured her as a minor but instrumen
+tal character.  Calling her for Latin homework when he didn\rquote 
+t need to, feeling guilty when he made fun of her behind her back simply because his other friends found her arrogant and boring.  Confessing his unrequited, un-returned love to her in a humiliati
+ng phone call the night after the morning he sat beside her as they won the Quiz Bowl semi-finals and after the afternoon he heard that she had been seen at a basketball game holding hands with a guy from North Randall.
+\par \tab He didn\rquote t know that one of his best friends in the years to come, a boy he sat beside in Honors Biology that year because of alphabetical order, would someday be arrested for murdering his pregnant wife.
+\par \tab He certainly didn\rquote t know that someday he would stand in that library, watching himself and considering his wonderful and terrible ignorance.
+\par \tab It only lasted for a moment.  I watched Laura Stone walk up and ask him whether he thought Mr. Sayers would have them turn in the ten-line notes he\rquote d had them write up on Act II, Scene 3 of \'93Romeo and Juliet\'94
+ the night before.  He said no (he was a very perceptive boy, in his own way).  Then I was back, wondering why I\rquote d been taken back to the last day before Christmas vacation of my freshman year in high school, and who on Earth, other than m
+yself, could possibly look upon such an insignificant moment and say to herself, \'93}{\i\f2 I remember.}{\f2 \'94
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Two hours later, and I\rquote m still not to the road.  It\rquote 
+s cold, and my breath is fogging up my glasses, which is making it difficult to type.  This field can\rquote t be this large.  It simply isn\rquote t possible.  I feel like poor Achilles, inches from the accursed turtle but trapped by Zeno\rquote 
+s silly quibble.  Thank God I gathered all my manna this morning (sensibly enough--who else to thank for manna?) and have a little water left from the well.
+\par \tab I\rquote ve reached the first landmark in this trackless dirt waste (which is actually, I\rquote d say, very good farmland), a forlorn scarecrow weathered almost to nonexistence.  It seemed no more than half a mile distant this morning, but I think
+ the flatness of this land is confusing me.  I\rquote ve readjusted what\rquote s left of the sad fellow\rquote s hat, and offered him half of a piece of bread which he refused (don\rquote t you know that it\rquote 
+s bad luck not to offer to break bread with any down-on-their-luck strangers you meet?)
+\par \tab Looking back and looking ahead, I judge the road to be about as far from me now as I am from the spot at which I camped last night and experienced my morning visitation from the past.  I\rquote m heading out now, and I\rquote 
+ll let you know when I get there if I don\rquote t starve first.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I\rquote 
+ve reached the road, and have to describe a most astounding sight.  Back across the field, where I emerged from the woods, there are a hundred ragged soldiers dressed in Confederate gray marching east.  I can\rquote t make out any 
+details at this distance, but they seem to be growing in number.  When I first sighted them moving in and out of the sparse trees, there were only a handful.  Later, there seemed to be more, and now they are a moving force to be reckoned with (at least co
+mpared to half an hour ago).
+\par \tab I wonder if they\rquote re going to engage a phantom regiment of the North.  I\rquote m tempted to turn back and follow them, but I know that they\rquote ll vanish like my pilgrim if I get too close.  The mysterious chimney (I hope it is a chimney,
+ anyway) has begun to pour forth smoke again, so I\rquote m moving out now to ensure that I make it before nightfall, unless the rocky terrain before me proves as expansive as the field.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I\rquote m only a little over a hundred feet from the mansion, but I think I\rquote ll 
+pause a moment before I go that final distance.  The house is far below me, on the beach, and it makes quite a striking image there.  It is a huge, extravagant mansion, dark and brooding, with foreboding towers and the full range of effects necessary for 
+a splendid haunted house.  It is the house I always wanted my father to draw when I was little, a wooden Victorian monstrosity.  There wasn\rquote 
+t a great deal of demand for such a house, strangely enough, and so I was forced to make pictures of it, which were poor substitutes for the grave architecture I knew my father could have created.
+\par \tab A set of metal spikes set into the cliff face are the only way down.  I\rquote m not ashamed to say that I\rquote m frightened at the prospect of climbing down, but I\rquote ve got to reach that h
+ouse and find out who lives in it.  I wonder if Rima will follow me down.  She\rquote s standing behind a huge rock a good distance behind me, peeping out at me every few minutes to see if I\rquote ve started down the cliff yet.
+\par \tab She\rquote s been following me for a while now, at least since shortly after I left the road.  I didn\rquote 
+t notice her, but its likely she was following me as I followed the musket man, invisible in her forest.  She must have stopped before the field, and waited for me to pass out of sight, then made her way across the shelterless ground.  If so, she\rquote 
+s quite a distance runner.
+\par \tab I hope she does follow me, because I think she\rquote s becoming less afraid of me, and she seems to be the only other \'93real\'94 person around.  Perhaps the mansion will offer me an alternative if I cannot tame the bird girl.  We can\rquote 
+t be the only ones who aren\rquote t specters.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Well, she didn\rquote t follow me.  I\rquote m standing at the bottom of the cliff, looking up.  About halfway down I realized I\rquote 
+d left my canteen sitting beside the rock.  I decided it would be stupid to climb all the way back up with my pack, and so I continued to the bottom.  Now I\rquote m going to go back and get it, without the encumbrance, and perhaps see if Rima\rquote 
+s left her post up top.
+\par \tab The climb was exhilarating and tedious, like a roller-coaster ride drawn out for forty minutes.  I\rquote 
+m sure the sky behind me and the sea were magnificent, but I was afraid to look at anything but the stone and the steel.  At least the spikes seem sturdy enough, and are placed so that I can rest both feet below me.  Well, I\rquote 
+d best be off before it starts getting dark.  It\rquote s not a climb I\rquote d be willing to try after dusk.
+\par 
+\par }{\i\f2 Entry:  6:30 PM, January 12}{\i\f2\super th}{\i\f2 , 1995}{\f2 
+\par \tab The sound of the grandfather clock brought me to consciousness, but not truly to my surroundings:  inst
+ead I was listening to the distant toll of the bell tower, across campus.  I sat in the second row in the large classroom that is beside the grad-student lounge on the fourth floor of Ellis Hall.  I was staring out the window, distracted by the bell.  It 
+was unseasonably warm for that time of year, but a new front from Canada was expected to arrive the next day and return the temperatures to below freezing.
+\par \tab You were defining finite state machines, Dr. Burke, I believe, although I wasn\rquote t paying any attention to that.  The only thing written in my notebook was the terrible joke you\rquote d told us when class began that day:
+\par \tab \'93There was a meeting of a chess club, at the grand hotel where I was staying over break.  Five of them were standing around in the lobby, brag
+ging about their greatest victories, when the concierge walked up to them and asked them to leave.  They left, and I asked the man why he\rquote d thrown them out.  He told me, \lquote I can\rquote t stand chess nuts boasting in an open foyer.\rquote \'94
+
+\par \tab Which is actually very funny, 
+but you must admit it is a terrible joke.  I was watching a piece of white cloth that was caught on a high limb in a winter-naked tree beside the architecture building where my father spent so much time so many years before me.  I couldn\rquote 
+t make out what it was, although it was shaped like a small flag, a surrender from the tree or the building, I wasn\rquote t certain which.
+\par \tab After I grew bored with the banner, I studied the flecks of white paint fallen from the radiator beside me to the new blue carpet below.  I 
+examined the people around me, including Mike Parsons, who I knew had a hangover, and two grad students who were talking quietly throughout the lecture in Japanese.  There was a girl I didn\rquote t know in the row in front of me, who hadn\rquote 
+t been there the first two times the class had met that semester.  From behind, she bore a striking resemblance to my cousin Sarah.
+\par \tab 10:15 came, and the lecture ended.  I was stuffing my books back into my backpack when you spoke to me.  \'93Andrew, can I talk to you a moment after class?\'94
+\par \tab \'93Sure.\'94  You asked me if I might serve as TA for another class you were teaching, and I said I might.  As I left the room, talking to you, my eyes were watching the girl, to see if she really did resemble Sarah.  (You don\rquote 
+t, Ellen, not really, except for your hair and your eyes--not at all.)
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Rima has placed my computer close enough that I can reach it and type now.  My head still hurts terribly, and I can\rquote 
+t put any weight on my right leg yet.  She is a very capable nurse, if silent and distant.
+\par \tab As I suspect you have guessed, I fell from the cliff.  I don\rquote t remember falling, but I took a very nasty blow to the head, and so that isn\rquote 
+t surprising.  I believe that I will try to sleep a bit more before I describe the inside of the house.  Perhaps she will bring me a glass of water, and throw some more wood on the fire (it\rquote 
+s cold in here, and I can hear the wind going mad outside, rattling the windowpane).  I tried to stand on one leg and balance, but I grew very dizzy when I lifted my head above the couch, and I will not try that again soon.  Thank God for Rima.
+\par 
+\par }{\i\f2 Entry:  11:57 AM, March 15}{\i\f2\super th}{\i\f2 , 1984}{\f2 
+\par \tab 
+The grandfather clock is striking again, as I write.  I do not know how long I have been unconscious, but the locator has changed its mind again, so I assume at least a day has passed.  My head throbs incessantly, catching my thoughts between hammer and a
+nvil.  I smell of sweat and antiseptic (I cannot touch, however gingerly, the bandage on my right temple, without almost passing out again).
+\par \tab Rima has just left the room, and I am watching her back and her gracefully silent strides as she moves down the hall.  She hasn\rquote 
+t worn leaves for some time, but jeans and a white sweat-shirt--if I saw her on campus I would not be surprised, at least not by her attire.  I might well still be surprised.  No shoes, still.
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 Now she is gone.  The clock has just now finished striking, twelve deep resonating times--}{\i\f2 
+bong! bong! bong! bong! bong! bong! bong! bong! bong! bong! bong! bong!}{\f2 , every one another painful blow to my sore skull.  Four less, and it would have been the opening of the first scene of \'93Peter Pan\'94.
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab Mother Darling is singing to her children, little Michael (myself) upon her knee.
+\par \'93}{\i\f2 Tender shepherd,
+\par tender shepherd. . .}{\f2 \'94
+\par \tab Her voice is crystalline, and something in me now (and not my head) aches at the sound of it.  Michael itches, but cannot scratch on stage.  I r
+emember at this point that I join Angela (an eighth grader) on the next verse, and listen to myself singing across the years, and the ache is gone and I am Michael.
+\par \tab I cannot find my parents in the audience, although I know they are near the front.  I\rquote m st
+ill itching where the flying rig rubs against my skin under the red-and-white striped pyjamas, near the trapdoor covering my bottom.  Father Darling stomps down the stairs, \'93Muh-ther, I cannot fix my tie!\'94 he whines, his voice cracking on the word 
+\'93tie.\'94
+\par \tab She fusses over him, and the maid quickly ushers us offstage, Wendy and John and myself, exiting stage left.  I crawl under the Lost Boys\rquote  cave, and snuggle with the teddy bear (not my own) under the dark brown covers of my bed, which won
+\rquote t be on-stage for some time.  I listen to the older kids walk around, just outside of my hideaway, knowing that soon I\rquote 
+ll have to leave to have my flying rig hooked up for the big flying scene.  The first time we tested them in rehearsal, Brian More sat on the swing set ba
+ckstage, and I rocketed into the sky without warning, screaming as I neared the lights.  He realized what he\rquote d done, and slowly stood up, lowering me back to the bed.  I wanted him to do it again, but Mrs. Gray wouldn\rquote t let him.
+\par \tab I\rquote m trying to think lovely thoughts, so that I\rquote ll be able to fly when the time comes, but I really need Peter to help me.  \'93Candy!\'94
+\par \tab \'93Christmas!\'94  See?  It doesn\rquote t work without Peter.  And there isn\rquote t room to fly in the cave, which isn\rquote t really big enough for six Lost Boys and Peter (and Wendy and John and Michael, too).  I can\rquote 
+t climb the steel pole we slide down, or I\rquote ll pop out on the stair-steps of the Darling house, a little gopher interrupting Wendy as she sews on Peter\rquote s shadow.  I don\rquote t want to do that, because I know I\rquote m no
+t supposed to, and because Wendy is the most beautiful girl in the world, even if she is my sister, for now.  I scratch idly, chewing on the pajama sleeve until it is damp and sticky with spittle.  Ashamed, I roll it up, and slide through the crossed boar
+ds beside me, emerging under Mrs. Gray\rquote s feet.  \'93I need my rig,\'94
+ I say, whispering the first word, as it catches in my throat, then continuing normally.  As she turns me about, distractedly asking Mitch to roll out the beds, I can feel an odd, sharp pain in the back of my skull.  \'93My head hurts,\'94
+ I complain, and as I say it my head doesn\rquote t hurt anymore.  She snaps the hook into the metal ring sticking through the hole I watched Mother Darling cut in my pajamas, and jerks it, testing.  I feel my shoulder blad
+es pulled back, and know that everything is all right and I am ready to fly.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I\rquote m back now, and my head is, alas, hurting again.  It\rquote 
+s warm here on the couch by the fire, although I can see clumps of wet snow drifting into the sea through the window.  I\rquote ve never seen it snow at the beach before, and the white blanket drawn up to the water\rquote 
+s chin, covering the grainy tan sand, is so beautiful it is almost painful.  I can picture Rima running barefooted in it, first picking up a soft, squishy handful of sno
+w and shaping it into a hard sphere to be hurled into the sea, then reaching deeper and finding the texture of sand, lifting a handful of it and letting it slip through her fingers to the ground with the latest flakes, the grains now on top of the snowfal
+l.
+\par \tab 
+I turn from the window to the room itself.  A hall diminishes into the distance, across from me, and it is up and down this hall that Rima goes so softly.  The red light of the fire reflects in the dark wood paneling of the walls, the smoke pouring up t
+he chimney and out into the white winter sky, like a spirit freed.  I must say that I do not like the way Rima builds a fire--her haphazard arrangements of wood lack both artistry and utility.  But they warm me all the same.
+\par \tab A bookshelf covers the wall opposite the fireplace, by my feet.  I cannot make out the titles of the leather-bound books, but }{\i\f2 The Old Curiosity Shop}{\f2  is lying on the white marble coffee table beside my empty tea glass.  I don\rquote 
+t think that I\rquote ve been reading it, but perhaps I do not remem
+ber correctly, thanks to my still-addled memory.  Above me is a threadbare cloth calendar for 1954.  The months on it are tiny squares, impossible to read now.  I can make out the four scenes in the background, though, clearly.  The first, at the top, is 
+a
+ simple wooden shed beside a wheelbarrow full of apples.  The leaves on the tree overhanging the shed are bright red, fall foliage at its richest.  Below is a frozen lake, almost covered by hundreds of tiny brightly colored and bundled-up skaters frozen f
+o
+rever in their glides.  Spring is the most beautiful, a single Easter lily in full bloom.  At the bottom, a tiny golden-haired girl runs across a golden field, laughing at the sun high in the sky.  They are almost, but not quite, the scenes on the calenda
+r in Grandma\rquote s house.  They are certainly by the same artist.
+\par \tab A narrow stairwell leads down into darkness beside the fireplace, and something about it bothers me.  A damp, earthen odor from below competes with the hearty smell of wood-smoke.  Somehow it se
+ems to me that the stone steps must lead down to the earthen cavern I avoided thinking of only by great effort when I was lying in my sleeping bag back in the clearing.  I wonder how many nights have passed since then?
+\par \tab My head is aching too much.  I do not think I can write any more for now.  When I am back on my feet, I will explore this house thoroughly, and perhaps thereby gain some vital clue.  If not, I must return up the cliff, and look for ghosts.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I dreamed, in my brief rest, of you two.  Mike ha
+d invited you, Ellen, to church with him, and you had invited me.  We were sitting in the last pew (I am a Baptist, after all) when I noticed your red-haired, bespectacled, and (as it seems to me) always slightly confused face in the last row of the choir
+, Dr. Burke.  I tapped you, Ellen, on the shoulder.  \'93That\rquote s Dr. Burke,\'94 I whispered, as Mike turned to look at me.
+\par \tab Mike nodded.  \'93Yeah, he sings in the choir.  His wife is the preacher\rquote s sister.\'94  The choir was singing:
+\par }{\i\f2 In the beauty of the lilies Christ was born across the sea,
+\par With a glory in his bosom that transfigures you and me}{\f2 
+\par \tab It wasn\rquote t really much of a dream.  As far as I know, Mike Parsons hasn\rquote t set foot in a church in all the years I\rquote ve known him, and I never actually saw Dr. Burke in the choir 
+at First Presbyterian.  I did go there, one Sunday, with you, Ellen, but he was at a conference (probably gathering jokes for use in class).  And as far as I know, Dr. Burke, you\rquote ve never mentioned your wife at all.  I don\rquote 
+t even know if you are married.
+\par \tab My head is expanding again, and smoke from the campfire is getting in my eyes so that I cannot see the screen.  I will see what is beyond this clearing, tomorrow.  First thing in the morning.
+\par 
+\par }{\i\f2 Entry:  3:26 PM, May 21}{\i\f2\super st}{\i\f2 , 1982}{\f2 
+\par \tab 
+Several days have passed, I believe.  At first I feverishly wandered in wild dreams and fierce memories, hurled almost bodily into other days.  That delirium (not entirely delirium) is gone, and today I only feel the shadowy presence of a quiet day spent 
+at my uncle\rquote s house on the lake, eating and swimming with my family, lazily napping in the sun.  This is the peace after war.
+\par \tab My head still aches, but only slightly.  Rima still nurses me, and has begun to make the sounds of speech.  It seems to me that sh
+e is recalling rather than learning.  I have begun to love the various objects of this room, and have hope for that day when I am well enough to discover the rest of this house of memory.  Rima closed the door to the cellar, and I will not re-open it.  Th
+e window is open, and a slight breeze causes me to pull my blanket tighter.
+\par \tab A bald man in a white robe is walking along the beach, perhaps left by the great ghost of a schooner which set sail half an hour ago.  I know that he too will soon fade.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab I can l
+ive here, among my past, and live well.  I wrote, some time ago, that it is curious how tiny things can bring back memories in all their power--and I know how those little sparks feel now, after they\rquote 
+ve started a great bonfire.  Or, to measure by my head, how Zeus felt after Athena--but that gives too much importance to my role.  I am still merely a notched bucket, a white bandage or banner on a tree, a striking clock.
+\par \tab Rima is asleep--she sleeps more now that I don\rquote t have to be watched all the time.  I am 
+studying her face, trying to discern all of the forms, abstract and particular, that have become another particular, a real face and not a mosaic.  Just before she went to sleep, she whispered her first words:  }{\i\f2 \'93My mother is very old.\'94
+
+\par }{\f2 \tab \'93How long had she been asleep, love?  Before me.\'94 I asked her.  She seemed troubled for a moment by having spoken, then grew more relaxed--as if, having tested it cautiously, she found the ground solid and her footing sure.
+\par \tab }{\i\f2 \'93A very long time.  Since we all left.\'94}{\f2   
+\par }\pard \ql \fi720\li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \'93Where did we go?\'94
+\par }{\i\f2 \'93Out.  Up.  Looking.\'94}{\f2 
+  She pointed at the ceiling, and beyond to the sky by implication.  I glimpsed it for a second, a thousand Arks and no Flood but restlessness.  She leaned back against the fabric of the couch then, and closed her eyes.  Whe
+n she wakes up I may just kiss her.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\i\f2 Entry: -}{\f2 
+\par \tab The world outside my window has still not settled down--this past hour standing here I have seen mammoths and jet airplanes, holidaying suburbanite sunbathers and men from before Columbus rowing canoes ashore
+.  Some of the phantoms are growing aggressively real--there is less smoke and more sound to them.
+\par \tab In the distance, far out on the horizon where the sea meets the sky, I can see the giantess of the grassy plain striding on the water, surveying her dreams 
+from on high. I wonder which one she will choose.  They cannot be all real and all together.  My chronometer is now blank, but I think it will not stay that way, once she remembers all and loves one day best.
+\par \tab What the \'93giantess\'94 is, precisely, I do not kn
+ow--in some sense an analogue of my scarecrow, I suspect, watching over fallow fields.  But how then to explain her recollection of times before her birth, which was surely long after my day?  Memory is strange, and is ordered by complex and invisible law
+s.  Perhaps birthdays are not such barriers as we think.
+\par }\pard \qc \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 #
+\par }\pard \ql \li0\ri0\sl480\slmult1\widctlpar\faauto\adjustright\rin0\lin0\itap0 {\f2 \tab 
+I have found an old glass bottle, and am considering writing all this down and tossing it into the sea--it may reach you as easily in that manner as it does this way.  But then, you may be upstairs
+, or walking down the hall to find me here, and I can just tell you.  You both certainly live in this house, in my memory, although I do not know if I will meet you here.
+\par \tab In either case, do not forget me, and I promise I will not forget you.  I hear Rima coming, and she is here now, so goodbye.
+\par }}
