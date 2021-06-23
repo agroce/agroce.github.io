@@ -29,11 +29,11 @@ This paper shows that simply estimating the lines of code in each
   according to relative LOC, such that if f has 2x the LOC of g, f
   also will be called twice as often, can (sometimes dramatically)
   improve the effectiveness of random testing for Python programs.  We
-  didn't scientifically prove it, but I would personally speculated
-  this is true for any API-call-based test generation, not just
-  Python.  In Python the need is particularly acute, due to slow code
+  didn't scientifically prove it, but I would personally speculate that
+  this is likely true for <i>any</i> API-call-based test generation, not just
+  Python.  In Python the need is particularly acute, due to the high cost of code
   coverage instrumentation, but in our results sometimes LOC was
-  better than a coverage-driven GA, and both together were usually the
+  better than a coverage-driven GA, even paying that overhead, and both together were usually the
   best approach.  Side note:  when useful, unsurprisingly, swarm
   testing was extremely effective, but it often was not useful.
 </font>
