@@ -248,11 +248,41 @@ Fuller version of the ICSE paper presenting the MAGIC approach to model checking
 <hr>
 <ol>
 
+
+  <li>
+    <a href = "issre23.pdf">
+      <b>Mind the Gap: The Difference Between Coverage and Mutation Score Can Guide Testing Efforts</b></a>
+    <p>
+      Kush Jain, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, and
+    Alex Groce. "Mind the Gap: The Difference Between Coverage and
+    Mutation Score Can Guide Testing Efforts." In <i>IEEE
+    International Symposium on Software Reliability
+    Engineering</i>, accepted for publication, Florence, Italy,
+    October 2023.
+    <p>
+      <font face="Courier New">
+This paper argues that the difference between
+    structural code coverage and mutation score (e.g., percent lines
+    covered minus percent mutants killed) is a powerful tool for
+    understanding testing efforts.  E.g., if a particular file has a
+    high coverage score and low mutation score, it may be important
+    code whose oracle is either highly inadequate or perhaps faulty.
+    There's quite a bit of insight here on the general "structure" of
+    testing efforts, I think, and the paper is worth reading for that
+    aspect as much as for the data on the novel metric itself.
+</font>
+
+<hr>
+  </li>
+  
   <li>
     <a href = "icse22.pdf">
       <b>Looking for Lacunae in Bitcoin Core’s Fuzzing Efforts</b></a>
     <p>
-      Alex Groce, Kush Jain, Rijnard van Tonder, Goutamkumar Tulajappa Kalburgi, and Claire Le Goues, "Looking for Lacunae in Bitcoin Core’s Fuzzing Efforts." In <i>IEEE/ACM International Conference on Software Engineering</i>, accepted for publication, Pittsburgh, Pennsylvania, May 2022.
+      Alex Groce, Kush Jain, Rijnard van Tonder, Goutamkumar Tulajappa
+    Kalburgi, and Claire Le Goues, "Looking for Lacunae in Bitcoin
+    Core’s Fuzzing Efforts." In <i>IEEE/ACM International Conference
+    on Software Engineering</i>, pages 185-186, Pittsburgh, Pennsylvania, May 2022.
     <p>
       <font face="Courier New">
 	This is a short summary of work evaluating (and trying to improve) the fuzzing for Bitcoin Core, partly a paid effort over the summer of 2021, and partly extended to a more academic investigation in the fall of 2021 with colleagues at CMU and Sourcegraph.  The real scoop on this work is in the <a href = "bitcoin_report.pdf">full report</a> prepared for Chaincode/Bitcoin Core, which I think is a very interesting look in particular at the challenge of oracles in fuzzing.
@@ -268,7 +298,7 @@ Fuller version of the ICSE paper presenting the MAGIC approach to model checking
       Alex Groce, Rijnard van Tonder, Goutamkumar Tulajappa Kalburgi,
     and Claire Le Goues, "Making No-Fuss Compiler Fuzzing Effective."
     In <i>ACM SIGPLAN 2022 International Conference on Compiler
-    Construction</i>, accepted for publication, Seoul, South Korea,
+    Construction</i>, pages 194-204, Seoul, South Korea,
     April 2022.
     <p>
       <font face="Courier New">
@@ -291,7 +321,7 @@ Fuller version of the ICSE paper presenting the MAGIC approach to model checking
     <a href = "fuzzing22.pdf">
       <b>Registered Report: First, Fuzz the Mutants</b></a>
     <p>
-      Alex Groce, Kush Jain, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, Kush Jain, and Rahul Gopinath, "Registered Report: First, Fuzz the Mutants." In <i>1st International Fuzzing Workshop</i> (FUZZING), accepted for publication, San Diego, California, April 2022.
+      Alex Groce, Kush Jain, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, Kush Jain, and Rahul Gopinath, "Registered Report: First, Fuzz the Mutants." In <i>1st International Fuzzing Workshop</i> (FUZZING), San Diego, California, April 2022.
     <p>
       <font face="Courier New">
 This proposes a new approach to fuzzing: split the budget for fuzzing between time spent fuzzing mutants of the program you want to fuzz and the program itself.  While this sounds a bit crazy, the paper explains how mutants can help get around blocks to fuzzing progress, and offers some preliminary results that are quite promising.  The idea can be thought of as a generalization of T-Fuzz, really.  We look forward to performing a full evaluation of this approach!
@@ -305,7 +335,7 @@ This proposes a new approach to fuzzing: split the budget for fuzzing between ti
 <b>Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis</b></a>
 <p>
   Alex Groce, Iftekhar Ahmed, Josselin Feist, Gustavo Grieco, Jiri Gesi, Mehran Meidani and Qi Hong Chen.  "Evaluating and Improving Static Analysis Tools Via Differential Mutation Analysis."  In <i>IEEE International Conference on Software Quality,                                                                                 
-  Reliability, and Security</i>, accepted for publication, Hainan Island, China, December 2021.
+  Reliability, and Security</i>, pages 207-218, Hainan Island, China, December 2021.
   <p>
 <font face="Courier New">
 Comparing static analysis tools is hard, because combining a large benchmark based on real code with human confirmation of ground truth is expensive.  This paper proposes that tools can, to some extent, be compared by generating program mutants, and then performing a differential comparison.  This also makes it possible to identify weak spots in a tool based on the results from another tool, without human effort to establish ground truth.  The key insight is that mutants that are detected are likely to be true positives, given the tool did not flag the un-mutated code as having any problems.  While most mutants can't be detected by static analysis at all, those that can be detected by at least one tool are usually of interest to users of the static analysis tools.
@@ -321,7 +351,7 @@ Comparing static analysis tools is hard, because combining a large benchmark bas
 Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, and
   Sang Kil Cha.  "SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Analyses."  In <i>IEEE/ACM International Conference on Automated Software
   Engineering</i> 
-, accepted for publication, Melbourne, Australia, November 2021.
+, pages 227-239, Melbourne, Australia, November 2021.
   <p>
 <font face="Courier New">
 SMARTIAN is an open source fuzzer, based originally on Eclipser, for
@@ -342,7 +372,7 @@ SMARTIAN is an open source fuzzer, based originally on Eclipser, for
 Alex Groce.  "Let a Thousand Flowers Bloom: on the Uses of Diversity in   Software Testing."  In <i>ACM Symposium on
 New Ideas in Programming and Reflections on Software, Onward! Essays, part of SPLASH (ACM SIGPLAN
 Conference on Systems, Programming, Languages and Applications: Software for Humanity)</i> 
-, accepted for publication, Chicago, Illinois, October 2021.
+, pages 136-144, Chicago, Illinois, October 2021.
   <p>
 <font face="Courier New">
 Here you get my (perhaps disjointed, and, according to one reviewer, bitter about paper rejections!), musings on the basic problem that we don't have any one-stop solutions in software testing, and we're unlikely to get any.  This is a mix of technical summaries of techniques for injecting diversity into testing, in order to find as many bugs as possible, and larger-scope musings about the research evaluaton process, and how to deal with the problem of narrow-but-useful methods, where we can't even say quite WHAT narrow application exists, but are fairly sure there is one!  A good snapshot of a lot of my thinking over the years on some of the (to me) most interesting challenges in software testing, if a bit muddled.  I think this and my other Onward! essay are both solid looks inside my head when not limited by the usual RQs and answers format of a research paper.
