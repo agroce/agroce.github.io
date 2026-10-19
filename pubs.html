@@ -34,7 +34,7 @@ Some papers now have "executive summary" comments that explain why you might wan
   <p>
 Josie Holmes, Iftekhar Ahmed, Caius Brindescu, Rahul Gopinath, He Zhang, and Alex Groce.  "Using Relative Lines of Code to Guide
   Automated Test Generation for Python." <i>ACM Transactions on
-  Software Engineering and Methodology</i>, 29(4): 28-1-28:38, 2020.
+  Software Engineering and Methodology</i>, 29(4): 28:1-28:38, 2020.
 <p>
 <font face="Courier New">
 This paper shows that simply estimating the lines of code in each
@@ -275,7 +275,7 @@ on Systems, Programming, Languages and Applications: Software for
       <font face="Courier New">
 This paper has two sides, like Spoon's Monsieur Valentine:  first,
     there is a modest proposal to augment traditional
-    test-driven-devlopment (TDD) with the heavy use of program
+    test-driven-development (TDD) with the heavy use of program
     mutants.  I've been thinking about this since the early 2020s, and
     I still like the idea; I offer some (weak) evidence that the
     addition of mutants doesn't impose a large burden on developers,
@@ -437,7 +437,8 @@ This paper argues that the difference between
     <a href = "fuzzing22.pdf">
       <b>Registered Report: First, Fuzz the Mutants</b></a>
     <p>
-      Alex Groce, Kush Jain, Goutamkumar Tulajappa Kalburgi, Claire Le Goues, Kush Jain, and Rahul Gopinath, "Registered Report: First, Fuzz the Mutants." In <i>1st International Fuzzing Workshop</i> (FUZZING), San Diego, California, April 2022.
+      Alex Groce, Kush Jain, Goutamkumar Tulajappa Kalburgi, Claire Le
+    Goues, and Rahul Gopinath, "Registered Report: First, Fuzz the Mutants." In <i>1st International Fuzzing Workshop</i> (FUZZING), San Diego, California, April 2022.
     <p>
       <font face="Courier New">
 This proposes a new approach to fuzzing: split the budget for fuzzing between time spent fuzzing mutants of the program you want to fuzz and the program itself.  While this sounds a bit crazy, the paper explains how mutants can help get around blocks to fuzzing progress, and offers some preliminary results that are quite promising.  The idea can be thought of as a generalization of T-Fuzz, really.  We look forward to performing a full evaluation of this approach!
@@ -472,7 +473,7 @@ Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, and
 <font face="Courier New">
 SMARTIAN is an open source fuzzer, based originally on Eclipser, for
   fuzzing smart contracts.  This paper presents the novel fuzzing
-  techniques integerated into SMARTIAN to make it the (to date) most
+  techniques integrated into SMARTIAN to make it the (to date) most
   effective smart contract fuzzing tool (we believe) of its kind, and
   an unusually thorough set of experimental comparisons of different
   contract analysis tools.
@@ -491,7 +492,7 @@ Conference on Systems, Programming, Languages and Applications: Software for Hum
 , pages 136-144, Chicago, Illinois, October 2021.
   <p>
 <font face="Courier New">
-Here you get my (perhaps disjointed, and, according to one reviewer, bitter about paper rejections!), musings on the basic problem that we don't have any one-stop solutions in software testing, and we're unlikely to get any.  This is a mix of technical summaries of techniques for injecting diversity into testing, in order to find as many bugs as possible, and larger-scope musings about the research evaluaton process, and how to deal with the problem of narrow-but-useful methods, where we can't even say quite WHAT narrow application exists, but are fairly sure there is one!  A good snapshot of a lot of my thinking over the years on some of the (to me) most interesting challenges in software testing, if a bit muddled.  I think this and my other Onward! essay are both solid looks inside my head when not limited by the usual RQs and answers format of a research paper.
+Here you get my (perhaps disjointed, and, according to one reviewer, bitter about paper rejections!), musings on the basic problem that we don't have any one-stop solutions in software testing, and we're unlikely to get any.  This is a mix of technical summaries of techniques for injecting diversity into testing, in order to find as many bugs as possible, and larger-scope musings about the research evaluation process, and how to deal with the problem of narrow-but-useful methods, where we can't even say quite WHAT narrow application exists, but are fairly sure there is one!  A good snapshot of a lot of my thinking over the years on some of the (to me) most interesting challenges in software testing, if a bit muddled.  I think this and my other Onward! essay are both solid looks inside my head when not limited by the usual RQs and answers format of a research paper.
 </font>  
 
 <hr>
@@ -639,7 +640,7 @@ Framework for Binaries and Smart Contracts."
   Engineering</i>, San Diego, California, November 2019.
   <p>
 <font face="Courier New">
-Presents Manticore, a powerful and easy-to-script/extend symboliic
+Presents Manticore, a powerful and easy-to-script/extend symbolic
   execution framework that is built to support multiple target
   architectures (native code or EVM for now, possibly WASM and others
   in the future).
@@ -672,7 +673,7 @@ Presents Manticore, a powerful and easy-to-script/extend symboliic
     <p>
 <font face="Courier New">
 Further heuristics and results to improve the code-reduction
-  (delta-debugging) based approach to automatic resource adapations,
+  (delta-debugging) based approach to automatic resource adaptations,
   part of the DARPA BRASS project.
 </font>
   <hr>  
@@ -763,7 +764,7 @@ Target Selection for Test-Based Resource Adaptation
 <p>
 Arpit Christi and Alex Groce.  "Target Selection for Test-Based
   Resource Adaptation."  In <i>IEEE International Conference on
-  Software Quality</i>, pages 458-469, Lisbon, Portugal,
+  Software Quality, Reliability, and Security</i>, pages 458-469, Lisbon, Portugal,
   July 2018.
 <p>
 <font face="Courier New">
@@ -779,8 +780,8 @@ This paper improves the results of our previous work on test-based
 An Extensible, Regular-Expression-Based Tool for Multi-Language Mutant Generation
 </b></a>
 <p>
-Alex Groce, Josie Holmes, Darko Marinov, August Shi, and Lingming Zhang.  "An Extensible, Regular-Expression-Based Tool for Multi-Language Mutant Generation."  In <i>IEEE/ACM International Conference on Automated Software
-Engineering</i>, pages 25-28, Gotherburg, Sweden, May-June 2018.
+Alex Groce, Josie Holmes, Darko Marinov, August Shi, and Lingming Zhang.  "An Extensible, Regular-Expression-Based Tool for Multi-Language Mutant Generation."  In <i>IACM/IEEE International Conference on Software
+Engineering</i>, pages 25-28, Gothenburg, Sweden, May-June 2018.
 <p>
 <font face="Courier New">
 Mutant generation usually involves either working at the bytecode level, or parsing the language of a source file.  We show that a text-based approach, using much less effort, can extend the reach of mutation to new languages, including Apple's Swift, and make creating custom mutations almost trivial.
@@ -796,7 +797,7 @@ DeepState: Symbolic Unit Testing for C and C++
 Peter Goodman and Alex Groce.  "DeepState: Symbolic Unit Testing for C and C++."  In <i>NDSS 18 Workshop on Binary Analysis Research</i>, San Diego, California, February 2018.
 <p>
 <font face="Courier New">
-The security and testing communities have produced powerful tools, including symbolic execution engines and sophisticated fuzzers.  Unfortunately, not many developers know how to use these tools, learning one does not make learning another trivial, and the tools have significant limitations -- and bugs.  DeepState offers a front-end to such tools that resembles a unit testing framework such as Google Test, but allows generation of inputs via a selected back-end.  Right now, DeepState offers access to angr and Manticore, as well as Dr. Memory's fuzzer.  In the future, we plan to extend it to other back-ends.  In addition to this gain in ease of use (and ability to find a tool that works on your problem, DeepState also provides high-level heuristic aids to improve the performance of the back-ends.  This makes DeepState a powerful platform for exploring novel techniques to improve test generation.
+The security and testing communities have produced powerful tools, including symbolic execution engines and sophisticated fuzzers.  Unfortunately, not many developers know how to use these tools, learning one does not make learning another trivial, and the tools have significant limitations -- and bugs.  DeepState offers a front-end to such tools that resembles a unit testing framework such as Google Test, but allows generation of inputs via a selected back-end.  Right now, DeepState offers access to angr and Manticore, as well as Dr. Memory's fuzzer.  In the future, we plan to extend it to other back-ends.  In addition to this gain in ease of use (and ability to find a tool that works on your problem), DeepState also provides high-level heuristic aids to improve the performance of the back-ends.  This makes DeepState a powerful platform for exploring novel techniques to improve test generation.
 </font>
 <hr>
 </li>
@@ -938,7 +939,7 @@ Alex Groce, Iftekhar Ahmed, Carlos Jensen, and Paul E. McKenney.  "How Verified 
 <li>
 <a href = "issre15.pdf"><b>How Hard Does Mutation Analysis Have to Be, Anyway?</b></a>
 <p>
-Rahul Gopinath,Mohammad  Amin Alipour, Iftekhar Ahmed, Carlos Jensen, and Alex Groce.  "How Hard Does Mutation Analysis Have to Be, Anyway?" In <i>IEEE International Symposium on Software Reliability Engineering</i>, pages 216-227, Gaithersburg, Maryland, November 2015.
+Rahul Gopinath, Mohammad  Amin Alipour, Iftekhar Ahmed, Carlos Jensen, and Alex Groce.  "How Hard Does Mutation Analysis Have to Be, Anyway?" In <i>IEEE International Symposium on Software Reliability Engineering</i>, pages 216-227, Gaithersburg, Maryland, November 2015.
 <hr>
 </li>
 <li>
@@ -957,7 +958,7 @@ Alex Groce and Jervis Pinto.  "A Little Language for Testing." In <i>NASA Formal
 <a href = "iwsm14.pdf">
 <b>Taming a Fuzzer Using Delta Debugging Trails</b></a>
 <p>
-Yuanli Pei, Arpit Christi, Xiaoli Fern, Alex Groce, and Weng-Keen Wong.  "Taming a Fuzzer Using Delta Debugging Trails."  In <i>3rd International Workshop on Software Mining</i>, Shenzen, China, December 2014.
+Yuanli Pei, Arpit Christi, Xiaoli Fern, Alex Groce, and Weng-Keen Wong.  "Taming a Fuzzer Using Delta Debugging Trails."  In <i>3rd International Workshop on Software Mining</i>, Shenzhen, China, December 2014.
 <hr>
 </li>
 <li>
@@ -1347,7 +1348,7 @@ James H. Andrews, Yihao Zhang, and Alex Groce.
 <b>Verifying C++ with STL Containers via Predicate Abstraction</b>
 <br>
 <p>
-Nicolas Blanc, Daniel Kroening, and Alex Groce.  "Verifying C++ with STL Containers via Predicate Abstraction."  Technical Reports 506, ETZ Zurich, January 2006.
+Nicolas Blanc, Daniel Kroening, and Alex Groce.  "Verifying C++ with STL Containers via Predicate Abstraction."  Technical Report 506, ETH Zurich, January 2006.
 </li>
 <li>
 <a href = "thesis.pdf">
